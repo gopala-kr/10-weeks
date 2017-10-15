@@ -3,7 +3,7 @@
 
 *********************
 * [[Week-1](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/01-react-ecosystem)] - react ecosystem : react, redux, relay, graphql, react-native
-* [Week-2]
+* [[Week-2](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/lets-complete-js-stack)] - lets complete js stack : nodejs, expressjs, angularjs, vue.js, meteorjs
 * [Week-3]
 * [Week-4]
 * [Week-5]
