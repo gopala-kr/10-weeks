@@ -171,3 +171,36 @@ If more clients requests require Blocking IO Operations, then almost all threads
                                         <noscript><img src="https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism.png" alt="Node JS Architecture, Single Threaded Event Loop" width="579" height="102" class="aligncenter size-large wp-image-7470" srcset="https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism.png 579w, https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism-450x79.png 450w, https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism-150x26.png 150w" sizes="(max-width: 579px) 100vw, 579px" /></noscript>
                                     </a>
                                 </p>
+                                
+                                
+                                <p>For Example:</p><pre class="prettyprint">
+function1(function2,callback1);
+function2(function3,callback2);
+function3(input-params);
+</pre>
+                                <p><strong>NOTE</strong>: &#8211;</p>
+                                <ul>
+                                    <li>If you don’t understand how these functions are executed, then I feel you are not familiar with Java Script Functions and Callback mechanism.</li>
+                                    <li>We should have some idea about Java Script functions and Callback mechanisms. Please go through some online tutorial before starting our Node JS Application development.</li>
+                                </ul>
+                                <h3>Node JS Architecture &#8211; Single Threaded Event Loop Advantages</h3>
+                                <ol>
+                                    <li>Handling more and more concurrent client’s request is very easy.</li>
+                                    <li>Even though our Node JS Application receives more and more Concurrent client requests, there is no need of creating more and more threads, because of Event loop.</li>
+                                    <li>Node JS application uses less Threads so that it can utilize only less resources or memory</li>
+                                </ol>
+                                <h3>Event Loop Pseudo Code</h3>
+                                <p>As I’m a Java Developer, I will try to explain &#8220;How Event Loop works&#8221; in Java terminology. It is not in pure Java code, I guess everyone can understand this. If you face any issues in understanding this, please drop me a comment.</p><pre class="prettyprint">
+public class EventLoop {
+while(true){
+        	if(Event Queue receives a JavaScript Function Call){
+        		ClientRequest request = EventQueue.getClientRequest();
+                            If(request requires BlokingIO or takes more computation time)
+                                    Assign request to Thread T1
+                            Else
+                                  Process and Prepare response
+                  }
+            }
+} 
+</pre>
+                                <p>That&#8217;s all for Node JS Architecture and Node JS single threaded event loop.</p>
