@@ -95,4 +95,79 @@ If more clients requests require Blocking IO Operations, then almost all threads
                                 <h3>Node JS Architecture &#8211; Single Threaded Event Loop</h3>
                                 <p>Node JS Platform does not follow Request/Response Multi-Threaded Stateless Model. It follows Single Threaded with Event Loop Model. Node JS Processing model mainly based on Javascript Event based model with Javascript callback mechanism.</p>
 
-
+<p>You should have some good knowledge about how Javascript events and callback mechanism works. If you don’t know, Please go through those posts or tutorials first and get some idea before moving to the next step in this post.</p>
+                                <p>As Node JS follows this architecture, it can handle more and more concurrent client requests very easily. Before discussing this model internals, first go through the diagram below.</p>
+                                <p>I tried to design this diagram to explain each and every point of Node JS Internals.</p>
+                                <p>The main heart of Node JS Processing model is &#8220;Event Loop&#8221;. If we understand this, then it is very easy to understand the Node JS Internals.</p>
+                                <p><strong>Single Threaded Event Loop Model Processing Steps</strong>:</p>
+                                <ul>
+                                    <li>Clients Send request to Web Server.</li>
+                                    <li>Node JS Web Server internally maintains a Limited Thread pool to provide services to the Client Requests.</li>
+                                    <li>Node JS Web Server receives those requests and places them into a Queue. It is known as &#8220;Event Queue&#8221;.</li>
+                                    <li>Node JS Web Server internally has a Component, known as &#8220;Event Loop&#8221;. Why it got this name is that it uses indefinite loop to receive requests and process them. (See some Java Pseudo code to understand this below).</li>
+                                    <li>Event Loop uses Single Thread only. It is main heart of Node JS Platform Processing Model.</li>
+                                    <li>Even Loop checks any Client Request is placed in Event Queue. If no, then wait for incoming requests for indefinitely.</li>
+                                    <li>If yes, then pick up one Client Request from Event Queue
+                                        <ul>
+                                            <li>Starts process that Client Request</li>
+                                            <li>If that Client Request Does Not requires any Blocking IO Operations, then process everything, prepare response and send it back to client.</li>
+                                            <li>If that Client Request requires some Blocking IO Operations like interacting with Database, File System, External Services then it will follow different approach
+                                                <ul>
+                                                    <li>Checks Threads availability from Internal Thread Pool</li>
+                                                    <li>Picks up one Thread and assign this Client Request to that thread.</li>
+                                                    <li>That Thread is responsible for taking that request, process it, perform Blocking IO operations, prepare response and send it back to the Event Loop</li>
+                                                    <li>Event Loop in turn, sends that Response to the respective Client.</li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <p>
+                                    <a href="https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model.png"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-1024x768.png" alt="NodeJS-Single-Thread-Event-Model" width="660" height="495" class="lazy lazy-hidden aligncenter size-large wp-image-7465" data-lazy-srcset="https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-1024x768.png 1024w, https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-450x338.png 450w, https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-700x525.png 700w, https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-150x113.png 150w, https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model.png 1062w" data-lazy-sizes="(max-width: 660px) 100vw, 660px" />
+                                        <noscript><img src="https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-1024x768.png" alt="NodeJS-Single-Thread-Event-Model" width="660" height="495" class="aligncenter size-large wp-image-7465" srcset="https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-1024x768.png 1024w, https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-450x338.png 450w, https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-700x525.png 700w, https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model-150x113.png 150w, https://cdn.journaldev.com/wp-content/uploads/2015/04/NodeJS-Single-Thread-Event-Model.png 1062w" sizes="(max-width: 660px) 100vw, 660px" /></noscript>
+                                    </a>
+                                </p>
+                                <p><strong>Diagram Description</strong>:</p>
+                                <ul>
+                                    <li>Here &#8220;n&#8221; number of Clients Send request to Web Server. Let us assume they are accessing our Web Application concurrently.</li>
+                                    <li>Let us assume, our Clients are Client-1, Client-2… and Client-n.</li>
+                                    <li>Web Server internally maintains a Limited Thread pool. Let us assume &#8220;m&#8221; number of Threads in Thread pool.</li>
+                                    <li>Node JS Web Server receives Client-1, Client-2… and Client-n Requests and places them in the Event Queue.</li>
+                                    <li>Node JS Even Loop Picks up those requests one by one.
+                                        <ul>
+                                            <li>Even Loop pickups Client-1 Request-1
+                                                <ul>
+                                                    <li> Checks whether Client-1 Request-1 does require any Blocking IO Operations or takes more time for complex computation tasks.</li>
+                                                    <li>As this request is simple computation and Non-Blocking IO task, it does not require separate Thread to process it.</li>
+                                                    <li>Event Loop process all steps provided in that Client-1 Request-1 Operation (Here Operations means Java Script’s functions) and prepares Response-1</li>
+                                                    <li>Event Loop sends Response-1 to Client-1</li>
+                                                </ul>
+                                            </li>
+                                            <li>Even Loop pickups Client-2 Request-2
+                                                <ul>
+                                                    <li> Checks whether Client-2 Request-2does require any Blocking IO Operations or takes more time for complex computation tasks.</li>
+                                                    <li>As this request is simple computation and Non-Blocking IO task, it does not require separate Thread to process it.</li>
+                                                    <li>Event Loop process all steps provided in that Client-2 Request-2 Operation and prepares Response-2</li>
+                                                    <li>Event Loop sends Response-2 to Client-2</li>
+                                                </ul>
+                                            </li>
+                                            <li>Even Loop pickups Client-n Request-n
+                                                <ul>
+                                                    <li> Checks whether Client-n Request-n does require any Blocking IO Operations or takes more time for complex computation tasks.</li>
+                                                    <li>As this request is very complex computation or Blocking IO task, Even Loop does not process this request.</li>
+                                                    <li>Event Loop picks up Thread T-1 from Internal Thread pool and assigns this Client-n Request-n to Thread T-1</li>
+                                                    <li>Thread T-1 reads and process Request-n, perform necessary Blocking IO or Computation task, and finally prepares Response-n</li>
+                                                    <li>Thread T-1 sends this Response-n to Event Loop</li>
+                                                    <li>Event Loop in turn, sends this Response-n to Client-n</li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                                <p>Here Client Request is a call to one or more Java Script Functions. Java Script Functions may call other functions or may utilize its Callback functions nature.</p>
+                                <p>So Each Client Request looks like as shown below:</p>
+                                <p>
+                                    <a href="https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism.png"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="image" data-lazy-src="https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism.png" alt="Node JS Architecture, Single Threaded Event Loop" width="579" height="102" class="lazy lazy-hidden aligncenter size-large wp-image-7470" data-lazy-srcset="https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism.png 579w, https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism-450x79.png 450w, https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism-150x26.png 150w" data-lazy-sizes="(max-width: 579px) 100vw, 579px" />
+                                        <noscript><img src="https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism.png" alt="Node JS Architecture, Single Threaded Event Loop" width="579" height="102" class="aligncenter size-large wp-image-7470" srcset="https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism.png 579w, https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism-450x79.png 450w, https://cdn.journaldev.com/wp-content/uploads/2015/04/javascript-callback-mechanism-150x26.png 150w" sizes="(max-width: 579px) 100vw, 579px" /></noscript>
+                                    </a>
+                                </p>
