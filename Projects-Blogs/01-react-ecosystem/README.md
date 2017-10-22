@@ -2,12 +2,12 @@
  
  ## react ecosystem : react, redux, relay, graphql, react-native
  
-I have given sometime to explore react ecosystem from last friday. Yet react is a big tech ecosystem to learn completely in one week, I wanted to understand the core concepts behind it. I have bit of experience in full-stack web apps using SAP technologies(past 3 years): webdypro applications(frontend is drag and drop UI library + backend completely in ABAP); CRM webui ; Hybris(an e-commerce platform - front end is js stack + backend is CRM); extensive experience in webservices and API's; bit of learned knowledge on Fiori app development using SAPUI5 library on HCP. My curiousnes of learning has drawn me towards open source libraries and frameworks. I have been fascinated by concept of open source and its potential impact in the world of computer technologies; I have started exploring it bit-by-bit.
+I have given sometime to explore react ecosystem from last friday. Yet react is a big technology stack to learn completely in one week, I wanted to understand the core concepts behind it. I have bit of experience in full-stack web apps using SAP technologies(past 3 years): webdypro applications(frontend is drag and drop UI library + backend completely in ABAP); CRM webui ; Hybris(an e-commerce platform - front end is js stack + backend is CRM); extensive experience in webservices and API's; bit of learned knowledge on Fiori app development using SAPUI5 library on HCP. My curiousnes of learning has drawn me towards open source libraries and frameworks. I have been fascinated by concept of open source and its potential impact in the world of computer technologies; I have started exploring it bit-by-bit.
 
 I always follow my below table to get a gist of anything new in technology:
 
 ____________________________
- | HN        | Medium         | Reddit |  Quora-QA  | Stack-Overflow QA| Awesome-gh | Online-Courses (lynda.com)| Official-Docs |
+ | Hacker News        | Medium         | Reddit |  Quora-QA  | Stack-Overflow QA| Awesome-gh | Online-Courses (lynda.com)| Official-Docs |
 | ------------- |:-------------:| -----:| -----:|-----:|-----:|-----:| -----:|
 |  [react](https://hn.algolia.com/?query=react&sort=byPopularity&prefix&page=0&dateRange=all&type=story)  | [react](https://medium.com/tag/react?source=related)  | [react](https://www.reddit.com/r/reactjs/)  | [react](https://www.quora.com/topic/React-JavaScript-library)  |  [react](https://stackoverflow.com/search?q=react)    | [react](https://github.com/enaqx/awesome-react)  | [react](https://www.lynda.com/React-js-training-tutorials/7049-0.html)  | [react](https://reactjs.org/)  |
 |  [redux](https://hn.algolia.com/?query=redux&sort=byPopularity&prefix&page=0&dateRange=all&type=story)  | [redux](https://medium.com/tag/redux)  | [redux](https://www.reddit.com/r/reduxjs/)  | [redux](https://www.quora.com/topic/Redux-JavaScript-library)  |   [redux](https://stackoverflow.com/search?q=redux)   | [redux](https://github.com/xgrommx/awesome-redux)  | [redux](https://www.lynda.com/Redux-tutorials/11496-0.html)  | [redux](http://redux.js.org/)  |
@@ -29,7 +29,7 @@ There are almost 2K blogs,articles and tutorials teaching about react every mont
 
 React has been adopted by top giants Facebook, Instagram, NetflixNY, Times, Khan Academy, Codecademy, WhatsApp, Vivaldi Browser, Dropbox,  Yahoo Mail, many [more](https://github.com/facebook/react/wiki/sites-using-react) startups and it is going to take over the web.
 
-React is a just front-end UI library, in order to build a complete full stack react application we will have to use supporting frameworks. Facebook and other communities provides supporting libraries and frameworks, such as flux, redux, relay, graphql. React can also be used with other frameworks ex: angularjs.
+React is  just a front-end UI library, in order to build a complete full stack react application we will have to use supporting frameworks. Facebook and other communities provides supporting libraries and frameworks, such as flux, redux, relay, graphql. React can also be used with other frameworks ex: angularjs.
 
 Lets explore them in details...
 
