@@ -1,10 +1,10 @@
 
-> I'm taking up a challenge to learn a new technology every week from Oct-2017. My goal to learn idea behind most of the buzz words in technology(within next 10 weeks), to build a simple application using it, and a blog about it. I'm more interested in answers to my wh questions..what-why-when-how-who/where..
+> I'm taking up a challenge to learn a new technology every week from Oct-2017. My goal is to get the core idea behind most of the buzz words in technology(within next 10 weeks), to build a simple application using it, and a blog about it. I'm more interested in answers to my wh questions..what-why-when-how-who/where..
 
 *********************
-* [[Week-1](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/01-react-ecosystem)] - react ecosystem : react, redux, relay, graphql, react-native
-* [[Week-2](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/02-lets-complete-js-stack)] - lets complete js stack : nodejs, expressjs, angularjs, vue.js, meteorjs
-* [Week-3]
+* [[Week-1](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/01-react-ecosystem)] 15-Oct-2017 - react ecosystem : react, redux, relay, graphql, react-native
+* [[Week-2](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/02-lets-complete-js-stack)] 22-Oct-2017 - lets complete js stack : nodejs, expressjs, angularjs, vue.js, meteorjs
+* [[Week-3](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/backend-development)] 29-Oct-2017 - case study : backend development
 * [Week-4]
 * [Week-5]
 * [Week-6]
