@@ -331,5 +331,6 @@ Angularjs & vuejs
 <td>2017-08-15</td>
 <td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
 </tr>
-</table>                                                                                     
+</table>      
+
 ********************
