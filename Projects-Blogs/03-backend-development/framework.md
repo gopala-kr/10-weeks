@@ -1,0 +1,99 @@
+
+## What is a framework?
+
+<p>What is better? Smarter programmers or safer programming environments?</a>; is the impetus for this article.&nbsp; After I stuck my foot in it (again), saying that .NET and MFC are not frameworks, Paul Watson asked one of the two obvious questions--"what is a framework?" (the other obvious question being, "If .NET and MFC are not frameworks, then what are they?")&nbsp; Well, Paul's question is an excellent one (and the better of the two, I think), and it led me down this road in an attempt to put my money where my mouth is, as it were.&nbsp; So, here goes.&nbsp;&nbsp;&nbsp; I'd like to hear your opinions as to whether you agree or disagree with my analysis, what areas you'd like to have explored in further detail, and whether you think this fits in your own experiences.&nbsp; I've tried to keep this article brief (isn't that a welcome change?), and I'll leave it to the reader responses to determine if there's anything that needs elaboration.</p>
+<h2>Introduction</h2>
+<p>From my perspective, a framework does several things:</p>
+<ul>
+<li>it makes it easier to work with complex technologies 
+</li><li>it ties together a bunch of discrete objects/components into something more useful 
+</li><li>it forces the team (or just me) to implement code in a way that promotes consistent coding, fewer bugs, and more flexible applications 
+</li><li>everyone can easily test and debug the code, even code that they didn't write </li></ul>
+<p>If I look at this list of vague framework requirements, I come up with a set of specific classifications that define a framework:</p>
+<ul>
+<li>wrappers.&nbsp; A wrapper:
+<ul>
+<li>simplifies an interface to a technology 
+</li><li>reduces/eliminates repetitive tasks 
+</li><li>increases application flexibility through abstraction 
+</li><li>are often re-usable regardless of high level design considerations </li></ul>
+</li><li>architectures.&nbsp; An architecture:
+<ul>
+<li>manages a collection of discrete objects 
+</li><li>implements a set of specific design elements </li></ul>
+</li><li>methodologies: A methodology:
+<ul>
+<li>enforces the adherence to a consistent design approach 
+</li><li>decouples object dependencies 
+</li><li>are often re-usable regardless application requirements </li></ul></li></ul>
+<p>So, before talking about frameworks, we need to talk about wrappers, architectures, and methodologies.&nbsp; After that, I'm not sure what will be left to say about frameworks!</p>
+<h2>A Framework Is...</h2>
+<h3>A Wrapper</h3>
+<p><img height="159" src="https://www.codeproject.com/KB/architecture/WhatIsAFramework/wrapper.jpg" width="241" border="0"></p>
+<p>A wrapper is way of repackaging a function or set of functions (related or not) to achieve one or more of the following goals (probably incomplete):</p>
+<ul>
+<li>Simplification of use 
+</li><li>Consistency in interface 
+</li><li>Enhancement of core functionality 
+</li><li>Collecting discrete processes into a logical association (an object) </li></ul>
+<p>It's easy to fall into the idea that everything is a wrapper, just like saying "everything is relative" (which is untrue, because that statement itself is an absolute), but if you think about it, not everything is a wrapper.&nbsp; Most of MFC and .NET are wrappers are the core API's.&nbsp; Some are laughably so, providing classes that merely wrap messages into inline methods.&nbsp; Other wrappers are more complex.&nbsp; For example, I've written a wrapper for the Visio COM object that takes all the grunt work out of using Visio's primitive functions (primitive in the sense of "fundamental", as opposed to "poorly implemented") to do basic things like drop shapes, connect shapes, and read a shape collection.</p>
+<p>But then, you get into implementation that truly provides new functionality.&nbsp; Yes, it utilizes other objects, other API's, even other wrappers, but it isn't a wrapper in itself because it does something totally new, rather than just adding to, subtracting from, or managing a collection of existing work.&nbsp; A wrapper modifies existing behavior.&nbsp; There's a lot of code out there that creates new behavior (thus becoming subject to </p>
+<h3>An Architecture</h3>
+<p><img height="170" src="https://www.codeproject.com/KB/architecture/WhatIsAFramework/architecture.jpg" width="289" border="0"></p>
+<p>An architecture is a style that incorporates specific design elements.&nbsp; Obviously, a framework needs to have a design.&nbsp; Its architecture is separate from the collection of wrappers that it implements and from the enforcement of a specific implementation methodology.&nbsp; MFC's document-view classes are an architecture.&nbsp; Essentially, an architecture implements associations between objects--inheritance, container, proxy, collection, etc.&nbsp; Architectures have the interesting attribute that, if you don't like them, you can usually ignore them or replace them (at least at the beginning of a project).&nbsp; Architectures can and are useful because they create a re-usable structure (a collection of objects) that provide some enhanced functionality, but once you start using them, you're pretty much stuck with them unless you do some major refactoring.</p>
+<h3>A Methodology</h3>
+<p><img height="194" src="https://www.codeproject.com/KB/architecture/WhatIsAFramework/methodology.jpg" width="337" border="0"></p>
+<p>Let's look at this word:</p>
+<ul>
+<li>Method - a way of doing something 
+</li><li>-ology - in a "scientific" manner--designed, consistent, repeatable, testable, proven </li></ul>
+<p>or, if you want to look it up in the dictionary: <i>A body of practices, procedures, and rules used by those who work in a discipline.</i></p>
+<p>OK, we've all worked with design methodologies, but not too many people have worked with a framework that implements a particular methodology.&nbsp; I don't think arguing that MFC is a methodology (with exceptions) is the right way to think about classes.&nbsp; While a class specifies visibility, interface, and inheritance usage, and these, along with language syntax, can certainly be classified as "a body of practices, procedures, and rules", saying that a class or a collection of classes is a methodology is like saying that a bunch of leaves make a tree.&nbsp; A methodology fills in the supporting structure.&nbsp; Is MFC's message mapping implementation a methodology?&nbsp; Mostly, yes.&nbsp; While I view it primarily as an architecture that wraps the underlying API, and you don't have to use it if you don't want to, in some cases you pretty much can't avoid using it, especially when you want to define specialized message handlers.&nbsp; You have to use the method that MFC implements in order to specify and override the base class implementation.&nbsp; And since this is an application wide issue, it fits better into the definition of a methodology than a wrapper (which it is) or an architecture (which it is).&nbsp; So, things can be fuzzy, and sometimes they can feel like splitting hairs, but it doesn't detract from the value of looking at methodology as a classification.</p>
+<p>While architectures deal with the associations between things, a methodology deals with the interaction between things.&nbsp; The first is a passive relationship and the second is an activity.&nbsp; Most of the methodology that I implement is in the activity of communicating between objects, managing data persistence, responding to user events, etc.&nbsp; Within those activities are architectures that associate interrelated objects.</p>
+<h4>Design Patterns</h4>
+<p>Design patterns are both architectures and methodologies.&nbsp; The structural patterns are more architecture, when the creational and behavioral patterns are more methodologies because their usage enforces a particular method of interaction.&nbsp; However you implement, say, behavioral patterns, you're entire application has to adhere to that implementation.&nbsp; However, I will say this one thing--design patterns are in a category that I would call "lightweight methodologies".&nbsp; They are not necessarily heavy handed about how components and objects interact with each other.</p>
+<h3>Heavyweight Frameworks</h3>
+<p>The <a href="http://www.codeproject.com/cs/menu/aal-5a.asp">Application Automation Layer</a> that I've written about (you really didn't think I'd write about frameworks without mentioning the AAL, did you?) is what I'd call a heavyweight framework.&nbsp; It strictly enforces (to within the reasonable realm of the possible) component management, data interaction, the usage of external XML files for GUI definitions, scripting driven functional programming, etc.&nbsp; Now, you may all say that this is excessive, but I must disagree.&nbsp; We need frameworks like this to improve quality, consistency, and usability.&nbsp; Furthermore, a heavyweight framework can (and has been proven to) allow even junior programmers to be productive in a large scale development effort with minimal guidance.&nbsp; Why?&nbsp; Because the framework doesn't provide a lot of room for, well, screwing up.&nbsp; Even as an experienced programmer, it helps me from screwing up (for example, taking shortcuts) as well!</p>
+<h2>Thoughts About Frameworks</h2>
+<h3>Rather Black &amp; White, Isn't It?</h3>
+<p>At some point, a framework becomes all three simply out of necessity.&nbsp; You can't implement a methodology without implementing wrappers and an architecture.&nbsp; Like any other kind of programming, abstract concepts don't necessarily translate directly into concrete implementation, and the same is true for the wrapper-architecture-methodology view.&nbsp; But it's still useful to look at these two topics separately so that, come implementation time, we can make better decisions regarding the goals of the framework we are implementing.&nbsp; For example, the issue of re-use regarding wrapper vs. architecture vs. methodology is different because the focus of the re-use is different.&nbsp; For wrappers, the focus of the re-use is the process, whereas for an architecture, it is the associations between objects, whereas for a methodology, the focus of the re-use is in the interactions between objects.</p>
+<h3>Why Should A Framework Enforce A Methodology?</h3>
+<p>Well, I wanted to avoid analogies to architecture and buildings, but this seems like such a good place for one, but, I'm sure you can figure out the rest of what I can say!&nbsp; So why say it?&nbsp; Well, sometimes it's important to pour a thought down on paper so it becomes a bit more concrete (no pun intended).&nbsp; If you only have wrappers, your team (or just you) is left to build the application in whatever way their experiences (or lack thereof) have taught them.&nbsp; In the end (if you even get to the end), you've got a collection of different styles, approaches, and solutions that have no consistency.&nbsp; This is hard to debug, hard to maintain, and hard to extend.&nbsp; And you when you're done, you almost certainly don't want to repeat the experience.&nbsp; A framework that enforces a methodology, on the other hand, tells each programmer how to do important things like interface with other objects/components/technologies, how to manage and persist data, and how to avoid crossing application layers (as examples).&nbsp; The resulting application is easy to debug, easy to maintain, and very flexible.</p>
+<h3>Code Reviews</h3>
+<p>Code reviews are fine, but they're misapplied if you use them to fix coding consistency issues.&nbsp; It's like health--you want to be proactive in preventing disease (dis-ease, ha ha ha), rather than taking a handful of pills after you get sick.&nbsp; So, code reviews should be used to prevent sickness rather than to cure a sick implementation.&nbsp; This means, a code review should always look at whether the framework methodology is being applied properly, is itself appropriate, and that the code is, in other ways, handling its requirements correctly.</p>
+<h3>Unit Testing</h3>
+<p>If your methodology includes unit testing (and thus a framework to support this methodology), the issue of meeting requirements becomes preventative--the unit tests prevent the code from becoming sick in the first place.&nbsp; However, unit tests can be a lot like the new age idea of using magnets to cure arthritis--they can be quite useless.&nbsp; And I'm not going to write about good unit tests here--you can read my articles on unit testing if you're interested.&nbsp; </p>
+<h3>Agile Methods</h3>
+<p>OK, touchy subject with very opinionated people in all camps.&nbsp; So, I'm going to skirt around the issue and say only that agile methods talk about how to manage a project more than they talk about how to design the objects or implement the actual code.&nbsp; This is why they're not much help, in my opinion.&nbsp; What I've found is that just about every job, customer, or article requires a unique approach.&nbsp; There is no cookie-cutter method for working with a customer, figuring out what the application needs to do, and managing the process of implementation.&nbsp; There is, however, considerable re-use achievable in how each application is designed, and the framework and wrappers that are used to reduce implementation time.&nbsp; Agile methods on the other hand are really good as ideas you can use to work with the customer or other people in the company.</p>
+<h3>What About Creativity?</h3>
+<p>This argument (which, believe it or not, I've heard many times) holds no water for me.&nbsp; A two year old can be creative with paint and a canvas, but you won't get the Mona Lisa.&nbsp; An trained artist uses a method which allows him to channel his creative forces into creating his work within the confines of the chosen method.&nbsp; Even Jackson Pollock had a method to his paintings, although they do look a bit like what a two year old would do.&nbsp; The point is, a good methodology actually frees you from the mundane task of figuring out basic things, so you can apply your creativity in better user interface design, better performing functions, smoother user experience by using threads, etc.&nbsp; The result is something aesthetically pleasing to the user.&nbsp; As a programmer, I can immediately tell you when a product did not have a good framework methodology because it is clunky, clumsy, rough in performance, and most likely, buggy (and the biggest indicator of all--it got delivered a year later than promised).&nbsp; Are you listening, Microsoft?</p>
+<h2>An Example: The Document-View Architecture</h2>
+<p>What would it take for the document-view architecture to be a true framework?&nbsp; In my opinion, this would require an automatic coupling between GUI controls and the document.&nbsp; The programmer need only specify issues such as data lifetime, the control representing the data, and the document (or documents!) containing the data.&nbsp; The framework would then handle all persistence issues, data translation between the representation of data in the document and the representation of the data in the view, and would do so without requiring any coding.&nbsp; A document-view implementation at this level wraps data translation, provides an architecture for coupling data with documents, and enforces a methodology by implementing and hiding the coupling between the GUI control and the document.</p>
+<h2>What Does The Rest Of The World Say?</h2>
+<p><i>A framework is a set of common and prefabricated software building blocks that programmers can use, extend or customize for specific computing solutions. With frameworks developers do not have to start from scratch each time they write an application. Frameworks are built from collection of objects so both the design and code of the framework may be reused. - </i><a href="http://www.jfwk.com/what_is.html">JavaFramework</a>.</p>
+<p>That sounds like an architecture and a collection of wrappers.&nbsp; OK, 2 out of 3.</p>
+<p><i>A skeleton of an application into which developers plug in their code and provides most of the common functionality.&nbsp; -- </i>E. Gamma, et al., "Design Patterns", Addison-Wesley, 1995</p>
+<p>Well, now that's a radically different definition, and in my thinking certainly incorporates the idea of a methodology, if for no other reason than because the "skeleton" has to define how developers plug in their code and how they interface with the common functionality provided by the "skeleton".&nbsp; Implied here (but not necessarily) may also be how the code intercommunicates.</p>
+<p><i>A set of classes which defines a model of interaction among objects… -- </i><a href="http://www-eco.enst-bretagne.fr/~phan/moduleco/english/framework1.htm">Moduleco</a> (of course, they totally blow it in the additional definitions)</p>
+<p>OK, this falls into the category of a methodology because it clearly enforces the interaction style between objects, but it leaves out the wrapper and architectural aspects.</p>
+<ul>
+<li><i>A comprehensive, integrated class library </i>
+</li><li><i>An entire architecture is the unit of reuse </i>
+</li><li><i>Defines the control logic and class interactions of the application's architecture </i>
+</li><li><i>Reduces "dog work" at the cost of some flexibility </i></li></ul>-- <a href="http://www.sea-incorporated.com/plankton/presentation/page12.html">Software Engineering Associates, Inc</a> 
+<p>Hmm.&nbsp; OK, that encompasses the three things I'm talking about--wrappers (integrated class library), architecture (an entire architecture), and methodology (defines the control logic and class interactions).&nbsp; Although, this may not exactly be what the authors had in mind, especially when reading what they think a <a href="http://www.sea-incorporated.com/plankton/presentation/page13.html">design pattern</a> is, but you never know.</p>
+<p>So far, we've seen:</p>
+<ul>
+<li>building blocks 
+</li><li>skeleton 
+</li><li>interaction model 
+</li><li>all of the above (sort of). </li></ul>
+<p>Frankly, I'm not sure that there really is a good definition out there.&nbsp; But really, the one I like best is from the authors of <u>Design Patterns</u>:</p>
+<p><i>"When you use a toolkit, you write the main body of the application and call the code you want to reuse.&nbsp; When you use a framework, you reuse the main body and write the code it calls."</i></p>
+<p><i>"Not only can you build applications faster as a result, but the applications have similar structures.&nbsp; They are easier to maintain, and they seem more consistent o their users.&nbsp; On the other hand, you lose some creative freedom, since many design decisions have been made for you."</i></p>
+<p><i>"If applications are hard to design, and toolkits are harder, then frameworks are hardest of all.&nbsp; ...Any substantive change to the framework's design would reduce its benefits considerably, since the framework's main contribution to an application is the architecture it defines.&nbsp; Therefore it's imperative to design the framework to be as flexible and extensible as possible."</i></p>
+<p>This doesn't formally spell out the idea of a framework consisting of wrappers, architecture, and methodology, but it's certainly all there, between the lines.&nbsp; And it provides a different definition for what most of MFC and .NET really are--toolkits, not frameworks.&nbsp; Which is the answer to the other question--what are MFC and .NET if not frameworks?</p>
+<h2>Conclusion</h2>
+<p>By thinking about what a framework is, I think I've come up with a fairly good analysis of the subject as an introductory topic.&nbsp; Maybe what I'm talking about is something different from a framework, but in my mind, this is what a framework should be and do.&nbsp; There are a lot of different ideas out there as to what a framework is, so now you have mine as well.</p>
+
+
