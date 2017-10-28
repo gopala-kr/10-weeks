@@ -241,4 +241,95 @@ Angularjs & vuejs
 
 
 ********************
-                                                                                      
+ <h3><span class="mw-headline" id="JavaScript">List of JavaScript Web Frameworks</span></span></h3>
+ 
+ <p>Source: wikipedia</p>
+ 
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">JavaScript</a></div>
+<table class="wikitable sortable" style="font-size: 90%">
+<tr>
+<th>Project</th>
+<th>Current stable version</th>
+<th>Release date</th>
+<th><a href="https://en.wikipedia.org/wiki/License" title="License">License</a></th>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/AngularJS" title="AngularJS">AngularJS</a></th>
+<td>1.6x</td>
+<td>2017-01-05</td>
+<td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/React.js" class="mw-redirect" title="React.js">React.js</a></th>
+<td>15.6.1</td>
+<td>2017-01-06</td>
+<td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/Backbone.js" title="Backbone.js">Backbone.js</a></th>
+<td>1.3.3</td>
+<td>2016-04-05</td>
+<td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/Ember.js" title="Ember.js">Ember.js</a></th>
+<td>2.12.0</td>
+<td>2017-03-13<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></td>
+<td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/Express.js" title="Express.js">Express.js</a></th>
+<td>4.15.3</td>
+<td>2016-06-16</td>
+<td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/KnockoutJS" class="mw-redirect" title="KnockoutJS">KnockoutJS</a></th>
+<td>3.2.0</td>
+<td>2014-08-12</td>
+<td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/Meteor_(web_framework)" title="Meteor (web framework)">Meteor</a></th>
+<td>1.4</td>
+<td>2016-07-25</td>
+<td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/OpenUI5" title="OpenUI5">OpenUI5</a></th>
+<td>1.44.9</td>
+<td>2017-03-28</td>
+<td>Apache 2.0 License by SAP</td>
+</tr>
+<tr>
+<td><b><a href="https://en.wikipedia.org/wiki/Polymer_(library)" title="Polymer (library)">Polymer</a></b></td>
+<td>2.0.2</td>
+<td>2017-07-14</td>
+<td>BSD</td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="/w/index.php?title=ReSTbasis&amp;action=edit&amp;redlink=1" class="new" title="ReSTbasis (page does not exist)">ReSTbasis</a></th>
+<td>17.8.0</td>
+<td>2017-08-02</td>
+<td><a href="https://en.wikipedia.org/wiki/Proprietary_hardware" title="Proprietary hardware">Proprietary</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/Unified.js" title="Unified.js">Unified.js</a></th>
+<td>14.0</td>
+<td>2014-04-01</td>
+<td><a href="https://en.wikipedia.org/wiki/BSD" class="mw-redirect" title="BSD">BSD</a> (component only) &amp; <a href="https://en.wikipedia.org/wiki/Proprietary_software" title="Proprietary software">proprietary</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/Vue.js" title="Vue.js">Vue.js</a></th>
+<td>2.2.6</td>
+<td>2017-03-23</td>
+<td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+<tr>
+<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/Node.js" title="Node.js">Node.js</a></th>
+<td>8.4.0</td>
+<td>2017-08-15</td>
+<td><a href="https://en.wikipedia.org/wiki/MIT_License" title="MIT License">MIT License</a></td>
+</tr>
+</table>                                                                                     
+********************
