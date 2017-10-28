@@ -308,11 +308,6 @@ Angularjs & vuejs
 <td>BSD</td>
 </tr>
 <tr>
-<th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="/w/index.php?title=ReSTbasis&amp;action=edit&amp;redlink=1" class="new" title="ReSTbasis (page does not exist)">ReSTbasis</a></th>
-<td>17.8.0</td>
-<td>2017-08-02</td>
-<td><a href="https://en.wikipedia.org/wiki/Proprietary_hardware" title="Proprietary hardware">Proprietary</a></td>
-</tr>
 <tr>
 <th style="background: #ececec; color: black; font-weight: bold; vertical-align: middle; text-align: left;" class="table-rh"><a href="https://en.wikipedia.org/wiki/Unified.js" title="Unified.js">Unified.js</a></th>
 <td>14.0</td>
