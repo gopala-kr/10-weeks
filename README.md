@@ -5,7 +5,7 @@
 * [[Week-1](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/01-react-ecosystem)] 15-Oct-2017 - react ecosystem : react, redux, relay, graphql, react-native
 * [[Week-2](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/02-lets-complete-js-stack)] 22-Oct-2017 - lets complete js stack : nodejs, expressjs, angularjs, vue.js, meteorjs
 * [[Week-3](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/03-backend-development)] 29-Oct-2017 - case study : backend development
-* [Week-4]
+* [Week-4] 6-Nov-2017 - mobile dev : native(android,ios,windows) & crossplatform(PhoneGap/Apache Cordova, Xamarin, Unity, Appcelerator) 
 * [Week-5]
 * [Week-6]
 * [Week-7]
