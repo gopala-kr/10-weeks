@@ -1,10 +1,8 @@
 
 ## mobile dev :
 
-### Native platforms:
+**Native platforms:** ios, android, windows
 
-* ios, android, windows
+**Cross-platforms:** phoneGap/apache cordova, xamarin, unity, appcelerator 
 
-### Cross-platforms
 
-* phoneGap/apache cordova, xamarin, unity, appcelerator
