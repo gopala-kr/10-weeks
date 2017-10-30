@@ -269,7 +269,7 @@ React native isn’t just an introduction to native applications for web develop
 
 ## Next steps:
 
-* I will keep update this post for new updates.
+* I will keep this article updated with my new findings.
 * I have experimented some of the basic react-redux apps while going through tutorials in [Codepen](https://codepen.io/kr_gopala/)
 * to develop a complete full stack web application using react+ redux + graphql and deploy it on heroku.
 * to build a native hacker news app similar to [hackernews-react-graphql](https://github.com/gopala-kr/hackernews-react-graphql) and deploy it on app store and google play store.
