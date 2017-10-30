@@ -3,6 +3,6 @@
 
 **Native platforms:** ios, android, windows
 
-**Cross-platforms:** phoneGap/apache cordova, xamarin, unity, appcelerator 
+**Cross-platforms:** phonegap/apache cordova, xamarin, unity, appcelerator 
 
 
