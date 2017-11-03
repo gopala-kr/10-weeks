@@ -118,7 +118,7 @@ now lets have a look at some popular frameworks in different languages(java/php/
 > * Java EE 6 (December 10, 2009)
 > * Java EE 7 (May 28, 2013, but April 5, 2013 according to spec document. June 12, 2013 was the planned kickoff date
 > * Java EE 8 (August 31, 2017)
->  Java EE is currently maintained by Oracle under the Java Community Process. On September 12, 2017, Oracle Corporation announced > * that it would submit Java EE to the Eclipse Foundation. The Eclipse top-level project has been named Eclipse Enterprise for Java (EE4J).
+>  Java EE is currently maintained by Oracle under the Java Community Process. On September 12, 2017, Oracle Corporation announced that it would submit Java EE to the Eclipse Foundation. The Eclipse top-level project has been named Eclipse Enterprise for Java (EE4J).
 
 ******************
 
