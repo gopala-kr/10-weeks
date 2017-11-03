@@ -2,7 +2,7 @@
 
 ## case study : backend development
 ***********************
-* java --> sprinframework
+* java --> springframework
 * php --> laravel
 * ruby --> rails & sinatra
 * python --> flask & django
@@ -742,7 +742,7 @@ I did google trend comparison for some of the php framework popularity below are
 
 Lets explore laravel in detail:
 
-(there is a cource in lynda.com in which Drew Falkman discusses about [5 MVC PHP frameworks](https://www.lynda.com/PHP-tutorials/MVC-Frameworks-Building-PHP-Web-Applications/540346-2.html), their project structure, advantages and disadvantages).
+(there is a course in lynda.com in which Drew Falkman discusses about [5 MVC PHP frameworks](https://www.lynda.com/PHP-tutorials/MVC-Frameworks-Building-PHP-Web-Applications/540346-2.html), their project structure, advantages and disadvantages).
 
 ************************
 ## Laravel
