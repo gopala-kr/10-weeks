@@ -9,7 +9,7 @@
 
 **************************
 
-Before starting with actual subjective topics, lets undestand some required terminologies:
+Before starting with actual subjective topics, lets understand some required terminologies:
 
 * Mobile OS?
 * Native platform apps?
