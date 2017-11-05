@@ -1,4 +1,4 @@
-## list of fronyt end platforms and tools form mobile app development
+## list of front-end platforms and tools for mobile app development
 
 
 <table class="wikitable sortable" style="width:100%;">
