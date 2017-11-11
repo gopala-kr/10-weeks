@@ -1,4 +1,6 @@
 
+## CMS VS web-framework
+
 The question in your case is whether to use a ready made CMS or to create your own system using a framework. The right answer depends on the following:
 
 * budget
@@ -9,7 +11,7 @@ The question in your case is whether to use a ready made CMS or to create your o
 * special/custom features that require high level of freedom (example: StackOverflow reward points and badgets)
 * As this is a question most of us face pretty often, here are cons and pros of a ready made CMS vs a framework:
 
-Ready made CMS
+**Ready made CMS**
 
 Pros
 
@@ -26,7 +28,8 @@ Cons
 * performance - a ready made CMS will rarely be as fast as a custom made application
 * not suitable for every large website (unless you fit in almost everything that the CMS provides)
 * steep learning curve in some cases (Typo3, Drupal)
-* Custom application
+
+**Custom application**
 
 Pros
 
@@ -40,7 +43,8 @@ Cons
 * further maintenance will be harder
 * changes and modifications of the structure can be very time consuming
 * if you aren't using a CMF you will have to reinvent the wheel in some aspects
-* Bottom line
+
+**Bottom line**
 
 Spend a couple of days and learn something about the CMSs out there, such as:
 
