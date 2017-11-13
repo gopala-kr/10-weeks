@@ -10,10 +10,10 @@
 *************************
  | HackerNews        | Medium         | Reddit  |  Quora-QA  | Stack-Overflow-QA | Awesome-gh | Online-Courses (lynda.com) | Official docs|
 | ------------- |:-------------:| -----:| -----:|-----:|-----:|-----:|-----:|
-|  [wordpress](https://hn.algolia.com/?query=wordpress&sort=byPopularity&prefix&page=0&dateRange=all&type=story)  | [wordpress](https://medium.com/search?q=wordpress)  | wordpress](https://www.reddit.com/r/Wordpress/)  | [wordpress](https://www.quora.com/topic/WordPress)  |  [wordpress](https://wordpress.stackexchange.com/)    | [wordpress](https://github.com/miziomon/awesome-wordpress)  | [wordpress](https://www.lynda.com/WordPress-training-tutorials/330-0.html)  |[wordpress](https://wordpress.org/about/)  |
+|  [wordpress](https://hn.algolia.com/?query=wordpress&sort=byPopularity&prefix&page=0&dateRange=all&type=story)  | [wordpress](https://medium.com/search?q=wordpress)  | [wordpress](https://www.reddit.com/r/Wordpress/)  | [wordpress](https://www.quora.com/topic/WordPress)  |  [wordpress](https://wordpress.stackexchange.com/)    | [wordpress](https://github.com/miziomon/awesome-wordpress)  | [wordpress](https://www.lynda.com/WordPress-training-tutorials/330-0.html)  |[wordpress](https://wordpress.org/about/)  |
 |  [drupal](https://hn.algolia.com/?query=drupal&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story)  | [drupal](https://medium.com/search?q=drupal)   | [drupal](https://www.reddit.com/r/drupal/)   | [drupal](https://www.quora.com/topic/Drupal-CMS)   |   [drupal](https://drupal.stackexchange.com/)    | [drupal](https://github.com/mrsinguyen/awesome-drupal)   | [drupal](https://www.lynda.com/Drupal-training-tutorials/186-0.html)   |[drupal](https://www.drupal.org/)   |
-|  [joomla](https://hn.algolia.com/?query=joomla&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story)  | joomla](https://medium.com/search?q=joomla)  | [joomla](https://www.reddit.com/r/joomla/)  | [joomla](https://www.quora.com/topic/Joomla) |   [joomla](https://joomla.stackexchange.com/)  | [joomla](https://github.com/brunowego/awesome-joomla)  | [joomla](https://www.lynda.com/Joomla-training-tutorials/245-0.html)  |[joomla](https://www.joomla.org/)  |
-|
+|  [joomla](https://hn.algolia.com/?query=joomla&sort=byPopularity&prefix=false&page=0&dateRange=all&type=story)  | [joomla](https://medium.com/search?q=joomla)  | [joomla](https://www.reddit.com/r/joomla/)  | [joomla](https://www.quora.com/topic/Joomla) |   [joomla](https://joomla.stackexchange.com/)  | [joomla](https://github.com/brunowego/awesome-joomla)  | [joomla](https://www.lynda.com/Joomla-training-tutorials/245-0.html)  |[joomla](https://www.joomla.org/)  |
+
 
 **************************
 ## content management system
