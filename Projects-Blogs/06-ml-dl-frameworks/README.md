@@ -10,5 +10,6 @@
 * Microsoft Cognitive Toolkit
 * Lasagne
 * BigDL
+* scikit-learn
 
 ********************************
