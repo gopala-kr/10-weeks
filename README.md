@@ -6,7 +6,7 @@
 * [[Week-2](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/02-lets-complete-js-stack)] 22-Oct-2017 - lets complete js stack : nodejs, expressjs, angularjs, vue.js, meteorjs
 * [[Week-3](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/03-backend-development)] 29-Oct-2017 - case study : backend development
 * [[Week-4](https://github.com/gopala-kr/weekend-with-github/blob/master/Projects-Blogs/04-mobile-dev)] 05-Nov-2017 - mobile dev : native & crossplatform
-* [[Week-5](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/05-opensource-cms)] 12-Nov-2017 - end of web & mobile: (mobile dev : crossplatforms) + CMS( wordpress, drupal, Joomla)
+* [[Week-5](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/05-opensource-cms)] 12-Nov-2017 - CMS( wordpress, drupal, Joomla) + webservices
 * [Week-6]
 * [Week-7]
 * [Week-8]
