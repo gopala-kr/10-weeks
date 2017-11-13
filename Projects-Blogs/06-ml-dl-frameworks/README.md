@@ -3,13 +3,14 @@
 * Tensorflow
 * Theano
 * Keras
-* Caffe
-* Torch
+* Caffe + caffe2
+* Torch + pytorch
 * Deeplearning4j
 * MXNet
 * Microsoft Cognitive Toolkit
 * Lasagne
 * BigDL
 * scikit-learn
+* chainer
 
 ********************************
