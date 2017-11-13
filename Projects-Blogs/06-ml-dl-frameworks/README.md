@@ -1,4 +1,4 @@
-## dl frameworks(an architectural overview)
+## case study: ml-dl frameworks(an architectural overview)
 
 * Tensorflow
 * Theano
