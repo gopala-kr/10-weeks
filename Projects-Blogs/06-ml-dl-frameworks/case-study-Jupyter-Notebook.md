@@ -1,10 +1,4 @@
-<section class="normal markdown-section">
-                                
-                                <h1 id="jupyter-notebook">Jupyter Notebook</h1>
-<p><strong>By <a href="https://github.com/joined" target="_blank">Lorenzo Gasparini</a>, <a href="https://github.com/ajayaadhikari" target="_blank">Ajay Adhikari</a>, <a href="https://github.com/John-Pap" target="_blank">Giannis Papadopoulos</a> and  <a href="https://github.com/adimitrova" target="_blank">Anelia Dimitrova</a></strong></p>
-<p><strong><em>Delft University of Technology</em></strong></p>
-<p><img src="images-jupyter/team-jupyter.png" alt="team_jupyter"></p>
-<h3 id="abstract">Abstract</h3>
+
 <p><em>Jupyter notebook, the next generation of IPython, is an open-source web-application that allows the user to create and share documents containing live code, comments, formulas, images and more, all in one place.
 The current chapter analyses this project in depth. 
 Our team was able to make six pull requests regarding technical debt and bug fixes, which were accepted.
@@ -84,7 +78,7 @@ Core developers are @<a href="https://github.com/carreau" target="_blank">carrea
 <h4 id="context-model">Context Model</h4>
 <div id="contextmodel"></div>
 
-<p><img src="images-jupyter/contextview.png" alt="Context View"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/jupyter/images-jupyter/contextview.png" alt="Context View"></p>
 <p><strong>Figure 1</strong> - <em>Context Model of Jupyter Notebook.</em></p>
 <p>In <a href="#contextmodel">Figure 1</a>, the context model of Jupyter Notebook is displayed. A short description of the most important entities in the diagram follows.</p>
 <p>The project, which is a complex web application mainly <strong>used by</strong> <em>researchers</em> and <em>students</em>, can be conceptually separated in <em>front-end</em> and <em>back-end</em>. For what concerns the <strong>programming languages</strong>, <em>Python</em> is used for the back-end while the <em>LESS</em> stylesheet language is used in combination with <em>HTML</em> and <em>Javascript</em> for the front-end.</p>
@@ -103,7 +97,7 @@ Core developers are @<a href="https://github.com/carreau" target="_blank">carrea
 <h3 id="development-viewpoint">Development Viewpoint</h3>
 <p>The development view describes the architecture of a project from the viewpoint of the developers. According to Rozanski and Woods [<a href="#rw">1</a>], the development view is responsible for addressing different aspects of the system development process such as code structure and dependencies, build and configuration management of deliverables, system-wide design constraints, and system-wide standards to ensure technical integrity. In the following sections, the development view of Jupyter Notebook is presented based on the three models that Rozanski and Woods [<a href="#rw">1</a>] define in their book: Module Structure Model, Common Design Model and Codeline Model. In addition to this, a high-level view of Jupyter Notebook is included in order to ensure a thorough understanding of the project in different granularity.</p>
 <h4 id="high-level-view">High-level view</h4>
-<p><img src="images-jupyter/global-overview.png" alt="Global overview"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/jupyter/images-jupyter/global-overview.png" alt="Global overview"></p>
 <p><strong>Figure 2</strong> - <em>High-level view of Jupyter Notebook.</em> [<a href="#global_view">2</a>]</p>
 <p>The high-level view is visualized in Figure 2. First, the user interacts with the browser, consequently, a request is sent to the Notebook server. This can be either HTTP or WebSocket request. If user code has to be executed, the notebook server sends it to the kernel in <a href="http://zeromq.org/" target="_blank">ZeroMQ</a> messages. The kernel returns the results of the execution. At last, the notebook server returns an HTML page to the user.
 When the user saves the document, it is sent from the browser to the notebook server. The server saves it on disk as a JSON file with a <code>.ipynb</code> extension. This notebook file contains the code, output and markdown notes. [<a href="#global_view">2</a>]</p>
@@ -123,7 +117,7 @@ they contain the handlers for rendering the text editor interface, handling the 
 <p>The module structure and dependencies are shown in <a href="#modulediagram">Figure 3</a>.</p>
 <div id="modulediagram"></div>
 
-<p><img src="images-jupyter/module.png" alt="Module dependencies"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/jupyter/images-jupyter/module.png" alt="Module dependencies"></p>
 <p><strong>Figure 3</strong> - <em>Module dependencies diagram.</em></p>
 <p>Furthermore, it should be noted that the figure above shows high-level dependencies between the most significant modules of the system. In this graph modules that share a similar role in the system are grouped together for the convenience of the reader. The same purpose serve the colours of each of the modules. The diagram starts from the top with the <code>notebookapp</code> module which constitutes the entry point of the web application. It is worth mentioning that there are no <a href="https://en.wikipedia.org/wiki/Circular_dependency" target="_blank">circular dependencies</a> which makes the system easier to understand and maintain.</p>
 <h4 id="source-code-structure">Source code structure</h4>
@@ -133,7 +127,7 @@ they contain the handlers for rendering the text editor interface, handling the 
 <p>The front-end code is located in separate folders. In particular, the Javascript and CSS files are located in the <code>static</code> folder using as the name for the sub-folders the one of the back-end components they interact with. The <a href="http://jinja.pocoo.org/docs/2.9/" target="_blank">Jinja2</a> HTML templates are included in the <code>templates/</code> folder. Concerning the tests that are responsible for testing the front-end functionality, they are contained in the <code>notebook/tests/</code> folder. Finally, the <code>notebook/</code> folder contains the entry point of the web application which is the <code>notebookapp.py</code> module and some common utilities that are used throughout the whole source code. A graphical overview can be found in <a href="#src">Figure 4</a>.</p>
 <div id="src"></div>
 
-<p><img src="images-jupyter/source_code.png" alt="Source code structure"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/jupyter/images-jupyter/source_code.png" alt="Source code structure"></p>
 <p><strong>Figure 4</strong> - <em>Source code structure of Jupyter Notebook.</em></p>
 <h4 id="continuous-integration-and-testing-approach">Continuous Integration and Testing Approach</h4>
 <p><em>Continuous Integration (CI)</em> refers to the development practice in which developers <em>integrate</em> the code to a shared repository frequently. Each integration is verified by an automated build and test system.</p>
@@ -164,7 +158,7 @@ In the notebook project, different key functional elements are present that inte
 Interfaces like in <code>Java</code> are not present in <code>Python</code>. 
 But these functional elements do behave like interfaces, as they have well-defined functions that can be called by other elements, to perform different actions. 
 The functional view of our project is visualised on figure 5. The key elements and the interaction between them is described next.</p>
-<p><img src="images-jupyter/functional_view.png" alt="Functional view">
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/jupyter/images-jupyter/functional_view.png" alt="Functional view">
 <strong>Figure 5</strong>: <em>UML diagram of the Functional View.</em></p>
 <p>The main entry point of the web application is an instance of the class <code>NotebookApp</code>. 
 It sets up a Tornado based Notobook server that serves an HTML/Javascript client. 
@@ -222,7 +216,7 @@ The key in building this fully working web-based notebook system was the couplin
 Moreover, at this point many different languages were supported by the project, so the name <em>Interactive Python</em> was starting to feel odd.</p>
 <h3 id="the-present-jupyter">The Present: Jupyter</h3>
 <p>For these reasons, in 2014 at the SciPy conference, the Jupyter project was announced, incorporating all the language-agnostic features of IPython, such as the notebook. </p>
-<p><img src="images-jupyter/evolution_loc.png" alt="Evolution of LOC of the IPython project"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/jupyter/images-jupyter/evolution_loc.png" alt="Evolution of LOC of the IPython project"></p>
 <p><strong>Figure 6</strong> - <em>Evolution of LOC of the IPython project.</em> [<a href="#evolution-loc">4</a>]</p>
 <p>In 2015 the first phase of <a href="http://blog.jupyter.org/2015/04/15/the-big-split/" target="_blank">The Big Split&#x2122;</a> was completed, splitting all the components into subprojects.
 As can be seen from Figure 6, a vast amount of code was removed from the IPython project and moved to separate repositories corresponding to the different subprojects, such as <em>traitlets</em>, <em>nbformat</em> and the <em>notebook</em> itself.
@@ -232,7 +226,7 @@ IPython continues to live to this day as a kernel for Jupyter and as the interac
 <p>At the SciPy 2016 conference, the JupyterLab project <a href="https://www.youtube.com/watch?v=Ejh0ftSjk6g" target="_blank">was announced</a>. It was described as the natural evolution of the Jupyter Notebook interface.</p>
 <p>The codebase of the Notebook was showing its age and it was becoming more and more difficult to extend. The cost of maintaining the old codebase and implementing new features on top of it was ever increasing.</p>
 <p>The developers incorporated in this new project all the lessons that they learned from the usage patterns of the Notebook, to build a robust and clean foundation for a flexible interactive computing experience and an improved user interface.</p>
-<p><img src="images-jupyter/jupyterlab.png" alt="JupyterLab User Interface"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/jupyter/images-jupyter/jupyterlab.png" alt="JupyterLab User Interface"></p>
 <p><strong>Figure 7</strong> - <em>JupyterLab User Interface.</em></p>
 <p>In figure 7 the user interface of the JupyterLab project, based on the PhosporJS framework, is shown. The division in tabs and panes allows using different components (file browser, terminal, notebook), that can be used only separately in the classic Notebook, at the same time.</p>
 <p>As of April 2017, the project is still in the early preview phase, and it is not suitable for general usage yet. A series of phases are planned to enable a smooth transition from the classic Notebook to the new environment, as eventually JupyterLab will become the default UI and the classic notebook will only be available as a separate download.</p>
@@ -260,4 +254,4 @@ The Jupyter community will welcome you with open arms. This chapter together wit
 </ol>
 
                                 
-                                </section>
+
