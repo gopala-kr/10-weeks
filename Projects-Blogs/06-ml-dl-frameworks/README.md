@@ -15,8 +15,16 @@
 
 ********************************
 
+* [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems(2015)(http://download.tensorflow.org/paper/whitepaper2015.pdf)
+
+
+
 * [Theano: A CPU and GPU Math Compiler in Python (2010)](http://www.iro.umontreal.ca/~lisa/pointeurs/theano_scipy2010.pdf)
 * [Theano: A Python framework for fast computation of mathematical expressions(2016)](https://arxiv.org/pdf/1605.02688v1.pdf)
+
+* [Caffe: Convolutional Architecture for Fast Feature Embedding(2014)](https://arxiv.org/pdf/1408.5093.pdf)
+* [Caffe2: Deep learning with flexibility and scalability](http://www.zdnet.com/article/caffe2-deep-learning-wide-ambitions-flexibility-scalability-and-advocacy/)
+
 
 
 ***************************
