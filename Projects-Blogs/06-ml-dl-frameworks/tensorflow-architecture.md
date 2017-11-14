@@ -1,6 +1,6 @@
 <h1 id="tensorflow---open-source-library-for-machine-learning-applications">TensorFlow&#x2122; - Open Source Library for Machine Learning Applications</h1>
 <p align="center">
-  <img src="images-team-tensorflow/TF.png" width="300">
+  <img src="https://delftswa.gitbooks.io/desosa2016/content/tensorflow/images-team-tensorflow/TF.png" width="300">
 </p>
 
 <p align="center">
@@ -96,7 +96,7 @@ This chapter is intended to explore three key elements: (1) What is TensorFlow&#
 </table>
 <p>The following figure plots each of the stakeholder according to its type:</p>
 <p align="center">
-  <img src="images-team-tensorflow/Stakeholder.model4.jpg" width="500">
+  <img src="https://delftswa.gitbooks.io/desosa2016/content/tensorflow/images-team-tensorflow/Stakeholder.model4.jpg" width="500">
 </p>
 
 <pre><code>                               Figure 1. Stakeholder groups for TensorFlow
@@ -121,7 +121,7 @@ Developers are those who enable new models, operations and tools within the API.
 <p>As many other libraries, TensorFlow&#x2122; requires features from other systems, not just for maintaining the repository, but for enabling new functionalities. The main dependencies are the NVIDIA driver support for CUDA, the Python and C++ language support. There are several other dependencies that would be detailed in the development view.</p>
 <p>In figure 2 the relation between the surrounding elements and the TensorFlow&#x2122; library are illustrated.</p>
 <p align="center">
-  <img src="images-team-tensorflow/Contextview.png" width="500">
+  <img src="https://delftswa.gitbooks.io/desosa2016/content/tensorflow/images-team-tensorflow/Contextview.png" width="500">
 </p>
 
 <pre><code>                          Figure 2 Context diagram for TensorFlow&#x2122; 
@@ -132,7 +132,7 @@ Developers are those who enable new models, operations and tools within the API.
 <h6 id="31211-source-code-hierarchy">3.1.2.1.1 Source code hierarchy</h6>
 <p>TensorFlow&#x2122; &apos;s root directory at GitHub is organized in five main subdirectories: google, tensorflow, third-party, tools and util/python. Additionally, the root directory provides information on how to contribute to the project, and other relevant documents. In figure 3, the source code hierarchy is illustrated.</p>
 <p align="center">
-  <img src="images-team-tensorflow/TensorFlowTree.png">
+  <img src="https://delftswa.gitbooks.io/desosa2016/content/tensorflow/images-team-tensorflow/TensorFlowTree.png">
 </p>
 
 
@@ -191,7 +191,7 @@ Developers are those who enable new models, operations and tools within the API.
 </ol>
 <p>The system&apos;s layer organization is shown in the following figure:</p>
 <p align="center">
-  <img src="images-team-tensorflow/Structure.png">
+  <img src="https://delftswa.gitbooks.io/desosa2016/content/tensorflow/images-team-tensorflow/Structure.png">
 </p>
 
 <pre><code>                              Figure 4. Structure model of the TensorFlow&#x2122;
@@ -232,7 +232,7 @@ Without regard of which Operating System is currently been used, the system need
 <h5 id="3133-runtime-platform-models">3.1.3.3 Runtime Platform Models</h5>
 <p>Rozanski and Woods[<a href="#rw">2</a>] state that the Runtime Platform model is the core of this view. It defines the set of hardware nodes required, the interconnection within the node, and software elements hosted in the hardware nodes. In order to build this model, it is important to understand how the system underlying mechanism works. According to the whitepaper[<a href="#whp">3</a>], a user creates an algorithm in TensorFlow&#x2122; with the provided API and internally that algorithm is described by a graph that represents a dataflow computation. In the graph, each node corresponds to an operation (for example: an arithmetic operation), the values that flow along the edges are tensors (that&apos;s why it is called TensorFlow&#x2122;!). The following figure obtained from the whitepaper[<a href="#whp">3</a>] shows an example of TensorFlow&#x2122; code fragment with its corresponding computation graph:</p>
 <p align="center">
-  <img src="images-team-tensorflow/Deployment1.png">
+  <img src="https://delftswa.gitbooks.io/desosa2016/content/tensorflow/images-team-tensorflow/Deployment1.png">
 </p>
 
 
@@ -240,7 +240,7 @@ Without regard of which Operating System is currently been used, the system need
 </code></pre><p>The whitepaper[<a href="#whp">3</a>] also mentions that the main components in TensorFlow&#x2122; are the clients, the master and one or more worker processes. If a user wants to run an algorithm, the user as a client, interacts with the master where it runs a placement algorithm to decide how to distribute the computation among all the worker processes. Each worker processes is responsible for arbitrating access to one or more computational devices. Each of the devices can communicate to each other through Send- and Receive node functions of the TensorFlow&#x2122; library.</p>
 <p>The following figure shows the runtime model for TensorFlow&#x2122;:</p>
 <p align="center">
-  <img src="images-team-tensorflow/Deployment2.png">
+  <img src="https://delftswa.gitbooks.io/desosa2016/content/tensorflow/images-team-tensorflow/Deployment2.png">
 </p>
 
 
@@ -250,7 +250,7 @@ Without regard of which Operating System is currently been used, the system need
 <p>The Runtime Platform Model describes a high level of communication between the client, master and worker. The Network model describes specifically which nodes need to be connected and any other specific services and bandwidth requirements. In TensorFlow&#x2122; this model is applied to the cross device communication. Cross device communication means data transference between two or more devices (GPUs or CPUs), in which each device corresponds to a node in the network model.</p>
 <p>According to the whitepaper[<a href="#whp">3</a>], once the master has run the placement algorithm, the graph is partitioned into a set of subgraphs, one per device, as shown in the left graph of the following figure:</p>
 <p align="center">
-  <img src="images-team-tensorflow/Deployment3.png">
+  <img src="https://delftswa.gitbooks.io/desosa2016/content/tensorflow/images-team-tensorflow/Deployment3.png">
 </p>
 
 
