@@ -64,7 +64,7 @@ whitepapers
 <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
 <ol class="references">
 <li id="cite_note-torch-modular-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-torch-modular_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CBB0C8A5FE34F6D6DAFF997F6B6A205A?doi=10.1.1.8.9850&amp;rep=rep1&amp;type=pdf">"Torch: a modular machine learning software library"</a>. 30 October 2002<span class="reference-accessdate">. Retrieved <span class="nowrap">24 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Torch%3A+a+modular+machine+learning+software+library&amp;rft.date=2002-10-30&amp;rft_id=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Bjsessionid%3DCBB0C8A5FE34F6D6DAFF997F6B6A205A%3Fdoi%3D10.1.1.8.9850%26rep%3Drep1%26type%3Dpdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorch+%28machine+learning%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
-<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Collobert, Ronan. <a rel="nofollow" class="external text" href="http://torch.ch/">"Torch7"</a>. <i><a href="/wiki/GitHub" title="GitHub">GitHub</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=Torch7&amp;rft.aulast=Collobert&amp;rft.aufirst=Ronan&amp;rft_id=http%3A%2F%2Ftorch.ch%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorch+%28machine+learning%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Collobert, Ronan. <a rel="nofollow" class="external text" href="http://torch.ch/">"Torch7"</a>. <i><a href="https://en.wikipedia.org/wiki/GitHub" title="GitHub">GitHub</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=GitHub&amp;rft.atitle=Torch7&amp;rft.aulast=Collobert&amp;rft.aufirst=Ronan&amp;rft_id=http%3A%2F%2Ftorch.ch%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorch+%28machine+learning%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
 <li id="cite_note-nips-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-nips_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ronan Collobert; Koray Kavukcuoglu; Clement Farabet (2011). <a rel="nofollow" class="external text" href="http://ronan.collobert.com/pub/matos/2011_torch7_nipsw.pdf">"Torch7: A Matlab-like Environment for Machine Learning"</a> <span style="font-size:85%;">(PDF)</span>. <i>Neural Information Processing Systems</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Neural+Information+Processing+Systems&amp;rft.atitle=Torch7%3A+A+Matlab-like+Environment+for+Machine+Learning&amp;rft.date=2011&amp;rft.au=Ronan+Collobert&amp;rft.au=Koray+Kavukcuoglu&amp;rft.au=Clement+Farabet&amp;rft_id=http%3A%2F%2Fronan.collobert.com%2Fpub%2Fmatos%2F2011_torch7_nipsw.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorch+%28machine+learning%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
 <li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.kdnuggets.com/2014/02/exclusive-yann-lecun-deep-learning-facebook-ai-lab.html">KDnuggets Interview with Yann LeCun, Deep Learning Expert, Director of Facebook AI Lab</a></span></li>
 <li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://news.ycombinator.com/item?id=7928738">Hacker News</a></span></li>
@@ -73,7 +73,7 @@ whitepapers
 <li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://github.com/soumith/torch-android">Torch-android GitHub repository</a></span></li>
 <li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://github.com/clementfarabet/torch-ios">Torch-ios GitHub repository</a></span></li>
 <li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://pub.clement.farabet.net/ecvw11.pdf">NeuFlow: A Runtime Reconﬁgurable Dataﬂow Processor for Vision</a></span></li>
-<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.wired.com/2015/01/facebook-open-sources-trove-ai-tools/">"Facebook Open-Sources a Trove of AI Tools"</a>. <i><a href="/wiki/Wired_(website)" class="mw-redirect" title="Wired (website)">Wired</a></i>. 16 January 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wired&amp;rft.atitle=Facebook+Open-Sources+a+Trove+of+AI+Tools&amp;rft.date=2015-01-16&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2015%2F01%2Ffacebook-open-sources-trove-ai-tools%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorch+%28machine+learning%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.wired.com/2015/01/facebook-open-sources-trove-ai-tools/">"Facebook Open-Sources a Trove of AI Tools"</a>. <i><a href="https://en.wikipedia.org/wiki/Wired_(website)" class="mw-redirect" title="Wired (website)">Wired</a></i>. 16 January 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wired&amp;rft.atitle=Facebook+Open-Sources+a+Trove+of+AI+Tools&amp;rft.date=2015-01-16&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2015%2F01%2Ffacebook-open-sources-trove-ai-tools%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorch+%28machine+learning%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
 </ol>
 </div>
 
@@ -136,8 +136,8 @@ whitepapers
 <li><a rel="nofollow" class="external text" href="https://www.quora.com/What-is-the-best-deep-learning-library-at-the-current-stage-for-working-on-large-data">What is the best deep learning library at the current stage for working on large data?</a></li>
 <li><a rel="nofollow" class="external text" href="https://github.com/josephmisiti/awesome-machine-learning">Awesome Machine Learning</a> – A large list of machine learning frameworks, libraries and software by language</li>
 <li><a rel="nofollow" class="external text" href="http://www.datasciencecentral.com/profiles/blogs/here-are-15-libraries-in-various-languages-to-help-implement-your">15 Deep Learning Libraries</a> – 15 libraries in various languages</li>
-<li><a rel="nofollow" class="external text" href="https://esciencegroup.com/2016/02/08/tensorflow-meets-microsofts-cntk/">TensorFlow Meets Microsoft’s CNTK</a> – Comparison of <a href="/wiki/TensorFlow" title="TensorFlow">TensorFlow</a> and <a href="/wiki/CNTK" class="mw-redirect" title="CNTK">CNTK</a></li>
-<li><a rel="nofollow" class="external text" href="https://developer.nvidia.com/deep-learning-frameworks">Deep Learning Frameworks</a> – Short list of deep learning frameworks recommended by <a href="/wiki/Nvidia" title="Nvidia">Nvidia</a></li>
+<li><a rel="nofollow" class="external text" href="https://esciencegroup.com/2016/02/08/tensorflow-meets-microsofts-cntk/">TensorFlow Meets Microsoft’s CNTK</a> – Comparison of <a href="https://en.wikipedia.org/wiki/TensorFlow" title="TensorFlow">TensorFlow</a> and <a href="https://en.wikipedia.org/wiki/CNTK" class="mw-redirect" title="CNTK">CNTK</a></li>
+<li><a rel="nofollow" class="external text" href="https://developer.nvidia.com/deep-learning-frameworks">Deep Learning Frameworks</a> – Short list of deep learning frameworks recommended by <a href="https://en.wikipedia.org/wiki/Nvidia" title="Nvidia">Nvidia</a></li>
 <li><a rel="nofollow" class="external text" href="https://github.com/jtoy/awesome-tensorflow#libraries">Awesome TensorFlow – Libraries</a></li>
 <li><a rel="nofollow" class="external text" href="http://deep-learning.sg.tn/index.php/2-non-categorise/5-popular-deep-learning-libraries">Popular Deep Learning Libraries</a></li>
 </ul>
@@ -201,3 +201,410 @@ either to speed up critical code, or to integrate with C/C++ libraries.</li>
 </div>
 
 ***************************
+
+### dl libraries Wiki ref
+
+<ul>
+<li><a rel="nofollow" class="external text" href="https://github.com/dritchie/adnn">adnn</a> – Javascript neural networks</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/mila-udem/blocks">Blocks</a> – Theano framework for building and training neural networks</li>
+<li><a rel="nofollow" class="external text" href="https://caffe2.ai/">Caffe2</a> – Deep learning framework built on <a href="https://en.wikipedia.org/wiki/Caffe_(software)" title="Caffe (software)">Caffe</a>, developed by <a href="https://en.wikipedia.org/wiki/Facebook" title="Facebook">Facebook</a> in cooperation with <a href="https://en.wikipedia.org/wiki/NVIDIA" class="mw-redirect" title="NVIDIA">NVIDIA</a>, <a href="https://en.wikipedia.org/wiki/Qualcomm" title="Qualcomm">Qualcomm</a>, <a href="https://en.wikipedia.org/wiki/Intel" title="Intel">Intel</a>, <a href="https://en.wikipedia.org/wiki/Amazon.com" class="mw-redirect" title="Amazon.com">Amazon</a>, and <a href="https://en.wikipedia.org/wiki/Microsoft" title="Microsoft">Microsoft</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/yahoo/CaffeOnSpark">CaffeOnSpark</a> – Scalable deep learning package running Caffe on <a href="https://en.wikipedia.org/wiki/Apache_Spark" title="Apache Spark">Spark</a> and <a href="https://en.wikipedia.org/wiki/Apache_Hadoop" title="Apache Hadoop">Hadoop</a> clusters with <a href="https://en.wikipedia.org/wiki/Peer-to-peer" title="Peer-to-peer">peer-to-peer</a> communication</li>
+<li><a rel="nofollow" class="external text" href="http://arxiv.org/abs/1606.06234">CNNLab</a> – Deep learning framework using GPU and FPGA-based accelerators</li>
+<li><a rel="nofollow" class="external text" href="http://cs.stanford.edu/people/karpathy/convnetjs/">ConvNetJS</a> – Javascript library for training deep learning models entirely in a web browser</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/rdevon/cortex">Cortex</a> – Theano-based deep learning toolbox for neuroimaging</li>
+<li><a rel="nofollow" class="external text" href="https://developer.nvidia.com/cudnn">cuDNN</a> – Optimized deep learning computation primitives implemented in CUDA</li>
+<li><a rel="nofollow" class="external text" href="https://sourceforge.net/projects/currennt/">CURRENNT</a> – CUDA-accelerated toolkit for deep Long Short-Term Memory (LSTM) RNN architectures supporting large data sets not fitting into main memory.</li>
+<li><a rel="nofollow" class="external text" href="https://pjreddie.com/darknet/">Darknet</a> - Darknet is an open source neural network framework written in C and CUDA, and supports CPU and GPU computation.</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/hughperkins/DeepCL">DeepCL</a> – OpenCL library to train deep convolutional networks, with APIs for C++, Python and the command line</li>
+<li><a rel="nofollow" class="external text" href="https://pair-code.github.io/deeplearnjs/">deeplearn.js</a> – Hardware-accelerated deep learning library for the web browser</li>
+<li><a rel="nofollow" class="external text" href="http://deeplearningkit.org/">DeepLearningKit</a> – Open source deep learning framework for iOS, OS X and tvOS</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/rasmusbergpalm/DeepLearnToolbox">DeepLearnToolbox</a> – Matlab/Octave toolbox for deep learning (deprecated)</li>
+<li><a rel="nofollow" class="external text" href="http://niclane.org/pubs/deepx_ipsn.pdf">DeepX</a> – Software accelerator for deep learning execution aimed towards mobile devices</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/zomux/deepy">deepy</a> – Extensible deep learning framework based on Theano</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/amznlabs/amazon-dsstne">DSSTNE</a> (Deep Scalable Sparse Tensor Network Engine) – <a href="https://en.wikipedia.org/wiki/Amazon.com" class="mw-redirect" title="Amazon.com">Amazon</a> developed library for building deep learning models</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/yandex/faster-rnnlm">Faster RNNLM (HS/NCE) toolkit</a> – An rnnlm implementation for training on huge datasets and very large vocabularies and usage in real-world ASR and MT problems</li>
+<li><a rel="nofollow" class="external text" href="https://www.gnu.org/software/gneuralnetwork/">GNU Gneural Network</a> – GNU package which implements a programmable neural network</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/01org/idlf">IDLF</a> – <a href="https://en.wikipedia.org/wiki/Intel" title="Intel">Intel</a>® Deep Learning Framework; supports OpenCL (deprecated)</li>
+<li>Intel <a href="https://en.wikipedia.org/wiki/Math_Kernel_Library" title="Math Kernel Library">Math Kernel Library</a> (Intel MKL), library of optimized math routines, including optimized deep learning computation primitives</li>
+<li><a rel="nofollow" class="external text" href="http://keras.io/">Keras</a> – Deep Learning library for Theano and TensorFlow</li>
+<li><a rel="nofollow" class="external text" href="http://lasagne.readthedocs.org/en/latest/">Lasagne</a> – Lightweight library to build and train neural networks in Theano</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/autumnai/leaf">Leaf</a> – "The Hacker's Machine Learning Engine"; supports OpenCL (official development suspended)</li>
+<li><a rel="nofollow" class="external text" href="http://arxiv.org/abs/1605.02766">LightNet</a> – MATLAB-based environment for deep learning</li>
+<li><a rel="nofollow" class="external text" href="http://www.vlfeat.org/matconvnet/">MatConvNet</a> – CNNs for MATLAB</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/abhinavvishnu/matex">MaTEx</a> – Distributed TensorFlow with MPI by <a href="https://en.wikipedia.org/wiki/PNNL" class="mw-redirect" title="PNNL">PNNL</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/pluskid/Mocha.jl">Mocha</a> – Deep learning framework for <a href="https://en.wikipedia.org/wiki/Julia_(programming_language)" title="Julia (programming language)">Julia</a>, inspired by Caffe</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/NervanaSystems/neon">neon</a> – Nervana's Python based Deep Learning framework</li>
+<li><a rel="nofollow" class="external text" href="http://fr.mathworks.com/products/neural-network/">Neural Network Toolbox</a> – MATLAB toolbox for neural network creation, training and simulation</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/PaddlePaddle/paddle">PaddlePaddle</a> – "PArallel Distributed Deep LEarning", deep learning platform</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/purine/purine2">Purine</a> – Bi-graph based deep learning framework</li>
+<li><a rel="nofollow" class="external text" href="http://deeplearning.net/software/pylearn2/">Pylearn2</a> – Machine learning library mainly built on top of Theano</li>
+<li><a rel="nofollow" class="external text" href="http://pytorch.org">Pytorch</a> - Python based implementation of Torch API, allows for dynamic graph construction</li>
+<li><a rel="nofollow" class="external text" href="https://scikit-neuralnetwork.readthedocs.org/">scikit-neuralnetwork</a> – Multi-layer perceptrons as a wrapper for Pylearn2</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/sklearn-theano/sklearn-theano">sklearn-theano</a> – Scikit-learn compatible tools using theano</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/cgarciae/tensorbuilder">Tensor Builder</a> – Lightweight extensible library for easy creation of deep neural networks using functions from "any Tensor-based library" (requires TensorFlow) through an API based on the Builder Pattern</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/hycis/TensorGraph">TensorGraph</a> – Framework for building any models based on TensorFlow</li>
+<li><a rel="nofollow" class="external text" href="https://tenso.rs/">TensorFire</a> – Neural networks framework for the web browser, accelerated by WebGL</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn">TF Learn (Scikit Flow)</a> – Simplified interface for TensorFlow</li>
+<li><a rel="nofollow" class="external text" href="https://research.googleblog.com/2016/08/tf-slim-high-level-library-to-define.html">TF-Slim</a> – High level library to define complex models in TensorFlow</li>
+<li><a rel="nofollow" class="external text" href="http://tflearn.org/">TFLearn</a> – Deep learning library featuring a higher-level API for TensorFlow</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/Ivaylo-Popov/Theano-Lights">Theano-Lights</a> – Deep learning research framework based on Theano</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/nyanp/tiny-dnn">tiny-dnn</a> – Header only, dependency-free deep learning framework in C++11</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/torchnet/torchnet">torchnet</a> – Torch framework providing a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/Samsung/veles">Veles</a> – Distributed machine learning platform by <a href="https://en.wikipedia.org/wiki/Samsung" title="Samsung">Samsung</a></li>
+</ul>
+<h2><span class="mw-headline" id="Related_software">Related software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_deep_learning_software/Resources&amp;action=edit&amp;section=2" title="Edit section: Related software">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="https://github.com/yosinski/deep-visualization-toolbox">Deep Visualization Toolbox</a> – Software tool for "probing" DNNs by feeding them image data and watching the reaction of every neuron, and for visualizing what a specific neuron "wants to see the most"</li>
+<li><a rel="nofollow" class="external text" href="http://lstm.seas.harvard.edu/">LSTMVis</a> – A visual analysis tool for recurrent neural networks</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/rewonc/pastalog">pastalog</a> – Simple, realtime visualization of neural network training performance</li>
+</ul>
+
+<br>
+
+<table class="wikitable sortable" style="text-align: center; font-size: 85%; width: auto; table-layout: fixed;">
+<tr>
+<th style="width: 12em">Software</th>
+<th>Creator</th>
+<th>Software license</th>
+<th>Open source</th>
+<th>Platform</th>
+<th>Written in</th>
+<th>Interface</th>
+<th><a href="https://en.wikipedia.org/wiki/OpenMP" title="OpenMP">OpenMP</a> support</th>
+<th><a href="https://en.wikipedia.org/wiki/OpenCL" title="OpenCL">OpenCL</a> support</th>
+<th><a href="https://en.wikipedia.org/wiki/CUDA" title="CUDA">CUDA</a> support</th>
+<th><a href="https://en.wikipedia.org/wiki/Automatic_differentiation" title="Automatic differentiation">Automatic differentiation</a></th>
+<th>Has pretrained models</th>
+<th><a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" title="Recurrent neural network">Recurrent nets</a></th>
+<th><a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" title="Convolutional neural network">Convolutional nets</a></th>
+<th><a href="https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine" title="Restricted Boltzmann machine">RBM</a>/<a href="https://en.wikipedia.org/wiki/Deep_belief_network" title="Deep belief network">DBNs</a></th>
+<th>Parallel execution (multi node)</th>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Caffe_(software)" title="Caffe (software)">Caffe</a></td>
+<td>Berkeley Vision and Learning Center</td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/BSD_license" class="mw-redirect" title="BSD license">BSD license</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="https://en.wikipedia.org/wiki/MATLAB" title="MATLAB">MATLAB</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #FED; color: black; vertical-align: middle; text-align: center;" class="depends table-depends">Under development</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=Caffe2_(software)&amp;action=edit&amp;redlink=1" class="new" title="Caffe2 (software) (page does not exist)">Caffe2</a></td>
+<td>Facebook</td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/Apache_2.0" class="mw-redirect" title="Apache 2.0">Apache 2.0</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="https://en.wikipedia.org/wiki/MATLAB" title="MATLAB">MATLAB</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #FED; color: black; vertical-align: middle; text-align: center;" class="depends table-depends">Under development</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Deeplearning4j" title="Deeplearning4j">Deeplearning4j</a></td>
+<td>Skymind engineering team; Deeplearning4j community; originally <a href="https://en.wikipedia.org/wiki/Adam_Gibson_(computer_scientist)" title="Adam Gibson (computer scientist)">Adam Gibson</a></td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/Apache_2.0" class="mw-redirect" title="Apache 2.0">Apache 2.0</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="https://en.wikipedia.org/wiki/Windows" class="mw-redirect" title="Windows">Windows</a>, <a href="https://en.wikipedia.org/wiki/Android_(operating_system)" title="Android (operating system)">Android</a> (<a href="/wiki/Cross-platform" title="Cross-platform">Cross-platform</a>)</td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a>, <a href="/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="https://en.wikipedia.org/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a>, <a href="https://en.wikipedia.org/wiki/Clojure_(programming_language)" class="mw-redirect" title="Clojure (programming language)">Clojure</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (<a href="https://en.wikipedia.org/wiki/Keras" title="Keras">Keras</a>), <a href="https://en.wikipedia.org/wiki/Kotlin_(programming_language)" title="Kotlin (programming language)">Kotlin</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">On roadmap</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Computational Graph</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Dlib" title="Dlib">Dlib</a></td>
+<td>Davis King</td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/Boost_Software_License" class="mw-redirect" title="Boost Software License">Boost Software License</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Cross-platform" title="Cross-platform">Cross-Platform</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Gensim" title="Gensim">Gensim</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Keras" title="Keras">Keras</a></td>
+<td>François Chollet</td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/MIT_license" class="mw-redirect" title="MIT license">MIT license</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="https://en.wikipedia.org/wiki/Windows" class="mw-redirect" title="Windows">Windows</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="https://en.wikipedia.org/wiki/R_(programming_language)" title="R (programming language)">R</a></td>
+<td style="background: #FED; color: black; vertical-align: middle; text-align: center;" class="depends table-depends">Only if using Theano or MXNet as backend</td>
+<td style="background: #FED; color: black; vertical-align: middle; text-align: center;" class="depends table-depends">Under development for the Theano backend (and on roadmap for the TensorFlow backend)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="/w/index.php?title=MatConvNet&amp;action=edit&amp;redlink=1" class="new" title="MatConvNet (page does not exist)">MatConvNet</a></td>
+<td><a href="/w/index.php?title=Andrea_Vedaldi&amp;action=edit&amp;redlink=1" class="new" title="Andrea Vedaldi (page does not exist)">Andrea Vedaldi</a>, <a href="/w/index.php?title=Karel_Lenc&amp;action=edit&amp;redlink=1" class="new" title="Karel Lenc (page does not exist)">Karel Lenc</a></td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/BSD_license" class="mw-redirect" title="BSD license">BSD license</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, <a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a> (<a href="https://en.wikipedia.org/wiki/OSX" class="mw-redirect" title="OSX">OSX</a> via Docker on roadmap)</td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="https://en.wikipedia.org/wiki/MATLAB" title="MATLAB">MATLAB</a>, <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a>,</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Microsoft_Cognitive_Toolkit" title="Microsoft Cognitive Toolkit">Microsoft Cognitive Toolkit</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Microsoft_Research" title="Microsoft Research">Microsoft Research</a></td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/MIT_license" class="mw-redirect" title="MIT license">MIT license</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, <a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a> (<a href="https://en.wikipedia.org/wiki/OSX" class="mw-redirect" title="OSX">OSX</a> via Docker on roadmap)</td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python (</a><a href="https://en.wikipedia.org/wiki/Keras" title="Keras">Keras</a>), <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a>, <a href="https://en.wikipedia.org/wiki/Command_line" class="mw-redirect" title="Command line">Command line</a>,</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/MXNet" title="MXNet">MXNet</a></td>
+<td>Distributed (Deep) Machine Learning Community</td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/Apache_2.0" class="mw-redirect" title="Apache 2.0">Apache 2.0</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="https://en.wikipedia.org/wiki/Windows" class="mw-redirect" title="Windows">Windows</a>, <a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" title="Amazon Web Services">AWS</a>, <a href="https://en.wikipedia.org/wiki/Android_(operating_system)" title="Android (operating system)">Android</a>,</td>
+<td>Small <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a> core library</td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="https://en.wikipedia.org/wiki/Julia_(programming_language)" title="Julia (programming language)">Julia</a>, <a href="https://en.wikipedia.org/wiki/Matlab" class="mw-redirect" title="Matlab">Matlab</a>, <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript">JavaScript</a>, <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" title="Go (programming language)">Go</a>, <a href="https://en.wikipedia.org/wiki/R_(programming_language)" title="R (programming language)">R</a>, <a href="https://en.wikipedia.org/wiki/Scala_(programming_language)" title="Scala (programming language)">Scala</a>, <a href="https://en.wikipedia.org/wiki/Perl_(programming_language)" class="mw-redirect" title="Perl (programming language)">Perl</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">On roadmap</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Neural_Designer" title="Neural Designer">Neural Designer</a></td>
+<td>Artelnics</td>
+<td style="background: #ddf; vertical-align: middle; text-align: center;" class="table-proprietary"><a href="https://en.wikipedia.org/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td><a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Graphical_user_interface" title="Graphical user interface">Graphical user interface</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/OpenNN" title="OpenNN">OpenNN</a></td>
+<td>Artelnics</td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/GNU_Lesser_General_Public_License" title="GNU Lesser General Public License">GNU LGPL</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+</tr>
+<tr>
+<td>Paddle</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Pytorch</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Apache_SINGA" title="Apache SINGA">Apache SINGA</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Apache_Incubator" title="Apache Incubator">Apache Incubator</a></td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/Apache_2.0" class="mw-redirect" title="Apache 2.0">Apache 2.0</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="https://en.wikipedia.org/wiki/Windows" class="mw-redirect" title="Windows">Windows</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a>, <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a>, <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" title="Java (programming language)">Java</a></td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #ececec; color: #2C2C2C; font-size: smaller; vertical-align: middle; text-align: center;" class="unknown table-unknown">?</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/TensorFlow" title="TensorFlow">TensorFlow</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Google_Brain" title="Google Brain">Google Brain</a> team</td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/Apache_2.0" class="mw-redirect" title="Apache 2.0">Apache 2.0</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a>, <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (<a href="https://en.wikipedia.org/wiki/Keras" title="Keras">Keras</a>), <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C (programming language)">C</a>/<a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a>, <a href="https://en.wikipedia.org/wiki/Java_(programming_language)" title="Java (programming language)">Java</a>, <a href="https://en.wikipedia.org/wiki/Go_(programming_language)" title="Go (programming language)">Go</a>, <a href="https://en.wikipedia.org/wiki/R_(programming_language)" title="R (programming language)">R</a></td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background: #FED; color: black; vertical-align: middle; text-align: center;" class="depends table-depends">On roadmap support</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Theano_(software)" title="Theano (software)">Theano</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Universit%C3%A9_de_Montr%C3%A9al" title="Université de Montréal">Université de Montréal</a></td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/BSD_Licenses" class="mw-redirect" title="BSD Licenses">BSD license</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Cross-platform" title="Cross-platform">Cross-platform</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Python_(programming_language)" title="Python (programming language)">Python</a> (<a href="https://en.wikipedia.org/wiki/Keras" title="Keras">Keras</a>)</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #FED; color: black; vertical-align: middle; text-align: center;" class="depends table-depends">Under development</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #FED; color: black; vertical-align: middle; text-align: center;" class="depends table-depends">Through Lasagne's model zoo</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Torch_(machine_learning)" title="Torch (machine learning)">Torch</a></td>
+<td>Ronan Collobert, Koray Kavukcuoglu, Clement Farabet</td>
+<td style="background: #9FF; color: black; vertical-align: middle; text-align: center;" class="free table-free"><a href="https://en.wikipedia.org/wiki/BSD_Licenses" class="mw-redirect" title="BSD Licenses">BSD license</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td><a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, <a href="/wiki/IOS" title="IOS">iOS</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C (programming language)">C</a>, <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" title="Lua (programming language)">Lua</a>, <a href="https://en.wikipedia.org/wiki/Lua_(programming_language)" title="Lua (programming language)">LuaJIT</a>, <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C (programming language)">C</a>, utility library for <a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a>/<a href="https://en.wikipedia.org/wiki/OpenCL" title="OpenCL">OpenCL</a></td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background: #FED; color: black; vertical-align: middle; text-align: center;" class="depends table-depends">Third party implementations</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Wolfram_Mathematica" title="Wolfram Mathematica">Wolfram Mathematica</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Wolfram_Research" title="Wolfram Research">Wolfram Research</a></td>
+<td style="background: #ddf; vertical-align: middle; text-align: center;" class="table-proprietary"><a href="https://en.wikipedia.org/wiki/Proprietary_software" title="Proprietary software">Proprietary</a></td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td><a href="https://en.wikipedia.org/wiki/Microsoft_Windows" title="Microsoft Windows">Windows</a>, <a href="https://en.wikipedia.org/wiki/Mac_OS_X" class="mw-redirect" title="Mac OS X">Mac OS X</a>, <a href="https://en.wikipedia.org/wiki/Linux" title="Linux">Linux</a>, <a href="https://en.wikipedia.org/wiki/Cloud_computing" title="Cloud computing">Cloud computing</a></td>
+<td><a href="https://en.wikipedia.org/wiki/C%2B%2B" title="C++">C++</a></td>
+<td><a href="https://en.wikipedia.org/wiki/Wolfram_Language" title="Wolfram Language">Wolfram Language</a></td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#F99;vertical-align:middle;text-align:center;" class="table-no">No</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+<td style="background:#9F9;vertical-align:middle;text-align:center;" class="table-yes">Yes</td>
+</tr>
+</table>
+
+--------------------
+
+
