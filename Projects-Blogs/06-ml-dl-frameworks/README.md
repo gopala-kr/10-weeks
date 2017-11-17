@@ -71,4 +71,63 @@ whitepapers
 </ol>
 </div>
 
+
+### python scientific
+
+<div class="section" id="scientific-computing-tools-for-python">
+<span id="content"></span><h1>Scientific Computing Tools for Python<a class="headerlink" href="#scientific-computing-tools-for-python" title="Permalink to this headline">¶</a></h1>
+<div class="toctree-wrapper compound">
+</div>
+<p>SciPy refers to several related but distinct entities:</p>
+<ul class="simple">
+<li>The <em>SciPy ecosystem</em>, a collection of open source software for scientific
+computing in Python.</li>
+<li>The <em>community</em> of people who use and develop this stack.</li>
+<li>Several <em>conferences</em> dedicated to scientific computing in Python - SciPy,
+EuroSciPy and SciPy.in.</li>
+<li>The <a class="reference internal" href="scipylib/index.html"><span class="doc">SciPy library</span></a>, one component of the SciPy stack,
+providing many numerical routines.</li>
+</ul>
+<div class="section" id="the-scipy-ecosystem">
+<h2>The SciPy ecosystem<a class="headerlink" href="#the-scipy-ecosystem" title="Permalink to this headline">¶</a></h2>
+<p>Scientific computing in Python builds upon a small core of packages:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://www.python.org/">Python</a>, a general purpose programming language. It is interpreted and
+dynamically typed and is very suited for interactive work and quick
+prototyping, while being powerful enough to write large applications in.</li>
+<li><a class="reference external" href="http://www.numpy.org/">NumPy</a>, the fundamental package for numerical computation. It defines the
+numerical array and matrix types and basic operations on them.</li>
+<li>The <a class="reference internal" href="scipylib/index.html"><span class="doc">SciPy library</span></a>, a collection of numerical algorithms and
+domain-specific toolboxes, including signal processing, optimization,
+statistics and much more.</li>
+<li><a class="reference external" href="http://matplotlib.org/">Matplotlib</a>, a mature and popular plotting package, that provides
+publication-quality 2D plotting as well as rudimentary 3D plotting</li>
+</ul>
+<p>On this base, the SciPy ecosystem includes general and specialised tools for data management and computation, productive experimentation and high-performance computing. Below we overview some key packages, though there are <a class="reference internal" href="topical-software.html"><span class="doc">many more relevant packages</span></a>.</p>
+<p>Data and computation:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://pandas.pydata.org/">pandas</a>, providing high-performance, easy to use data structures.</li>
+<li><a class="reference external" href="http://www.sympy.org/">SymPy</a>, for symbolic mathematics and computer algebra.</li>
+<li><a class="reference external" href="http://scikit-image.org/">scikit-image</a> is a collection of algorithms for image processing.</li>
+<li><a class="reference external" href="http://scikit-learn.org/">scikit-learn</a> is a collection of algorithms and tools for machine learning.</li>
+<li><a class="reference external" href="http://www.h5py.org">h5py</a> and <a class="reference external" href="http://www.pytables.org">PyTables</a> can both access data stored in the HDF5 format.</li>
+</ul>
+<p>Productivity and high-performance computing:</p>
+<ul class="simple">
+<li><a class="reference external" href="http://ipython.org/">IPython</a>, a rich interactive interface, letting you quickly process data and
+test ideas.</li>
+<li>The <a class="reference external" href="http://jupyter.org/">Jupyter</a> notebook provides IPython functionality and more in your web
+browser, allowing you to document your computation in an easily reproducible form.</li>
+<li><a class="reference external" href="http://cython.org/">Cython</a> extends Python syntax so that you can conveniently build C extensions,
+either to speed up critical code, or to integrate with C/C++ libraries.</li>
+<li><a class="reference external" href="https://dask.readthedocs.io/">Dask</a>, <a class="reference external" href="https://joblib.readthedocs.io/">Joblib</a> or <a class="reference external" href="https://ipyparallel.readthedocs.io/">IPyParallel</a> for distributed processing with a focus on numeric data.</li>
+</ul>
+<p>Quality assurance:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://nose.readthedocs.org/en/latest/">nose</a>, a framework for testing Python code, being phased out in preference for <a class="reference external" href="https://docs.pytest.org/">pytest</a>.</li>
+<li><a class="reference external" href="https://github.com/numpy/numpydoc">numpydoc</a>, a standard and library for documenting Scientific Python libraries.</li>
+</ul>
+</div>
+</div>
+
 ***************************
