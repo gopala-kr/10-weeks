@@ -19,6 +19,8 @@ whitepapers
 | [TensorFlow(2015)](http://download.tensorflow.org/paper/whitepaper2015.pdf) | [Theano(2010)](http://www.iro.umontreal.ca/~lisa/pointeurs/theano_scipy2010.pdf) + [Theano(2016)](https://arxiv.org/pdf/1605.02688v1.pdf) | [Caffe(2014)](https://arxiv.org/pdf/1408.5093.pdf) + [Caffe2](http://www.zdnet.com/article/caffe2-deep-learning-wide-ambitions-flexibility-scalability-and-advocacy/) |
 
 
+-------------------
+
 ### tf papers
 
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - This paper describes the TensorFlow interface and an implementation of that interface that we have built at Google
@@ -27,6 +29,8 @@ whitepapers
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (MPI)
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - This paper describes the TensorFlow dataflow model in contrast to existing systems and demonstrate the compelling performance
+
+----------------------------------
 
 ### keras ref
 
@@ -53,6 +57,8 @@ whitepapers
 - [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 - [A Bit of Deep Learning and Keras](https://www.youtube.com/watch?v=UOEhojCzWrY&list=PLgJhDSE2ZLxaPX0jteHZG4skdj8ZrST9d): a multipart video introduction to deep learning and keras
 
+-----------------------
+
 ### torch ref
 
 <div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
@@ -70,6 +76,8 @@ whitepapers
 <li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.wired.com/2015/01/facebook-open-sources-trove-ai-tools/">"Facebook Open-Sources a Trove of AI Tools"</a>. <i><a href="/wiki/Wired_(website)" class="mw-redirect" title="Wired (website)">Wired</a></i>. 16 January 2015.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wired&amp;rft.atitle=Facebook+Open-Sources+a+Trove+of+AI+Tools&amp;rft.date=2015-01-16&amp;rft_id=https%3A%2F%2Fwww.wired.com%2F2015%2F01%2Ffacebook-open-sources-trove-ai-tools%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATorch+%28machine+learning%29" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
 </ol>
 </div>
+
+-----------------------
 
 ### caffe ref
 
@@ -92,8 +100,9 @@ whitepapers
 </div>
 </div>
 
+-----------------------------
 
-### MXNet ref
+### maxnet ref
 
 <div class="mw-references-wrap">
 <ol class="references">
@@ -107,6 +116,7 @@ whitepapers
 </ol>
 </div>
 
+--------------------------
 
 ### dl ref
 
@@ -132,11 +142,10 @@ whitepapers
 <li><a rel="nofollow" class="external text" href="http://deep-learning.sg.tn/index.php/2-non-categorise/5-popular-deep-learning-libraries">Popular Deep Learning Libraries</a></li>
 </ul>
 
+---------------------
 
+### Scientific Computing Tools for Python
 
-
-<div class="section" id="scientific-computing-tools-for-python">
-<span id="content"></span><h2>Scientific Computing Tools for Python<a class="headerlink" href="#scientific-computing-tools-for-python" title="Permalink to this headline">¶</a></h2>
 <div class="toctree-wrapper compound">
 </div>
 <p>SciPy refers to several related but distinct entities:</p>
@@ -150,7 +159,7 @@ EuroSciPy and SciPy.in.</li>
 providing many numerical routines.</li>
 </ul>
 <div class="section" id="the-scipy-ecosystem">
-<h3>The SciPy ecosystem<a class="headerlink" href="#the-scipy-ecosystem" title="Permalink to this headline">¶</a></h3>
+<h4>The SciPy ecosystem<a class="headerlink" href="#the-scipy-ecosystem" title="Permalink to this headline">¶</a></h4>
 <p>Scientific computing in Python builds upon a small core of packages:</p>
 <ul class="simple">
 <li><a class="reference external" href="https://www.python.org/">Python</a>, a general purpose programming language. It is interpreted and
