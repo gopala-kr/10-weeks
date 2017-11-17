@@ -72,10 +72,8 @@ whitepapers
 </div>
 
 
-### python scientific
-
 <div class="section" id="scientific-computing-tools-for-python">
-<span id="content"></span><h1>Scientific Computing Tools for Python<a class="headerlink" href="#scientific-computing-tools-for-python" title="Permalink to this headline">¶</a></h1>
+<span id="content"></span><h2>Scientific Computing Tools for Python<a class="headerlink" href="#scientific-computing-tools-for-python" title="Permalink to this headline">¶</a></h2>
 <div class="toctree-wrapper compound">
 </div>
 <p>SciPy refers to several related but distinct entities:</p>
@@ -89,7 +87,7 @@ EuroSciPy and SciPy.in.</li>
 providing many numerical routines.</li>
 </ul>
 <div class="section" id="the-scipy-ecosystem">
-<h2>The SciPy ecosystem<a class="headerlink" href="#the-scipy-ecosystem" title="Permalink to this headline">¶</a></h2>
+<h3>The SciPy ecosystem<a class="headerlink" href="#the-scipy-ecosystem" title="Permalink to this headline">¶</a></h3>
 <p>Scientific computing in Python builds upon a small core of packages:</p>
 <ul class="simple">
 <li><a class="reference external" href="https://www.python.org/">Python</a>, a general purpose programming language. It is interpreted and
