@@ -116,31 +116,6 @@ whitepapers
 </ol>
 </div>
 
---------------------------
-
-### dl ref
-
-<ul>
-<li><a rel="nofollow" class="external text" href="https://github.com/showcases/machine-learning">GitHub machine learning showcase</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.kdnuggets.com/2015/06/popular-deep-learning-tools.html">Popular Deep Learning Tools – a review</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.kdnuggets.com/2015/12/deep-learning-tools.html">50 Deep Learning Software Tools and Platforms</a></li>
-<li><a rel="nofollow" class="external text" href="https://github.com/DL-Benchmarks/DL-Benchmarks">Comparative study of Caffe, Neon, TensorFlow, Theano, and Torch</a></li>
-<li><a rel="nofollow" class="external text" href="http://deeplearning.net/software_links/">Software links</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.teglor.com/b/deep-learning-libraries-language-cm569/">Deep Learning Libraries by Language</a></li>
-<li><a rel="nofollow" class="external text" href="http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html">DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow</a></li>
-<li><a rel="nofollow" class="external text" href="https://github.com/zer0n/deepframeworks/blob/master/README.md">Evaluation of Deep Learning Toolkits</a>, an evaluation of Caffe, CNTK, TensorFlow, Theano, and Torch with ratings on different aspects</li>
-<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Vf_-OkqbwPo">YouTube: CS231n Winter 2016: Lecture 12: Deep Learning libraries</a> – A comparison of Caffe, Torch, Theano and Tensorflow</li>
-<li><a rel="nofollow" class="external text" href="http://blog.apcelent.com/most-popular-deep-learning-library-2015.html">10 Most Popular Deep Learning Libraries Started in 2015</a></li>
-<li><a rel="nofollow" class="external text" href="http://www.infoworld.com/article/3026262/data-science/13-framewoks-for-mastering-machine-learning.html">13 frameworks for mastering machine learning</a></li>
-<li><a rel="nofollow" class="external text" href="https://venturebeat.com/2015/11/14/deep-learning-frameworks/">Want an open-source deep learning framework? Take your pick</a></li>
-<li><a rel="nofollow" class="external text" href="https://www.quora.com/What-is-the-best-deep-learning-library-at-the-current-stage-for-working-on-large-data">What is the best deep learning library at the current stage for working on large data?</a></li>
-<li><a rel="nofollow" class="external text" href="https://github.com/josephmisiti/awesome-machine-learning">Awesome Machine Learning</a> – A large list of machine learning frameworks, libraries and software by language</li>
-<li><a rel="nofollow" class="external text" href="http://www.datasciencecentral.com/profiles/blogs/here-are-15-libraries-in-various-languages-to-help-implement-your">15 Deep Learning Libraries</a> – 15 libraries in various languages</li>
-<li><a rel="nofollow" class="external text" href="https://esciencegroup.com/2016/02/08/tensorflow-meets-microsofts-cntk/">TensorFlow Meets Microsoft’s CNTK</a> – Comparison of <a href="https://en.wikipedia.org/wiki/TensorFlow" title="TensorFlow">TensorFlow</a> and <a href="https://en.wikipedia.org/wiki/CNTK" class="mw-redirect" title="CNTK">CNTK</a></li>
-<li><a rel="nofollow" class="external text" href="https://developer.nvidia.com/deep-learning-frameworks">Deep Learning Frameworks</a> – Short list of deep learning frameworks recommended by <a href="https://en.wikipedia.org/wiki/Nvidia" title="Nvidia">Nvidia</a></li>
-<li><a rel="nofollow" class="external text" href="https://github.com/jtoy/awesome-tensorflow#libraries">Awesome TensorFlow – Libraries</a></li>
-<li><a rel="nofollow" class="external text" href="http://deep-learning.sg.tn/index.php/2-non-categorise/5-popular-deep-learning-libraries">Popular Deep Learning Libraries</a></li>
-</ul>
 
 ---------------------
 
@@ -200,9 +175,34 @@ either to speed up critical code, or to integrate with C/C++ libraries.</li>
 </div>
 </div>
 
-***************************
+--------------------------
 
-### dl libraries Wiki ref
+### dl on web ref
+
+<ul>
+<li><a rel="nofollow" class="external text" href="https://github.com/showcases/machine-learning">GitHub machine learning showcase</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.kdnuggets.com/2015/06/popular-deep-learning-tools.html">Popular Deep Learning Tools – a review</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.kdnuggets.com/2015/12/deep-learning-tools.html">50 Deep Learning Software Tools and Platforms</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/DL-Benchmarks/DL-Benchmarks">Comparative study of Caffe, Neon, TensorFlow, Theano, and Torch</a></li>
+<li><a rel="nofollow" class="external text" href="http://deeplearning.net/software_links/">Software links</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.teglor.com/b/deep-learning-libraries-language-cm569/">Deep Learning Libraries by Language</a></li>
+<li><a rel="nofollow" class="external text" href="http://deeplearning4j.org/compare-dl4j-torch7-pylearn.html">DL4J vs. Torch vs. Theano vs. Caffe vs. TensorFlow</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/zer0n/deepframeworks/blob/master/README.md">Evaluation of Deep Learning Toolkits</a>, an evaluation of Caffe, CNTK, TensorFlow, Theano, and Torch with ratings on different aspects</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Vf_-OkqbwPo">YouTube: CS231n Winter 2016: Lecture 12: Deep Learning libraries</a> – A comparison of Caffe, Torch, Theano and Tensorflow</li>
+<li><a rel="nofollow" class="external text" href="http://blog.apcelent.com/most-popular-deep-learning-library-2015.html">10 Most Popular Deep Learning Libraries Started in 2015</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.infoworld.com/article/3026262/data-science/13-framewoks-for-mastering-machine-learning.html">13 frameworks for mastering machine learning</a></li>
+<li><a rel="nofollow" class="external text" href="https://venturebeat.com/2015/11/14/deep-learning-frameworks/">Want an open-source deep learning framework? Take your pick</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.quora.com/What-is-the-best-deep-learning-library-at-the-current-stage-for-working-on-large-data">What is the best deep learning library at the current stage for working on large data?</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/josephmisiti/awesome-machine-learning">Awesome Machine Learning</a> – A large list of machine learning frameworks, libraries and software by language</li>
+<li><a rel="nofollow" class="external text" href="http://www.datasciencecentral.com/profiles/blogs/here-are-15-libraries-in-various-languages-to-help-implement-your">15 Deep Learning Libraries</a> – 15 libraries in various languages</li>
+<li><a rel="nofollow" class="external text" href="https://esciencegroup.com/2016/02/08/tensorflow-meets-microsofts-cntk/">TensorFlow Meets Microsoft’s CNTK</a> – Comparison of <a href="https://en.wikipedia.org/wiki/TensorFlow" title="TensorFlow">TensorFlow</a> and <a href="https://en.wikipedia.org/wiki/CNTK" class="mw-redirect" title="CNTK">CNTK</a></li>
+<li><a rel="nofollow" class="external text" href="https://developer.nvidia.com/deep-learning-frameworks">Deep Learning Frameworks</a> – Short list of deep learning frameworks recommended by <a href="https://en.wikipedia.org/wiki/Nvidia" title="Nvidia">Nvidia</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/jtoy/awesome-tensorflow#libraries">Awesome TensorFlow – Libraries</a></li>
+<li><a rel="nofollow" class="external text" href="http://deep-learning.sg.tn/index.php/2-non-categorise/5-popular-deep-learning-libraries">Popular Deep Learning Libraries</a></li>
+</ul>
+
+
+### dl libraries wiki ref
 
 <ul>
 <li><a rel="nofollow" class="external text" href="https://github.com/dritchie/adnn">adnn</a> – Javascript neural networks</li>
@@ -252,7 +252,6 @@ either to speed up critical code, or to integrate with C/C++ libraries.</li>
 <li><a rel="nofollow" class="external text" href="https://github.com/torchnet/torchnet">torchnet</a> – Torch framework providing a set of abstractions aiming at encouraging code re-use as well as encouraging modular programming</li>
 <li><a rel="nofollow" class="external text" href="https://github.com/Samsung/veles">Veles</a> – Distributed machine learning platform by <a href="https://en.wikipedia.org/wiki/Samsung" title="Samsung">Samsung</a></li>
 </ul>
-<h2><span class="mw-headline" id="Related_software">Related software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comparison_of_deep_learning_software/Resources&amp;action=edit&amp;section=2" title="Edit section: Related software">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
 <ul>
 <li><a rel="nofollow" class="external text" href="https://github.com/yosinski/deep-visualization-toolbox">Deep Visualization Toolbox</a> – Software tool for "probing" DNNs by feeding them image data and watching the reaction of every neuron, and for visualizing what a specific neuron "wants to see the most"</li>
 <li><a rel="nofollow" class="external text" href="http://lstm.seas.harvard.edu/">LSTMVis</a> – A visual analysis tool for recurrent neural networks</li>
