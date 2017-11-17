@@ -73,7 +73,7 @@ whitepapers
 
 ### caffe ref
 
-<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Caffe_(software)&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+
 <div class="reflist" style="list-style-type: decimal;">
 <div class="mw-references-wrap mw-references-columns">
 <ol class="references">
