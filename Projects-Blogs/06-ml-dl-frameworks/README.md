@@ -1,7 +1,7 @@
 ## case study: ml/dl frameworks/libraries(an architectural overview)
 
  * **frameworks:** Theano, Tensorflow, Caffe + caffe2, Torch + pytorch, MXNet
- * **libraries/ searvices:** Keras, Deeplearning4j, Microsoft Cognitive Toolkit, Lasagne, BigDL, scikit-learn, chainer
+ * **libraries/ services:** Keras, Deeplearning4j, Microsoft Cognitive Toolkit, Lasagne, BigDL, scikit-learn, chainer
 
 ********************************
 
@@ -19,7 +19,7 @@
 
 ***********************
 
- nowadays quora and medium have become learning platforms, some of the usefull tags:
+ nowadays quora and medium have become learning platforms, some usefull tags to understand AI in simple terms:
  
 [Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence), [Machine Learning](https://www.quora.com/topic/Machine-Learning), [Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks),
 [Deep Learning](https://www.quora.com/topic/Deep-Learning), [computer vision](https://www.quora.com/topic/Computer-Vision), [Convolutional Neural Networks](https://www.quora.com/topic/Convolutional-Neural-Networks-1), [Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing), [Mathematics and Machine Learning
