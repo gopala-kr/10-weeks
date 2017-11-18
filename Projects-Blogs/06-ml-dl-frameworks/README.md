@@ -1,7 +1,7 @@
 ## case study: ml/dl frameworks/libraries(an architectural overview)
 
- frameworks: Theano, Tensorflow, Caffe + caffe2, Torch + pytorch, MXNet
- libraries/ searvices: Keras, Deeplearning4j, Microsoft Cognitive Toolkit, Lasagne, BigDL, scikit-learn, chainer
+ * **frameworks:** Theano, Tensorflow, Caffe + caffe2, Torch + pytorch, MXNet
+ * **libraries/ searvices:** Keras, Deeplearning4j, Microsoft Cognitive Toolkit, Lasagne, BigDL, scikit-learn, chainer
 
 ********************************
 
@@ -19,7 +19,9 @@
 
 ***********************
 
-Quora : [Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence), [Machine Learning](https://www.quora.com/topic/Machine-Learning), [Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks),
+ nowadays quora and medium have become learning platforms, some of the usefull tags:
+ 
+[Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence), [Machine Learning](https://www.quora.com/topic/Machine-Learning), [Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks),
 [Deep Learning](https://www.quora.com/topic/Deep-Learning), [computer vision](https://www.quora.com/topic/Computer-Vision), [Convolutional Neural Networks](https://www.quora.com/topic/Convolutional-Neural-Networks-1), [Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing), [Mathematics and Machine Learning
 ](https://www.quora.com/topic/Mathematics-and-Machine-Learning), [Gradient Descent](https://www.quora.com/topic/Gradient-Descent), [Support Vector Machines](https://www.quora.com/topic/Support-Vector-Machines), [Naive Bayes](https://www.quora.com/topic/Naive-Bayes), [Kernel methods](https://www.quora.com/topic/Kernel-methods-1), [Classification
 (machine learning)](https://www.quora.com/topic/Classification-machine-learning), [Random Forests
