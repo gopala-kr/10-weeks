@@ -19,7 +19,7 @@
 
 ***********************
 
- nowadays quora and medium have become learning platforms, some usefull tags to understand AI in simple terms:
+ Nowadays Quora and Medium's have become learning platforms, some useful tags to understand AI in simple words:
  
 [Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence), [Machine Learning](https://www.quora.com/topic/Machine-Learning), [Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks),
 [Deep Learning](https://www.quora.com/topic/Deep-Learning), [computer vision](https://www.quora.com/topic/Computer-Vision), [Convolutional Neural Networks](https://www.quora.com/topic/Convolutional-Neural-Networks-1), [Natural Language Processing](https://www.quora.com/topic/Natural-Language-Processing), [Mathematics and Machine Learning
