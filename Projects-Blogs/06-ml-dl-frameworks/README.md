@@ -96,6 +96,52 @@ whitepapers
 </ol>
 </div>
 
+### Pytorch ref
+
+<ul>
+<li><a href="http://pytorch.org/" target="_blank">http://pytorch.org/</a></li>
+<li><a href="http://pytorch.org/docs/index.html" target="_blank">http://pytorch.org/docs/index.html</a></li>
+<li><a href="https://hackernoon.com/how-is-pytorch-different-from-tensorflow-2c90f44747d6" target="_blank">https://hackernoon.com/how-is-pytorch-different-from-tensorflow-2c90f44747d6</a></li>
+<li><a href="https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/" target="_blank">https://blog.paperspace.com/adversarial-autoencoders-with-pytorch/</a></li>
+<li><a href="https://devblogs.nvidia.com/parallelforall/recursive-neural-networks-pytorch/" target="_blank">https://devblogs.nvidia.com/parallelforall/recursive-neural-networks-pytorch/</a></li>
+<li><a href="http://blog.outcome.io/pytorch-quick-start-classifying-an-image/" target="_blank">http://blog.outcome.io/pytorch-quick-start-classifying-an-image/</a></li>
+<li><a href="https://github.com/ritchieng/the-incredible-pytorch" target="_blank">https://github.com/ritchieng/the-incredible-pytorch</a></li>
+<li><a href="https://www.youtube.com/watch?v=nbJ-2G2GXL0" target="_blank">https://www.youtube.com/watch?v=nbJ-2G2GXL0</a></li>
+<li><a href="https://www.youtube.com/watch?v=4RzoFWre44Y&amp;t=7s" target="_blank">https://www.youtube.com/watch?v=4RzoFWre44Y&amp;t=7s</a></li>
+<li><a href="https://www.youtube.com/watch?v=hiIqRUseouQ" target="_blank">https://www.youtube.com/watch?v=hiIqRUseouQ</a></li>
+<li><a href="https://github.com/PythonWorkshop/Intro-to-TensorFlow-and-PyTorch/blob/master/PyTorch Tutorial.ipynb" target="_blank">https://github.com/PythonWorkshop/Intro-to-TensorFlow-and-PyTorch/blob/master/PyTorch%20Tutorial.ipynb</a></li>
+<li><a href="https://github.com/PythonWorkshop/Intro-to-TensorFlow-and-PyTorch" target="_blank">https://github.com/PythonWorkshop/Intro-to-TensorFlow-and-PyTorch</a></li>
+<li><a href="https://github.com/pytorch/examples" target="_blank">https://github.com/pytorch/examples</a></li>
+<li><a href="http://pytorch.org/tutorials/" target="_blank">http://pytorch.org/tutorials/</a></li>
+<li><a href="http://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html" target="_blank">http://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html</a></li>
+<li><a href="http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/tutorials/tut4.pdf" target="_blank">http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/tutorials/tut4.pdf</a></li>
+<li><a href="http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec1.pdf" target="_blank">http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec1.pdf</a></li>
+<li><a href="https://discuss.pytorch.org/t/understanding-loss-function-gradients/771/5" target="_blank">https://discuss.pytorch.org/t/understanding-loss-function-gradients/771/5</a></li>
+<li><a href="https://discuss.pytorch.org/t/visual-watcher-when-training-evaluating-or-tensorboard-equivalence/146/8" target="_blank">https://discuss.pytorch.org/t/visual-watcher-when-training-evaluating-or-tensorboard-equivalence/146/8</a></li>
+<li><a href="https://github.com/jcjohnson/pytorch-examples" target="_blank">https://github.com/jcjohnson/pytorch-examples</a></li>
+<li><a href="https://discuss.pytorch.org/t/print-autograd-graph/692/8" target="_blank">https://discuss.pytorch.org/t/print-autograd-graph/692/8</a></li>
+<li><a href="https://discuss.pytorch.org/t/print-autograd-graph/692" target="_blank">https://discuss.pytorch.org/t/print-autograd-graph/692</a></li>
+<li><a href="https://github.com/szagoruyko/functional-zoo/blob/master/visualize.py" target="_blank">https://github.com/szagoruyko/functional-zoo/blob/master/visualize.py</a></li>
+<li><a href="https://github.com/szagoruyko/functional-zoo/blob/master/resnet-18-export.ipynb" target="_blank">https://github.com/szagoruyko/functional-zoo/blob/master/resnet-18-export.ipynb</a></li>
+<li><a href="https://www.safaribooksonline.com/library/view/strata-hadoop/9781491976166/video302404.html" target="_blank">https://www.safaribooksonline.com/library/view/strata-hadoop/9781491976166/video302404.html</a></li>
+<li><a href="https://discuss.pytorch.org/t/build-your-own-loss-function-in-pytorch/235" target="_blank">https://discuss.pytorch.org/t/build-your-own-loss-function-in-pytorch/235</a></li>
+<li><a href="http://pytorch.org/docs/notes/extending.html#extending-torch-autograd" target="_blank">http://pytorch.org/docs/notes/extending.html#extending-torch-autograd</a></li>
+<li><a href="http://blog.gaurav.im/2017/04/24/a-gentle-intro-to-pytorch/" target="_blank">http://blog.gaurav.im/2017/04/24/a-gentle-intro-to-pytorch/</a></li>
+<li><a href="https://stackoverflow.com/questions/41924453/pytorch-how-to-use-dataloaders-for-custom-datasets" target="_blank">https://stackoverflow.com/questions/41924453/pytorch-how-to-use-dataloaders-for-custom-datasets</a></li>
+<li><a href="https://discuss.pytorch.org/t/saving-and-loading-a-model-in-pytorch/2610/3" target="_blank">https://discuss.pytorch.org/t/saving-and-loading-a-model-in-pytorch/2610/3</a></li>
+<li><a href="https://discuss.pytorch.org/t/load-a-saved-model/109" target="_blank">https://discuss.pytorch.org/t/load-a-saved-model/109</a></li>
+<li><a href="https://discuss.pytorch.org/t/saving-torch-models/838" target="_blank">https://discuss.pytorch.org/t/saving-torch-models/838</a></li>
+<li><a href="https://discuss.pytorch.org/t/saving-custom-models/621/4" target="_blank">https://discuss.pytorch.org/t/saving-custom-models/621/4</a></li>
+<li><a href="https://github.com/jcjohnson/pytorch-examples" target="_blank">https://github.com/jcjohnson/pytorch-examples</a></li>
+<li><a href="https://discuss.pytorch.org/t/build-your-own-loss-function-in-pytorch/235/19" target="_blank">https://discuss.pytorch.org/t/build-your-own-loss-function-in-pytorch/235/19</a></li>
+<li><a href="https://github.com/pytorch/examples/blob/master/imagenet/main.py" target="_blank">https://github.com/pytorch/examples/blob/master/imagenet/main.py</a></li>
+<li><a href="https://github.com/pytorch/examples/blob/master/mnist/main.py" target="_blank">https://github.com/pytorch/examples/blob/master/mnist/main.py</a></li>
+<li><a href="https://discuss.pytorch.org/t/discussion-about-datasets-and-dataloaders/296" target="_blank">https://discuss.pytorch.org/t/discussion-about-datasets-and-dataloaders/296</a></li>
+<li><a href="https://www.kaggle.com/mratsim/starting-kit-for-pytorch-deep-learning" target="_blank">https://www.kaggle.com/mratsim/starting-kit-for-pytorch-deep-learning</a></li>
+<li><a href="https://iamtrask.github.io/2017/01/15/pytorch-tutorial/" target="_blank">https://iamtrask.github.io/2017/01/15/pytorch-tutorial/</a></li>
+</ul>
+
+
 -----------------------
 
 ### caffe ref
