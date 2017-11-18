@@ -2,8 +2,6 @@
 <div class="post-meta"><span class="small">By</span> <span class="author vcard"><span class="fn"><a href="https://machinelearningmastery.com/author/jasonb/" title="Posts by Jason Brownlee" rel="author">Jason Brownlee</a></span></span> <span class="small">on</span> <abbr class="date time published updated" title="2016-10-05T05:00:00+1100">October 5, 2016</abbr>  <span class="small">in</span> <span class="categories"><a href="https://machinelearningmastery.com/category/machine-learning-algorithms/" title="View all items in Machine Learning Algorithms">Machine Learning Algorithms</a></span>  </div>
 	<section class="entry">
 <div class='apss-social-share apss-theme-4 clearfix'>
-
-
 				<div class='apss-twitter apss-single-icon'>
 					<a rel='nofollow'  onclick="apss_open_in_popup_window(event, 'https://twitter.com/intent/tweet?text=Stop%20Coding%20Machine%20Learning%20Algorithms%20From%20Scratch&amp;url=https%3A%2F%2Fmachinelearningmastery.com%2Fdont-implement-machine-learning-algorithms%2F&amp;');" href='javascript:void(0);'  title="Share on Twitter" target=''>
 						<div class='apss-icon-block clearfix'>
@@ -21,7 +19,6 @@
 						</div>
 											</a>
 				</div>
-				
 				<div class='apss-linkedin apss-single-icon'>
 					<a rel='nofollow'  onclick="apss_open_in_popup_window(event, 'http://www.linkedin.com/shareArticle?mini=true&amp;title=Stop%20Coding%20Machine%20Learning%20Algorithms%20From%20Scratch&amp;url=https://machinelearningmastery.com/dont-implement-machine-learning-algorithms/&amp;summary=You+Don%27t+Have+To+Implement+Algorithms%0D%0A...if+you%E2%80%99re+a+beginner+and+just+getting+started.%0D%0AStop.%0D%0A...');"  title="Share on LinkedIn" target='' href='http://www.linkedin.com/shareArticle?mini=true&amp;title=Stop%20Coding%20Machine%20Learning%20Algorithms%20From%20Scratch&amp;url=https://machinelearningmastery.com/dont-implement-machine-learning-algorithms/&amp;summary=You+Don%27t+Have+To+Implement+Algorithms%0D%0A...if+you%E2%80%99re+a+beginner+and+just+getting+started.%0D%0AStop.%0D%0A...'>
 						<div class='apss-icon-block clearfix'><i class='fa fa-linkedin'></i>
@@ -40,6 +37,7 @@
 											</a>
 				</div>
 				</div><h3 style="text-align: center;">You Don&#8217;t Have To Implement Algorithms<br />
+				
 &#8230;<em>if you’re a beginner and just getting started.</em></h3>
 <p>Stop.</p>
 <p>Are you implementing a machine learning algorithm at the moment?</p>
@@ -151,16 +149,4 @@ implementing algorithms.</strong></p>
 <li><a href="http://machinelearningmastery.com/understand-machine-learning-algorithms-by-implementing-them-from-scratch/">Understand Machine Learning Algorithms By Implementing Them From Scratch</a></li>
 <li><a href="http://machinelearningmastery.com/benefits-of-implementing-machine-learning-algorithms-from-scratch/">Benefits of Implementing Machine Learning Algorithms From Scratch</a></li>
 </ul>
-<div class="awac-wrapper"><div class="awac widget text-36">			<div class="textwidget"><p><div class="woo-sc-hr"></div><br />
-<center></p>
-<h2 style="text-align: center;">Frustrated With Machine Learning Math?</h2>
-<p><a href="/master-machine-learning-algorithms/"><img style="border: 0;" src="https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/MasterMachineLearningAlgorithms-small.png" alt="Mater Machine Learning Algorithms" align="left" /></a></p>
-<h4 style="text-align: center;">See How Algorithms Work in Minutes</h4>
-<p style="text-align: center;">&#8230;with just arithmetic and simple examples</p>
-<p style="text-align: center;">Discover how in my new Ebook: <a href="/master-machine-learning-algorithms/">Master Machine Learning Algorithms</a></p>
-<p style="text-align: center;">It covers <strong>explanations</strong> and <strong>examples</strong> of <strong>10 top algorithms</strong>, like:<br /><em>Linear Regression</em>, <em>k-Nearest Neighbors</em>, <em>Support Vector Machines</em> and much more&#8230;</p>
-<h4 style="text-align: center;">Finally, Pull Back the Curtain on <br />Machine Learning Algorithms</h4>
-<p style="text-align: center;">Skip the Academics. Just Results.</p>
-<p style="text-align: center;"><a href="/master-machine-learning-algorithms/">Click to learn more</a>.</p>
-<p></center><br />
-<div class="woo-sc-hr"></div></p>
+
