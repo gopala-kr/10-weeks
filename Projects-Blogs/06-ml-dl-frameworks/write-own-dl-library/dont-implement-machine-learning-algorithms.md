@@ -1,42 +1,5 @@
 <h1 class="title entry-title">Stop Coding Machine Learning Algorithms From Scratch</h1>	</header>
-<div class="post-meta"><span class="small">By</span> <span class="author vcard"><span class="fn"><a href="https://machinelearningmastery.com/author/jasonb/" title="Posts by Jason Brownlee" rel="author">Jason Brownlee</a></span></span> <span class="small">on</span> <abbr class="date time published updated" title="2016-10-05T05:00:00+1100">October 5, 2016</abbr>  <span class="small">in</span> <span class="categories"><a href="https://machinelearningmastery.com/category/machine-learning-algorithms/" title="View all items in Machine Learning Algorithms">Machine Learning Algorithms</a></span>  </div>
-	<section class="entry">
-<div class='apss-social-share apss-theme-4 clearfix'>
-				<div class='apss-twitter apss-single-icon'>
-					<a rel='nofollow'  onclick="apss_open_in_popup_window(event, 'https://twitter.com/intent/tweet?text=Stop%20Coding%20Machine%20Learning%20Algorithms%20From%20Scratch&amp;url=https%3A%2F%2Fmachinelearningmastery.com%2Fdont-implement-machine-learning-algorithms%2F&amp;');" href='javascript:void(0);'  title="Share on Twitter" target=''>
-						<div class='apss-icon-block clearfix'>
-							<i class='fa fa-twitter'></i>
-							<span class='apss-social-text'>Share on Twitter</span><span class='apss-share'>Tweet</span>
-						</div>
-											</a>
-				</div>
-								<div class='apss-facebook apss-single-icon'>
-					<a rel='nofollow'  onclick="apss_open_in_popup_window(event, 'https://www.facebook.com/sharer/sharer.php?u=https://machinelearningmastery.com/dont-implement-machine-learning-algorithms/');"  title="Share on Facebook" target='' href='https://www.facebook.com/sharer/sharer.php?u=https://machinelearningmastery.com/dont-implement-machine-learning-algorithms/'>
-						<div class='apss-icon-block clearfix'>
-							<i class='fa fa-facebook'></i>
-							<span class='apss-social-text'>Share on Facebook</span>
-							<span class='apss-share'>Share</span>
-						</div>
-											</a>
-				</div>
-				<div class='apss-linkedin apss-single-icon'>
-					<a rel='nofollow'  onclick="apss_open_in_popup_window(event, 'http://www.linkedin.com/shareArticle?mini=true&amp;title=Stop%20Coding%20Machine%20Learning%20Algorithms%20From%20Scratch&amp;url=https://machinelearningmastery.com/dont-implement-machine-learning-algorithms/&amp;summary=You+Don%27t+Have+To+Implement+Algorithms%0D%0A...if+you%E2%80%99re+a+beginner+and+just+getting+started.%0D%0AStop.%0D%0A...');"  title="Share on LinkedIn" target='' href='http://www.linkedin.com/shareArticle?mini=true&amp;title=Stop%20Coding%20Machine%20Learning%20Algorithms%20From%20Scratch&amp;url=https://machinelearningmastery.com/dont-implement-machine-learning-algorithms/&amp;summary=You+Don%27t+Have+To+Implement+Algorithms%0D%0A...if+you%E2%80%99re+a+beginner+and+just+getting+started.%0D%0AStop.%0D%0A...'>
-						<div class='apss-icon-block clearfix'><i class='fa fa-linkedin'></i>
-							<span class='apss-social-text'>Share on LinkedIn</span>
-							<span class='apss-share'>Share</span>
-						</div>
-											</a>
-				</div>
-								<div class='apss-google-plus apss-single-icon'>
-					<a rel='nofollow'  onclick="apss_open_in_popup_window(event, 'https://plus.google.com/share?url=https://machinelearningmastery.com/dont-implement-machine-learning-algorithms/');"  title="Share on Google Plus" target='' href='https://plus.google.com/share?url=https://machinelearningmastery.com/dont-implement-machine-learning-algorithms/'>
-						<div class='apss-icon-block clearfix'>
-							<i class='fa fa-google-plus'></i>
-							<span class='apss-social-text'>Share on Google Plus</span>
-							<span class='apss-share'>Share</span>
-						</div>
-											</a>
-				</div>
-				</div><h3 style="text-align: center;">You Don&#8217;t Have To Implement Algorithms<br />
+</div><h3 style="text-align: center;">You Don&#8217;t Have To Implement Algorithms<br />
 				
 &#8230;<em>if you’re a beginner and just getting started.</em></h3>
 <p>Stop.</p>
