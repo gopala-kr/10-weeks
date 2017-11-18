@@ -4,7 +4,7 @@
  * **libraries/ services:** Keras, Deeplearning4j, Microsoft Cognitive Toolkit, Lasagne, BigDL, scikit-learn, chainer
 
 ********************************
-### Goals of this article
+**Goals of this article**
 
 * A casestudy to outilne all available AI-ML-DL-Scientific computing libraries/frameworks.
 * to study architectures of some importatnt frameworks/libraries
@@ -470,7 +470,7 @@ either to speed up critical code, or to integrate with C/C++ libraries.</li>
 
 <br>
 
-### Comparision of deeplearning softwares
+### Comparision of deeplearning frameworks
 
 <table class="wikitable sortable" style="text-align: center; font-size: 85%; width: auto; table-layout: fixed;">
 <tr>
