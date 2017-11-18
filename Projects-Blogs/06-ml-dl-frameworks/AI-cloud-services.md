@@ -1,7 +1,4 @@
-<div class="extra-info">
-  <div class="extra-info-inner">
-   <h4>Know your options for public cloud AI services</h4> 
-   <p>Experts agree that public cloud will be a game changer for enterprises looking to run AI workloads, but combing through each provider's AI services reveals similar capabilities. Here's what the big four cloud providers offer for AI services to enterprises:</p> 
+
    <p><b>Amazon Web Services</b></p> 
    <ul class=" default-list"> 
     <li><b>Amazon Rekognition</b>: an image recognition service that uses deep learning to detect and compare objects and faces, for developers to add visual search functionality and image classification</li> 
@@ -23,5 +20,4 @@
    <ul class=" default-list"> 
     <li><b>Watson Developer Cloud</b>: IBM bundles Watson tools and APIs. Developers can build chatbots with natural language understanding, translate languages, perform text and vocal tone analysis, convert text to and from speech, analyze images and gain insight from data.</li> 
    </ul>
-  </div>
- </div>
+
