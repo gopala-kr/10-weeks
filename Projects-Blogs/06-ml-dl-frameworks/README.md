@@ -6,7 +6,7 @@
 ********************************
 **Goals of this article**
 
-* A casestudy to outilne all available AI-ML-DL-Scientific computing libraries/frameworks.
+* a casestudy to outilne all available AI-ML-DL-Scientific computing libraries/frameworks.
 * to study architectures of some importatnt frameworks/libraries
 
 ******************************
@@ -117,6 +117,9 @@ either to speed up critical code, or to integrate with C/C++ libraries.</li>
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - In this paper, we extend recently proposed Google TensorFlow for execution on large scale clusters using Message Passing Interface (MPI)
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - This paper describes the models behind [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - This paper describes the TensorFlow dataflow model in contrast to existing systems and demonstrate the compelling performance
+
+
+### tf ref
 
 <li id="cite_note-Credits-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Credits_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Credits_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://tensorflow.org/about">"Credits"</a>. <i>TensorFlow.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 10,</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=TensorFlow.org&amp;rft.atitle=Credits&amp;rft_id=http%3A%2F%2Ftensorflow.org%2Fabout&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATensorFlow" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
 <li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://github.com/tensorflow/tensorflow/releases">"TensorFlow Release"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 19,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=TensorFlow+Release&amp;rft_id=https%3A%2F%2Fgithub.com%2Ftensorflow%2Ftensorflow%2Freleases&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATensorFlow" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
