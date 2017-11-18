@@ -22,10 +22,11 @@
    </ul>
    
    * [microsoft Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/)
-   * [https://aws.amazon.com/amazon-ai/?nc2=h_l3_ai](Artificial Intelligence on AWS)
+   * [Artificial Intelligence on AWS](https://aws.amazon.com/amazon-ai/?nc2=h_l3_ai)
    * [SAP Leonardo Machine Learning ](https://www.sap.com/india/products/leonardo/machine-learning.html)
    * [Oracle Artificial Intelligence](https://www.oracle.com/artificial-intelligence/index.html)
    * [Google CLOUD AI](https://cloud.google.com/products/machine-learning/)
+   * [IBM Bluemix ](https://www.ibm.com/cloud/ai)
    
    ![Oracle’s Holistic Approach to AI](https://www.oracle.com/assets/o-holistic-ai-chart-400x459-3933953.png)
    
