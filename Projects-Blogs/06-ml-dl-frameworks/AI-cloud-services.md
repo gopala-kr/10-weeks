@@ -20,4 +20,20 @@
    <ul class=" default-list"> 
     <li><b>Watson Developer Cloud</b>: IBM bundles Watson tools and APIs. Developers can build chatbots with natural language understanding, translate languages, perform text and vocal tone analysis, convert text to and from speech, analyze images and gain insight from data.</li> 
    </ul>
-
+   
+   * [microsoft Cognitive Services](https://azure.microsoft.com/en-in/services/cognitive-services/)
+   * [https://aws.amazon.com/amazon-ai/?nc2=h_l3_ai](Artificial Intelligence on AWS)
+   * [SAP Leonardo Machine Learning ](https://www.sap.com/india/products/leonardo/machine-learning.html)
+   * [Oracle Artificial Intelligence](https://www.oracle.com/artificial-intelligence/index.html)
+   * [Google CLOUD AI](https://cloud.google.com/products/machine-learning/)
+   
+   ![Oracle’s Holistic Approach to AI](https://www.oracle.com/assets/o-holistic-ai-chart-400x459-3933953.png)
+   
+   <hr>
+   
+   ![AI Platform Cloud Service](https://www.oracle.com/assets/c81-ai-platform-cloud-srv-960x480-3942057.png)
+   
+   
+   
+   
+   
