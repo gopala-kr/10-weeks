@@ -151,6 +151,10 @@ compiler). Lua as also the advantage to have been designed to be easily embedded
 a C application, and provides a great C API, based on a virtual stack to pass values to and from C.
 This unifies the interface to C/C++ and makes library wrapping trivial.
 
+Torch is used by the Facebook AI Research Group, IBM, Yandex and the Idiap Research Institute. Torch has been extended for use on Android and iOS. It has been used to build hardware implementations for data flows like those found in neural networks.
+
+Facebook has released a set of extension modules as open source software.
+
 
 Pros
 
@@ -167,6 +171,64 @@ Cons
 * Less Plug and play than caffe
 * Not easy for RNN
 
+## Pytorch
+
+PyTorch is another deep learning library that's is actually a fork of Chainer(Deep learning library completely on python) with the capabilities of torch. Basically it's the facebook solution to merge torch with python.
+
+Some advantages
+
+* Easy to Debug and understand the code
+* Has as many type of layers as Torch (Unpool, CONV 1,2,3D, LSTM, Grus)
+* Lot's of loss functions
+* Can be considered as a Numpy extension to GPUs
+* Faster than others "define-by-run" libraries, like chainer and dynet
+* Allow to build networks which structure is dependent on the computation itself (Useful on reinforcement learning)
+
+<h3 id="pytorch-components">PyTorch Components</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">Package</th>
+<th style="text-align:left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">torch</td>
+<td style="text-align:left">Numpy like library with GPU support</td>
+</tr>
+<tr>
+<td style="text-align:left">torch.autograd</td>
+<td style="text-align:left">Give differentiation support for all torch ops</td>
+</tr>
+<tr>
+<td style="text-align:left">torch.nn</td>
+<td style="text-align:left">Neural network library integrated with autograd</td>
+</tr>
+<tr>
+<td style="text-align:left">torch.optim</td>
+<td style="text-align:left">Optimization for torch.nn (ADAM, SGD, RMSPROP, etc...)</td>
+</tr>
+<tr>
+<td style="text-align:left">torch.multiprocessing</td>
+<td style="text-align:left">Memory sharing between tensors</td>
+</tr>
+<tr>
+<td style="text-align:left">torch.utils</td>
+<td style="text-align:left">DataLoader, Training and other utility functions</td>
+</tr>
+<tr>
+<td style="text-align:left">torch.legacy</td>
+<td style="text-align:left">Old code ported from Torch</td>
+</tr>
+</tbody>
+</table>
+
+**How it differs from Tensorflow/Theano**
+
+The major difference from Tensorflow is that PyTorch methodology is considered "define-by-run" while Tensorflow is considered "defined-and-run", so on PyTorch you can for instance change your model on run-time, debug easily with any python debugger, while tensorflow has always a graph definition/build. You can consider tensorflow as a more production tool while PyTorch is more a research tool.
+
+## theano
 
 -----------------------------
 ------------------------------
