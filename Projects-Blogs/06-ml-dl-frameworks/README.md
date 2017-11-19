@@ -4,7 +4,7 @@
  * **libraries/ services:** Keras, Deeplearning4j, Microsoft Cognitive Toolkit, Lasagne, BigDL, scikit-learn, chainer
 
 ********************************
-**Goals of this article**
+**goals of this article**
 
 * a casestudy to outilne all available AI-ML-DL-Scientific computing libraries/frameworks.
 * to study architectures of some importatnt frameworks/libraries
@@ -25,7 +25,7 @@
 
 ***********************
 
- Nowadays Quora and Medium's have become learning platforms, some useful tags to understand AI in simple words:
+Some useful tags to understand AI in simple words:
 
  
  | [Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence) | [Machine Learning](https://www.quora.com/topic/Machine-Learning) | [Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks) |
@@ -40,9 +40,9 @@
 (software)](https://www.quora.com/topic/Bots-software) | [Intelligence](https://www.quora.com/topic/Intelligence) |
 
 
-
 **********************
 ---------------------
+
 
 ### Scientific Computing Tools for Python
 
