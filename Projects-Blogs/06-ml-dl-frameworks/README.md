@@ -131,9 +131,41 @@ Normally Tensorflow can be used in all cased that torch can, but if you need to 
 
 --------------------------
 
-## torch
+## torch7
+
+> torch7 a framework with three main advantages: (1) it should ease the
+development of numerical algorithms, (2) it should be easily extended (including the use of other
+libraries), and (3) it should be fast.
+
+> A scripting (interpreted) language with a good C API appears as a convenient solution
+to “satisfy” the constraint. First, a high-level language makes the process of developing a
+program simpler and more understandable than a low-level language. Second, if the programming
+language is interpreted, it becomes also easier to quickly try various ideas in an interactive manner.
+And finally, assuming a good C API, the scripting language becomes the “glue” between heterogeneous
+libraries: different structures of the same concept (coming from different libraries) can
+be hidden behind a unique structure in the scripting language, while keeping all the functionalities
+coming from all the different libraries.
+
+> torch uses Lua the fastest interpreted language (with also the fastest Just In Time (JIT)
+compiler). Lua as also the advantage to have been designed to be easily embedded in
+a C application, and provides a great C API, based on a virtual stack to pass values to and from C.
+This unifies the interface to C/C++ and makes library wrapping trivial.
 
 
+Pros
+
+* Flexible
+* Very easy source code
+* Easy biding with C/C++
+* Web interface (Digits)
+
+Cons
+
+* New language Lua
+* Difficult to load data from directories
+* No Matlab bidings
+* Less Plug and play than caffe
+* Not easy for RNN
 
 
 -----------------------------
