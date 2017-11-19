@@ -598,7 +598,8 @@ Tensorflow Pros
 * Allow distributed training
 * Tensorboard for signal visualization
 * Python Numpy
-* Tensorflow Cons
+
+Tensorflow Cons
 
 * Not much pre-trained models
 * No Support for new object detection features (Ex Roi pooling)
@@ -606,20 +607,21 @@ Tensorflow Pros
 * Slower than Caffe for single GPU training
 
 ----------------
-## CNTK(Microsoft cognitive tools)
+## CNTK(Microsoft cognitive tool)
 
 CNTK Pros
 
-Flexible
-Good for RNN
-Allows distributed training
+* Flexible
+* Good for RNN
+* Allows distributed training
+
 CNTK Cons
 
-No visualization
-Any error CNTK crash
-No simple source code to read
-New language (ndl) to describe networks
-No current matlab or python bindings
+* No visualization
+* Any error CNTK crash
+* No simple source code to read
+* New language (ndl) to describe networks
+* No current matlab or python bindings
 
 
 --------------
