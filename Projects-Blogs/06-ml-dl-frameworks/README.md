@@ -39,6 +39,18 @@ Some useful tags to understand AI in simple words:
 (CUDA)](https://www.quora.com/topic/Compute-Unified-Device-Architecture-CUDA) | [Pattern Recognition](https://www.quora.com/topic/Pattern-Recognition) | [Speech Recognition](https://www.quora.com/topic/Speech-Recognition) | [Generative Adversarial Networks](https://www.quora.com/topic/Generative-Adversarial-Networks-1) | [K-Means Algorithms](https://www.quora.com/topic/K-Means-Algorithms) | [Cluster analysis](https://www.quora.com/topic/Cluster-analysis) | [Semi-supervised Learning](https://www.quora.com/topic/Semi-supervised-Learning) | [Q-learning](https://www.quora.com/topic/Q-learning) |[Computational Neuroscience](https://www.quora.com/topic/Computational-Neuroscience) | [Cognitive Neuroscience](https://www.quora.com/topic/Cognitive-Neuroscience) | [Brain Training](https://www.quora.com/topic/Brain-Training) | [Cognitive Psychology](https://www.quora.com/topic/Cognitive-Psychology) | [Behavioral Psychology](https://www.quora.com/topic/Behavioral-Psychology) | [Human Psychology](https://www.quora.com/topic/Human-Psychology) | [Brain Games](https://www.quora.com/topic/Brain-Games-1) | [Neurons](https://www.quora.com/topic/Neurons) | [Axon](https://www.quora.com/topic/Axon) | [Nerves](https://www.quora.com/topic/Nerves) | [Nervous System](https://www.quora.com/topic/Nervous-System) | [Brain-Computer Interfaces](https://www.quora.com/topic/Brain-Computer-Interfaces) | [Robotics](https://www.quora.com/topic/Robotics) | [Chatbots and Conversational Agents](https://www.quora.com/topic/Chatbots-and-Conversational-Agents) | [Bots
 (software)](https://www.quora.com/topic/Bots-software) | [Intelligence](https://www.quora.com/topic/Intelligence) |
 
+------------------
+
+### list of pretrained models
+
+* [Microsoft Cognitive Pretrained Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
+
+* [Caffe Model-Zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+* [tensorflow models](https://github.com/tensorflow/models)
+* [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch#torchvision)
+* [github-topic-pretrained](https://github.com/topics/pretrained-models?o=desc&s=stars)
+* [keras code examples](https://github.com/fchollet/keras-resources)
+
 
 **********************
 ---------------------
