@@ -6,7 +6,7 @@
 ********************************
 **goals of this article**
 
-* a casestudy to outilne all available AI-ML-DL-Scientific computing libraries/frameworks.
+* a casestudy to outline all available AI-ML-DL-Scientific computing libraries/frameworks.
 * to study architectures of some importatnt frameworks/libraries
 
 ******************************
@@ -111,6 +111,28 @@ either to speed up critical code, or to integrate with C/C++ libraries.</li>
 </ul>
 </div>
 </div>
+
+--------------
+
+* For research use Torch or Tensorflow (Last option Theano)
+* For training convnets or use pre-trained models use Caffe
+
+![Deep learning](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/more_images/DeepLibrariesOverview.jpg)
+
+* Get features from known model (Alexnet, Googlenet, Vgg): Use caffe
+* Fine tune known models (Alexnet, Googlenet, Vgg): Use Caffe
+* Image Captioning: Torch or Tensorflow
+* Segmentation: Caffe, Torch
+* Object Detection: Caffe with python layers, Torch (More work)
+* Language Modelling: Torch, Theano
+* Implement Bath Norm: Torch, Theano or Tensorflow
+
+Normally Tensorflow can be used in all cased that torch can, but if you need to understand what a specific layer does, or if you need to create a new layer, use torch instead of tensorflow. Torch is preferable on those cases, because the layer source code is more easy to read in torch.
+
+--------------------------
+
+## torch
+
 
 
 
