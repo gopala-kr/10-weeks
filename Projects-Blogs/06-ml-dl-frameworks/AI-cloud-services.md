@@ -28,6 +28,11 @@
    * [Google CLOUD AI](https://cloud.google.com/products/machine-learning/)
    * [IBM Bluemix ](https://www.ibm.com/cloud/ai)
    
+   
+   
+   
+   ![ml](https://tctechcrunch2011.files.wordpress.com/2017/08/mlfigure2.png)
+   
    ![Oracle’s Holistic Approach to AI](https://www.oracle.com/assets/o-holistic-ai-chart-400x459-3933953.png)
    
    <hr>
