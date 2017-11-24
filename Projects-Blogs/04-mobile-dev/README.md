@@ -17,7 +17,7 @@ Before starting with actual subjective topics, lets understand some required ter
 * Available softwares, platforms and tools for mobile app development
 * Mobile app architectural/design patterns
 
-**(In this article I intended to study only the technical concepts and a brief survey on mobile app industry)**
+**(The goal of this article is to get an outline of all mobile app development platforms, their technical concepts and a brief survey on mobile app industry)**
 *************************
 
 ## mobile operating system
@@ -803,7 +803,7 @@ more details from official doc [Cocoa Touch Layer](https://developer.apple.com/l
 ****************
 ## Android
 
-I used it rarely.. but my long term friend(almost 5 + years).. which has always been basis for my sofware undestandings. my first java program on eclipse was android 'Hello-world' simualated on dalvik emulator and deployed on jelly beans version friend's mobile(biggest achievement). I had done a self case study on adroid software layers as part of my academic OS course.
+I used it rarely.. but my long term friend(almost 5+ years).. which has always been basis for my sofware understandings. my first java program on eclipse was android 'Hello-world' simulated on dalvik emulator and deployed on jelly beans version of friend's mobile(biggest achievement). I had done a self case study on adroid software layers as part of my academic OS course.
 
  | HackerNews        | Medium         | Reddit  |  Quora-QA  | Stack-Overflow-QA | Awesome-gh | Online-Courses (lynda.com) | Official docs|
 | ------------- |:-------------:| -----:| -----:|-----:|-----:|-----:|-----:|
