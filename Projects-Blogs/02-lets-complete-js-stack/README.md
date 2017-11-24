@@ -4,7 +4,7 @@
 
 
 
-This week I got some time for nodejs and related framework expressjs and meteorjs.
+This week I got some time for nodejs and related frameworks expressjs and meteorjs.
 
 *********************************
  | Hacker News       | Medium         | Reddit  |  Quora-QA  | Stack-Overflow-QA | Awesome-gh | Online-Courses (lynda.com) | Official docs|
@@ -15,7 +15,7 @@ This week I got some time for nodejs and related framework expressjs and meteorj
 ****************************
 *****************************
 
-Before getting into nodejs, lets learn about javascript history and basics of how exactly it works; 
+Before starting nodejs, lets learn about javascript history and basics of its working; 
 ******************
 
 ![js-history](http://adrianmejia.com/images/history-javascript-evolution-es6.png)
