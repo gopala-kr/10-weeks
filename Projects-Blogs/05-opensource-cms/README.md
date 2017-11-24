@@ -69,7 +69,7 @@ Broadly speaking, content management describes any system that allows people to 
 
 ****************
 
-## CMS VS web-framework
+## CMS v/s web-framework
 
 The question in our case is whether to use a ready made CMS or to create your own system using a framework. The right answer depends on the following:
 
