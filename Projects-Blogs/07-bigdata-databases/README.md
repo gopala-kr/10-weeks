@@ -1,3 +1,6 @@
+**goals of this article**
+
+* casestudy to outline all available bigdata and database softwares
 
 
 
