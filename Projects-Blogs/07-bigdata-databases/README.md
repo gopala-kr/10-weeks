@@ -3,7 +3,17 @@
 
 * casestudy to outline all available bigdata and database softwares
 
+------------------
 
+<p>Some papers influenced the birth and growth of Hadoop and big data processing. Some of these are:</p>
+<ul>
+<li>Jeffrey Dean, Sanjay Ghemawat (2004) <a rel="nofollow" class="external text" href="https://www.usenix.org/legacy/publications/library/proceedings/osdi04/tech/full_papers/dean/dean_html/index.html">MapReduce: Simplified Data Processing on Large Clusters</a>, Google. This paper inspired Doug Cutting to develop an open-source implementation of the Map-Reduce framework. He named it Hadoop, after his son's toy elephant.</li>
+<li>Michael Franklin, Alon Halevy, David Maier (2005) <a rel="nofollow" class="external text" href="http://www.eecs.berkeley.edu/~franklin/Papers/dataspaceSR.pdf">From Databases to Dataspaces: A New Abstraction for Information Management</a>. The authors highlight the need for storage systems to accept all data formats and to provide APIs for data access that evolve based on the storage system's understanding of the data.</li>
+<li>Fay Chang et al. (2006) <a rel="nofollow" class="external text" href="http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/bigtable-osdi06.pdf">Bigtable: A Distributed Storage System for Structured Data</a>, Google.</li>
+<li>Robert Kallman et al. (2008) <a rel="nofollow" class="external text" href="http://www.vldb.org/pvldb/1/1454211.pdf">H-store: a high-performance, distributed main memory transaction processing system</a></li>
+</ul>
+
+----------------
 
 
 ## Ref
