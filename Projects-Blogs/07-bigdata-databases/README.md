@@ -13,6 +13,10 @@
 <li>Robert Kallman et al. (2008) <a rel="nofollow" class="external text" href="http://www.vldb.org/pvldb/1/1454211.pdf">H-store: a high-performance, distributed main memory transaction processing system</a></li>
 </ul>
 
+**Spark**
+
+* [Spark: Cluster Computing with Working Sets](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Spark-Cluster-Computing-with-Working-Sets.pdf)
+
 ----------------
 
 
