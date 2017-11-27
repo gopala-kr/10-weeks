@@ -3,3 +3,10 @@
 
 * **cloud :** gcp,aws,azure,bluemix
 * **deployment and hostong services :** Heroku 
+
+----------------------
+
+**goals of this article:**
+
+* a casestudy on cloud service providers
+* comparative study on cloud services
