@@ -140,7 +140,7 @@ For an explanation of images that were not introduced yet but are depicted in th
 <p>The third party software used by Kafka can be divided in three groups, all in the lower left quadrant of the power interest grid. The group having the least power and interest consists of GitHub, JIRA, CheckStyle, FindBugs and Jenkins. Less easy to replace are Gradle, Ducktape and Zookeeper, as they have less alternatives that could be used with regard to Kafka&apos;s usage. The third group is formed by the programming languages, again this group has no interest in Kafka, but does have more power as the whole codebase consists of them, i.e. they are hardly replaceable.</p>
 <p>More interest - but hardly any power - resides with companies such as Netflix that use Kafka, but do not officially contribute. Developers on products such as HortonWorks and Cloudera - which include Kafka in their core - and researchers that study Apache Kafka itself or use it in their research generally contribute more and therefore have a larger amount of power. We define competitors of Kafka to have a similar amount of interest, but somewhat more power as they can steer the development process of Kafka (e.g. by adopting new features).</p>
 <p>In the quadrant containing the most interest and power, we can furthermore see a growth of both from simple developers to Committers to PMC members to Kafka&apos;s Vice President Jun Rao. As early explained, the ASF holds a significant amount of power, although it&apos;s interest may be less compared to e.g. LinkedIn and Confluent from which Kafka originated and still gains much steering and development contributions.</p>
-<p><img src="images-kafka/overviews/power-interest.jpg" alt="Power Interest Grid"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/kafka/images-kafka/overviews/power-interest.jpg" alt="Power Interest Grid"></p>
 <p><em>Figure 1: A Power Interest Grid of stakeholders in Apache Kafka</em></p>
 <h2 id="3-context-view-">3. Context View <div id="context"></div></h2>
 <p>This section describes the system&apos;s scope and responsibilities as well as relations with its environment consisting of users and external entities.</p>
@@ -168,13 +168,13 @@ For an explanation of images that were not introduced yet but are depicted in th
 <li>The development community: consisting of PMC members, Committers, Users, Researchers and other GitHub contributors</li>
 <li>The entities upon which the software is dependent: e.g. Zookeeper and Log4J. The complete list of dependencies can be found at the <a href="https://github.com/apache/kafka/blob/trunk/gradle/dependencies.gradle" target="_blank">build.gradle file</a>.</li>
 </ul>
-<p><img src="images-kafka/overviews/ContextView.jpg" alt="contextView">
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/kafka/images-kafka/overviews/ContextView.jpg" alt="contextView">
 <em>Figure 2: Context view of Apache Kafka</em></p>
 <h2 id="4-development-view-">4. Development View <div id="devview"></div></h2>
 <p>&quot;The development viewpoint describes the architecture that supports the software development process&quot; <a href="#rw">[10]</a>. It can be applied to all systems that have significant software development involved in their creation. We will present an overview of the modules that are part of Kafka, elaborate upon the adopted standardization of design through the as-designed and as-implemented development views and discuss the key architectural styles we identified. We will furthermore discuss the standardization of testing and the release management and how the various actors are involved in these processes.</p>
 <h3 id="41-module-overview">4.1 Module Overview<div id="dv1"></div></h3>
 <p>Over the past years Apache Kafka has seen a rapid growth in terms of the components and functionalities it offers. As further described in the <a href="#evolution">Evolution</a> section the codebase of the project has grown equally big. The following section therefore aims to display how the source code is organized currently (v0.10.2.0) from a high level perspective.</p>
-<p><img src="images-kafka/overviews/Modules.png" alt="Modules">
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/kafka/images-kafka/overviews/Modules.png" alt="Modules">
 <em>Figure 3: Code Module overview. The arrows towards the Core module show which functionalities each module provides. Furthermore dependencies between these modules are displayed.</em></p>
 <p>As mentioned before, the project is implemented in Java as well as Scala. However, most functionalities of the message broker core is written in Scala, whereas packages built on top of that, such as clients or streaming, are written in Java. Through this separation the <strong>Core</strong> component can be trusted with the characteristics that the Kafka project values most, i.e. handling data feeds with high-throughput and low-latency while ensuring persistency and fault tolerance across clusters.
  The Scala code is grouped under <a href="https://github.com/delftswa2017/kafka/tree/trunk/core/src/main/scala/kafka" target="_blank">kafka/core</a> and displayed in the center of Figure 3. As shown in that figure, all other major components extend the Kafka core with further functionalities and interfaces.</p>
@@ -201,7 +201,7 @@ Next to that, all the test cases are run with every pull request on GitHub. This
 <p>Finally, performance tests are executed as well, to analyze common statistics, logs and server side metrics, as described on the <a href="https://cwiki.apache.org/confluence/display/KAFKA/Performance+testing" target="_blank">website</a>. These tests are automated and incorporated into frequently updated metrics that are monitored to make sure that the system is stable and efficient.</p>
 <h3 id="423-release-management">4.2.3 Release Management</h3>
 <p>Management of Apache Kafka releases is standardized even more than it&apos;s design and testing processes, as will be discussed in this section. On the <a href="https://cwiki.apache.org/confluence/display/KAFKA/Release+Process" target="_blank">Release Process page</a> for Committers, which follows the ASF <a href="http://www.apache.org/dev/release-publishing.html" target="_blank">Release Creation Process</a>, it is specified that a new release requires careful preparation regarding implementation and documentation, but also approval to become reality. The person that actually manages the release process is called the <a href="http://www.apache.org/dev/release-publishing.html#release_manager" target="_blank">Release Manager</a> (RM). The release process consists of five major steps in which the RM, but also the Kafka development community and of course the PMC play a part. Below you can find an overview of these steps that are discussed more elaborately on Kafka&apos;s release process webpage, as well as an overview of past and future release plans.</p>
-<p><img src="images-kafka/overviews/Release-management.png" alt="Overview of Release Process">
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/kafka/images-kafka/overviews/Release-management.png" alt="Overview of Release Process">
 <em>Figure 4: The Release Process in Apache Kafka</em></p>
 <p>As an extension of the above, it was decided to move to a time-based release plan, as described on the <a href="https://cwiki.apache.org/confluence/display/KAFKA/Time+Based+Release+Plan" target="_blank">dedicated Wiki page</a> starting with Apache Kafka 0.10.1.0 (October 2016). The motivation to do so was to create a quicker and more predictable development cycle, with higher transparency. However, time pressure and specified time holes between releases form the downside of this approach. Nonetheless, it was decided that the benefits outweigh the cons of this process.</p>
 <h3 id="43-technical-debt">4.3 Technical Debt<div id="dv3"></div></h3>
@@ -231,14 +231,14 @@ A log is a simple, append-only data structure which contains a sequence of order
 Thanks to the strict ordering inside a log, the record offset can be used as a timestamp where a log gets decoupled from any time system.
 Since records are immutable, Kafka is able to serve multiple users to read at any offset simultaneously.
 Similarly, it allows multiple producers to write to a topic at the same time, by simply appending the records to the logs. <a href="#documentation">[11]</a></p>
-<p><img src="images-kafka/overviews/log_consumer.png" alt="log">
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/kafka/images-kafka/overviews/log_consumer.png" alt="log">
 <em>Figure 5: The log structure, showing simultaneous reads. <a href="#documentation">[11]</a></em></p>
 <h4 id="partitioning">Partitioning</h4>
 <p>In order to improve scalability and fault tolerance, Kafka divides topics into multiple partitions.
 This not only allows to move replicas across machines to guarantee fault tolerance, but it is also a way to parallelize the consumption of messages.
 Each client &#x2013; be it on consumer or producer side &#x2013; will split the burden of processing the topic between themselves, such that one member will only be concerned with messages in the partition it is assigned to.
 Thus, the throughput of the system will scale linearly with the Kafka cluster size. <a href="#documentation">[11]</a></p>
-<p><img src="images-kafka/overviews/log_anatomy.png" alt="topic">
+<p><img src="https://delftswa.gitbooks.io/desosa-2017/content/kafka/images-kafka/overviews/log_anatomy.png" alt="topic">
 <em>Figure 6: Partitioned log structure <a href="#documentation">[11]</a></em></p>
 <h3 id="information-ownership">Information Ownership</h3>
 <p>As argued by Rozanski and Woods <a href="#rw">[10]</a>, it especially important to be able to reason about the synchronicity and recency of records when data is physically distributed across multiple data stores and accessed in different ways. We therefore analyze the theoretical guarantees given by Apache Kafka.</p>
