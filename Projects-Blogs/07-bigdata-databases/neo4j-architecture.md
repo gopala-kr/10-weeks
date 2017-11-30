@@ -1,13 +1,5 @@
-<div id="book-search-results">
-    <div class="search-noresults">
-    
-                                <section class="normal markdown-section">
-                                
-                                <h1 id="neo4j---a-graph-database">Neo4j - A Graph Database</h1>
-<p><a href="http://neo4j.com" target="_blank"><img src="images/neo4j-logo.png" alt="Neo4j logo"></a></p>
-<p><strong><a href="https://github.com/kangliangc" target="_blank">Kangliang Chen</a>, <a href="https://github.com/manojpkr" target="_blank">Manoj Krishnaraj</a>, and <a href="https://github.com/tompeeters368" target="_blank">Tom Peeters</a></strong></p>
-<p><em><a href="http://tudelft.nl" target="_blank">Delft University of Technology</a></em></p>
-<p><strong>Abstract</strong></p>
+## neo4j architecture
+
 <p>This chapter gives a brief overview of Neo4j&apos;s architecture by focusing on three fundamental concepts: stakeholders, viewpoints, and perspectives as defined in the book by Rozanski and Woods[1]. The stakeholder analysis section details the types of influencer&apos;s who have an impact the Neo4j&apos;s architecture. The context view explains the interactions between Neo4j and its environment; the development view and deployment views describe the software development process and the runtime environment respectively. Following this, the evolution, variability, performance &amp; scaling perspectives of Neo4j are analyzed. Through these multiple viewpoints and perspectives, the software architecture of Neo4j can be easily discerned.</p>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
@@ -65,13 +57,13 @@
 </tbody>
 </table>
 <pre><code>Table 1: Other stakeholders of Neo4j.
-</code></pre><p><img src="images/stakeholder.png" alt="Stakeholders for Neo4j"></p>
+</code></pre><p><img src="https://delftswa.gitbooks.io/desosa2016/content/neo4j/images/stakeholder.png" alt="Stakeholders for Neo4j"></p>
 <p><div id="figure-stakeholder"></div>
     Figure 2: Stakeholders for Neo4j</p>
 <p>The power interest graph depicted in <a href="#figure-power-interest">Figure 3</a> gives a visualization of the measure of the power that a stakeholder wields in the system compared to their interest. The bottom-left quadrant has the least power and interest where as the top-right quadrant has the most. The remaining quadrant on top-left and bottom-right bias towards more power and interest respectively.</p>
 <p>As the major stakeholder, Neo Technology, Inc. has the most power and interest. Though the OEM Partners and the Suppliers have slightly lesser interest and power, they are still placed in top-right quadrant along with Neo4j. The enterprise customers are vital for the success of Neo4j and have high power with relatively low interest and are placed in the top-left quadrant.</p>
 <p>The end users of the system and DevOp specialists have considerably low power and interest and are placed in the bottom-left quadrant. The bottom-right quadrant consists of occasional contributors from the community, regular contributors with relatively more power than the occasional contributors and the competitors. Though the competitors wield no power, their interest is very high as they do regular market and competitor analysis to keep in line with Neo4j&apos;s new features.</p>
-<p><img src="images/power-interest.png" alt="Power/Interest grid for Neo4j"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa2016/content/neo4j/images/power-interest.png" alt="Power/Interest grid for Neo4j"></p>
 <p><div id="figure-power-interest"></div>
     Figure 3: Power/Interest grid for Neo4j</p>
 <p><div name="context-view"></div></p>
@@ -107,7 +99,7 @@
 <li><p>Partnered with providers like Heroku, Microsoft Azure, GrapheneDB, ActiveState to provide customized solutions</p>
 </li>
 </ul>
-<p><img src="images/context-view.png" alt="Visualization of Neo4j&apos;s Context View"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa2016/content/neo4j/images/context-view.png" alt="Visualization of Neo4j&apos;s Context View"></p>
 <p><div id="figure-context-view"></div>
     Figure 4: Visualization of Neo4j&apos;s Context View</p>
 <p><div name="development-view"></div></p>
@@ -117,7 +109,7 @@
 <h2 id="module-organization">Module organization</h2>
 <p>The module structure model deals with the organization of system&apos;s source code in terms of modules[1]. The components of the two distributions of Neo4j- community, and enterprise are organized in distict folders. Logically, the enterprise edition encapsulates all the modules in community edition in addtion to a few extra components. This section focusses on structure and organization of the code for community edition of Neo4j in three abstract layers as shown in <a href="#figure-module">Figure 5</a>.</p>
 <p>The different components of Neo4j community edition can be organized  three logical layers as seen in <a href="#figure-module">Figure 5</a> in distinct layers</p>
-<p><img src="images/module.png" alt="Module organization of community edition"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa2016/content/neo4j/images/module.png" alt="Module organization of community edition"></p>
 <p><div name="figure-module"></div>
     Figure 5: Module organization of community edition</p>
 <ol>
@@ -151,7 +143,7 @@
 <h2 id="codeline-organization">Codeline Organization</h2>
 <p>Codeline model defines the overall structure of the codeline and ensures that order is maintained in the organization of the system&apos;s code[1]. The source code of both the editions are maintained in the same github repository. In <a href="#figure-folder-structure">Figure 6</a>, the top level folders are displayed in swim lanes along with their components in respective lanes.</p>
 <p>The important folders at the root of the Neo4j repository are <code>community</code>, <code>enterprise</code>, <code>manual</code>, <code>packaging</code>, and <code>tools</code>. <code>manual</code> contains documentation of Neo4j in AsciiDoc format. It can also extract documentation from source code. <code>packaging</code> contains the various utilities for packaging and distribution of the Neo4j releases for different operating systems. Each component inside the community or enterprise folder has a maven <code>pom.xml</code> file in addition to <code>src</code> folder consisting of Java or Scala source code in <code>main</code>, along with <code>tests</code>, and <code>docs</code>.</p>
-<p><img src="images/folder-structure.png" alt="Swimlane view of important directories of Neo4j"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa2016/content/neo4j/images/folder-structure.png" alt="Swimlane view of important directories of Neo4j"></p>
 <p><div id="figure-folder-structure"></div>
     Figure 6: Swimlane view of important directories of Neo4j</p>
 <p>The main components of the Neo4j distribution are listed in table 2.</p>
@@ -203,7 +195,7 @@
 <p>Technical debt describes the occurrence of using quick and cheap methods of fixing bugs or implementing features, methods which are typically not thought through well. In essence, the problem with performing such actions lies in the manner in which they make future work more difficult. This is because this manner of work typically does not follow the existing architecture or system design, making it more difficult to oversee the functionality of the system as a whole and create future changes.</p>
 <p>Analysis of Neo4j&apos;s technical debt yields very good metrics; only 0.5% of classes have flaws in them. Interestingly, the two classes with the highest cumulative class flaws are both test classes, namely <code>PageCacheTest</code> and <code>NeoStoresTest</code>. The largest package in Neo4j kernel, <code>impl</code> package has likely gotten too convoluted over time and many problems occur within it.</p>
 <p>Technical debt is typically differentiated using &apos;Reckless&apos; vs &apos;Prudent&apos; and &apos;Deliberate&apos; vs &apos;Inadvertent&apos;, forming a total of 4 quadrants together. Neo4j contains relatively few flaws, leading us to categorize Neo4j as &apos;Prudent&apos;. Additionally, the area that is most flawed appears to be the a part of the core functionality. This is likely a result of many years of development despite best attempts to avoid it, leading us to also categorize Neo4j as &apos;Inadvertent&apos;.</p>
-<p><img src="images/tech-debt.png" alt="Technical debt"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa2016/content/neo4j/images/tech-debt.png" alt="Technical debt"></p>
 <p><div id="figure-tech-debt"></div>
     Figure 7: Technical debt quadrant</p>
 <p><div name="deployment-view"></div></p>
@@ -279,7 +271,7 @@
 <p>The majority of features in Neo4j possess no dependency and have no conflicts with each other besides the need to turn their respective module on. For example, for the &apos;Query log threshold&apos; setting to have any impact, &apos;Query logging&apos; itself must be turned on.  </p>
 <p>Furthermore, though many settings are mandatory (i.e. the system always uses them), every setting has a default value. Most of the time this default value need not be changed. In fact, in case of the &apos;High Availability&apos; module it is recommended that you do not change anything. As such, despite there being a great deal of settings the amount being requested of the user is very minimal.</p>
 <p>Figure 8 displays the relationship between a large number of features present in Neo4j. Unfortunately, there are too many to display all within a single figure.</p>
-<p><img src="images/feature-relationship.png" alt="Visualization of the relationship between the features"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa2016/content/neo4j/images/feature-relationship.png" alt="Visualization of the relationship between the features"></p>
 <p><div id="figure-feature-relationships"></div>
    <em>Figure 8: Feature relationships in Neo4j based on [3]</em></p>
 <p><div name="feature-binding-time-and-variability"></div></p>
@@ -304,7 +296,7 @@ remote_shell_port=1337
 <li>Throughput</li>
 </ol>
 <p>The Neo4j is known as high performance when managing a huge amount of different data. Relational database search all of the data looking for anything that meets the search criteria. The larger the set of data, the longer it takes to find matches, because the database has to examine everything in the collection. However, a graph database only examines at nodes that are directly connected to other nodes. If a limit is given on how many steps it is allow to make, it can ignore everything further away for additional performance boosts. </p>
-<p><img src="images/nodes.png" alt="Relations Illustration"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa2016/content/neo4j/images/nodes.png" alt="Relations Illustration"></p>
 <p><div id="figure-nodes"></div>
     Figure 9: Visualization of Neo4j&apos;s node routing</p>
 <p>Figure 9 depicts how nodes are connected within Neo4j. Only the blue nodes are searched during a query. Neo4j knows where it is at any time, and has no need to start over from the beginning or backtrack.</p>
@@ -321,7 +313,7 @@ remote_shell_port=1337
 <li>Managing increasing data size</li>
 <li>Managing increasing write load</li>
 </ol>
-<p><img src="images/cluster.jpg" alt="Cluster Illustration"></p>
+<p><img src="https://delftswa.gitbooks.io/desosa2016/content/neo4j/images/cluster.jpg" alt="Cluster Illustration"></p>
 <p><div id="figure-cluster"></div>
     Figure 10: Visualization of Neo4j&apos;s Cluster system</p>
 <h4 id="redundancy-to-failure">Redundancy to failure</h4>
