@@ -345,6 +345,3 @@ Science of Computer Programming 79 (2014): 70-85.</p>
 <p><strong>[4]</strong> - Neo Technologies&apos; CEO, Emil Eifrem&apos;s interview <a href="https://twitter.com/emileifrem/status/712327903032188928" target="_blank">https://twitter.com/emileifrem/status/712327903032188928</a></p>
 
                                 
-                                </section>
-                            
-    </div>
