@@ -1,13 +1,6 @@
-<div id="book-search-results">
-    <div class="search-noresults">
-    
-                                <section class="normal markdown-section">
-                                
-                                <h1 id="apache-kafka-">Apache Kafka <div id="chapter"></div></h1>
-<p><img src="images-kafka/team/teamk.jpg" alt="teamk">
-<a href="https://github.com/backender" target="_blank">Marc Juchli</a>, <a href="https://github.com/drennings" target="_blank">Daan Rennings</a>, <a href="https://github.com/krymnos" target="_blank">Ron Wierzchowski</a> and <a href="https://github.com/matgar0" target="_blank">Mateusz Garbacz</a></p>
-<p><em>Delft University of Technology</em></p>
-<h2 id="abstract">Abstract</h2>
+## kafka architecture
+
+
 <p><a href="https://kafka.apache.org/" target="_blank">Apache Kafka</a> is an open source streaming platform, which allows to publish, store and process streams of information. The software is widely used by companies such as <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> and <a href="https://www.spotify.com/" target="_blank">Spotify</a> and has a large and active development community. This chapter aims at analyzing the software and its development from three viewpoints, i.e. the context view, the development view and the information view as defined by Rozanski and Woods [<a href="#rw">10</a>]. We thereby try to create a knowledge base, for the current state of the project as well as its evolution.</p>
 <p>We found that the Apache Kafka project has a rich environment of stakeholders with regard to its use and development, which even includes <a href="https://cwiki.apache.org/confluence/display/KAFKA/Kafka+papers+and+presentations" target="_blank">researchers</a>.
 Furthermore we elaborate upon the module structure of Kafka and discuss the strong standardization of development, testing and release management practices of Kafka, that overall has a reasonable and consciously maintained amount of technical debt.
