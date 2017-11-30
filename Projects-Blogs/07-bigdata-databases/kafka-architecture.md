@@ -322,8 +322,3 @@ For example, the extensive use of Zookeeper early in the project, acting not onl
 <li><div id="scope"> Kafka Documentation - Design (Motivation): <a href="https://kafka.apache.org/documentation/#majordesignelements" target="_blank">https://kafka.apache.org/documentation/#majordesignelements</a>, 2016.</div></li>
 <li><div id="linkedin"> How Kafka got started at LinkedIn: <a href="http://insidebigdata.com/2016/04/28/a-brief-history-of-kafka-linkedins-messaging-platform/" target="_blank">http://insidebigdata.com/2016/04/28/a-brief-history-of-kafka-linkedins-messaging-platform/</a>, 2016.</div></li>
 </ol>
-
-                                
-                                </section>
-                            
-    </div>
