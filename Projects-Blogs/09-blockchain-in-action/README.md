@@ -1,9 +1,10 @@
 
 
-## casestudy : blockchain in action(there is huge surge on this technology)
+## casestudy : blockchain in action()
 
-a single and simple hope to change the world completely, lets explore the exiting list of cryptocurrencies in this article.. a complete outline
+there is huge surge on this technology, a single yet simple hope to change the world completely, in this article lets explore all exiting list of cryptocurrencies .. a complete outline.
 
+--------------------
 <table class="wikitable sortable" style="text-align: center; width: auto;">
 <tr>
 <th>Release</th>
@@ -370,3 +371,4 @@ Kyle Hagan></td>
 <td>Supports <a href="/wiki/Turing-complete" class="mw-redirect" title="Turing-complete">Turing-complete</a> smart contracts; air-gapped fork of <a href="/wiki/Ethereum" title="Ethereum">Ethereum</a></td>
 </tr>
 </table>
+-----------------------------------
