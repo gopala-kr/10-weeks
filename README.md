@@ -10,6 +10,6 @@
 * [[Week-6](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/06-ml-dl-frameworks)] 19-Nov-2017 - case study: ml-dl frameworks(an architectural overview) 
 * [[Week-7](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/07-bigdata-databases)] 26-Nov-2017 - case study : bigdata and databases
 * [[Week-8](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/08-cloud-in-action)] 03-Dec-2017 - case study : cloud in action
-* [Week-9]
+* [[Week-9](https://github.com/gopala-kr/weekend-with-github/blob/master/Projects-Blogs/09-blockchain-in-action)] 10-Dec-2017 - casestudy : blockchain in action
 * [Week-10]
 *********************
