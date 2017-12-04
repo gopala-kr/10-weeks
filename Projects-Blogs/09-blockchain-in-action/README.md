@@ -371,4 +371,5 @@ Kyle Hagan></td>
 <td>Supports <a href="https://en.wikipedia.org/wiki/Turing-complete" class="mw-redirect" title="Turing-complete">Turing-complete</a> smart contracts; air-gapped fork of <a href="https://en.wikipedia.org/wiki/Ethereum" title="Ethereum">Ethereum</a></td>
 </tr>
 </table>
+
 -----------------------------------
