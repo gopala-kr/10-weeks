@@ -377,7 +377,6 @@ Kyle Hagan></td>
 
 -----------------------------------
 
---------------------
 <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
 <tr>
 <th scope="col" class="navbox-title" colspan="2">
@@ -533,11 +532,6 @@ Kyle Hagan></td>
 <tr>
 <th scope="col" class="navbox-title" colspan="2">
 <div class="plainlinks hlist navbar mini">
-<ul>
-<li class="nv-view"><a href="https://en.wikipedia.org/wiki/Template:Cryptography_hash" title="Template:Cryptography hash"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
-<li class="nv-talk"><a href="https://en.wikipedia.org/wiki/Template_talk:Cryptography_hash" title="Template talk:Cryptography hash"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
-<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cryptography_hash&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
-</ul>
 </div>
 <div id="Cryptographic_hash_functions_.26_message_authentication_codes" style="font-size:114%;margin:0 4em"><a href="https://en.wikipedia.org/wiki/Cryptographic_hash_function" title="Cryptographic hash function">Cryptographic hash functions</a> &amp; <a href="https://en.wikipedia.org/wiki/Message_authentication_code" title="Message authentication code">message authentication codes</a></div>
 </th>
