@@ -5,7 +5,11 @@
 there is huge surge on this technology, a single yet simple hope to change the world completely, in this article lets explore all exiting list of cryptocurrencies .. a complete outline.
 
 --------------------
-
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+</div>
 <div id="Cryptocurrencies" style="font-size:114%;margin:0 4em"><a href="https://en.wikipedia.org/wiki/Cryptocurrency" title="Cryptocurrency">Cryptocurrencies</a></div>
 </th>
 </tr>
@@ -145,7 +149,15 @@ there is huge surge on this technology, a single yet simple hope to change the w
 <tr>
 <td class="navbox-abovebelow" colspan="2">
 <div>
-  
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Cryptocurrencies" title="Category:Cryptocurrencies">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <b><a href="https://commons.wikimedia.org/wiki/Category:Cryptocurrency" class="extiw" title="commons:Category:Cryptocurrency">Commons</a></b></li>
+<li><img alt="List-Class article" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" title="List-Class article" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /> <b><a href="/wiki/List_of_cryptocurrencies" title="List of cryptocurrencies">List</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>  
 -----------------------
 <table class="wikitable sortable" style="text-align: center; width: auto;">
 <tr>
