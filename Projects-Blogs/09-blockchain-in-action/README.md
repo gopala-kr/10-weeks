@@ -5,6 +5,148 @@
 there is huge surge on this technology, a single yet simple hope to change the world completely, in this article lets explore all exiting list of cryptocurrencies .. a complete outline.
 
 --------------------
+
+<div id="Cryptocurrencies" style="font-size:114%;margin:0 4em"><a href="https://en.wikipedia.org/wiki/Cryptocurrency" title="Cryptocurrency">Cryptocurrencies</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/SHA-2" title="SHA-2">SHA-256</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bitcoin" title="Bitcoin">Bitcoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bitcoin_Cash" title="Bitcoin Cash">Bitcoin Cash</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Namecoin" title="Namecoin">Namecoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Peercoin" title="Peercoin">Peercoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/NuBits" title="NuBits">NuBits</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Scrypt" title="Scrypt">Scrypt</a>-based</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Auroracoin" title="Auroracoin">Auroracoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dogecoin" title="Dogecoin">Dogecoin</a></li>
+<li><a class="mw-selflink selflink">Litecoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/PotCoin" title="PotCoin">PotCoin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Zerocoin" title="Zerocoin">Zerocoin</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Zcash" title="Zcash">Zcash</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zerocoin#Zcoin_(XZC)" title="Zerocoin">Zcoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zerocoin#ZeroVert_(ZER)" title="Zerocoin">ZeroVert</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/CryptoNote#Egalitarian_proof_of_work" title="CryptoNote">CryptoNote</a>-based</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/CryptoNote#Bytecoin_.28BCN.29" title="CryptoNote">Bytecoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Monero_(cryptocurrency)" title="Monero (cryptocurrency)">Monero</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CryptoNote#DigitalNote_.28XDN.29" title="CryptoNote">DigitalNote</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CryptoNote#Boolberry_.28BBR.29" title="CryptoNote">Boolberry</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Ethash" title="Ethash">Ethash</a>-based</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Ethereum" title="Ethereum">Ethereum</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ethereum_Classic" title="Ethereum Classic">Ethereum Classic</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ubiq" title="Ubiq">Ubiq</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other proof-of-work</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Dash_(cryptocurrency)" title="Dash (cryptocurrency)">Dash</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DigiByte" title="DigiByte">DigiByte</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Primecoin" title="Primecoin">Primecoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zcash" title="Zcash">Zerocash</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Myriadcoin" title="Myriadcoin">Myriadcoin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Non proof-of-work</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/BlackCoin" title="BlackCoin">BlackCoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Burstcoin" title="Burstcoin">Burstcoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Counterparty_(technology)" title="Counterparty (technology)">Counterparty</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gridcoin" title="Gridcoin">Gridcoin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lisk" title="Lisk">Lisk</a></li>
+<li><a href="https://en.wikipedia.org/wiki/NEM_(cryptocurrency)" title="NEM (cryptocurrency)">NEM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/ARDOR" title="ARDOR">Ardor</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nxt" title="Nxt">Nxt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Waves_platform" title="Waves platform">Waves Platform</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ripple_(payment_protocol)" title="Ripple (payment protocol)">Ripple</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Stellar_(payment_network)" title="Stellar (payment network)">Stellar</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shadow_(software)" title="Shadow (software)">Shadow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Technology</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Blockchain" title="Blockchain">Blockchain</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cryptocurrency_tumbler" title="Cryptocurrency tumbler">Cryptocurrency tumbler</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Initial_coin_offering" title="Initial coin offering">Initial coin offering</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proof-of-space" title="Proof-of-space">Proof-of-space</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proof-of-stake" title="Proof-of-stake">Proof-of-stake</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proof-of-work_system" title="Proof-of-work system">Proof-of-work system</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zerocoin" title="Zerocoin">Zerocoin</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Related topics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Alternative_currency" class="mw-redirect" title="Alternative currency">Alternative currency</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Anonymous_Internet_banking" title="Anonymous Internet banking">Anonymous Internet banking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bitcoin_network" title="Bitcoin network">Bitcoin network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Crypto-anarchism" title="Crypto-anarchism">Crypto-anarchism</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Digital_currency" title="Digital currency">Digital currency</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Digital_currency_exchange" title="Digital currency exchange">Digital currency exchange</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Double-spending" title="Double-spending">Double-spending</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Digital_currency" title="Digital currency">Electronic money</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Virtual_currency" title="Virtual currency">Virtual currency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+  
+-----------------------
 <table class="wikitable sortable" style="text-align: center; width: auto;">
 <tr>
 <th>Release</th>
