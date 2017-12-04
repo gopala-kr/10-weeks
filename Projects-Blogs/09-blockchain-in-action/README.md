@@ -724,11 +724,6 @@ encryption</a> modes</th>
 <tr>
 <th scope="col" class="navbox-title" colspan="2">
 <div class="plainlinks hlist navbar mini">
-<ul>
-<li class="nv-view"><a href="https://en.wikipedia.org/wiki/Template:Cryptography_navbox" title="Template:Cryptography navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
-<li class="nv-talk"><a href="https://en.wikipedia.org/wiki/Template_talk:Cryptography_navbox" title="Template talk:Cryptography navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
-<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cryptography_navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
-</ul>
 </div>
 <div id="Cryptography" style="font-size:114%;margin:0 4em"><a href="https://en.wikipedia.org/wiki/Cryptography" title="Cryptography">Cryptography</a></div>
 </th>
