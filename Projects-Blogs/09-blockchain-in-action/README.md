@@ -527,6 +527,257 @@ Kyle Hagan></td>
 </tr>
 </table>  
 
+-------------------
+
+<table class="nowraplinks hlist navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="https://en.wikipedia.org/wiki/Template:Cryptography_hash" title="Template:Cryptography hash"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="https://en.wikipedia.org/wiki/Template_talk:Cryptography_hash" title="Template talk:Cryptography hash"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cryptography_hash&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cryptographic_hash_functions_.26_message_authentication_codes" style="font-size:114%;margin:0 4em"><a href="https://en.wikipedia.org/wiki/Cryptographic_hash_function" title="Cryptographic hash function">Cryptographic hash functions</a> &amp; <a href="https://en.wikipedia.org/wiki/Message_authentication_code" title="Message authentication code">message authentication codes</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/List_of_hash_functions" title="List of hash functions">List</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Comparison_of_cryptographic_hash_functions" title="Comparison of cryptographic hash functions">Comparison</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hash_function_security_summary" title="Hash function security summary">Known attacks</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Common functions</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/MD5" title="MD5">MD5</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SHA-1" title="SHA-1">SHA-1</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SHA-2" title="SHA-2">SHA-2</a></li>
+<li><a class="mw-selflink selflink">SHA-3</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BLAKE_(hash_function)#BLAKE2" title="BLAKE (hash function)">BLAKE2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/NIST_hash_function_competition" title="NIST hash function competition">SHA-3 finalists</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/BLAKE_(hash_function)" title="BLAKE (hash function)">BLAKE</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gr%C3%B8stl" title="Grøstl">Grøstl</a></li>
+<li><a href="https://en.wikipedia.org/wiki/JH_(hash_function)" title="JH (hash function)">JH</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Skein_(hash_function)" title="Skein (hash function)">Skein</a></li>
+<li><a class="mw-selflink selflink">Keccak (winner)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other functions</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/CubeHash" title="CubeHash">CubeHash</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Elliptic_curve_only_hash" title="Elliptic curve only hash">ECOH</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fast_syndrome-based_hash" title="Fast syndrome-based hash">FSB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GOST_(hash_function)" title="GOST (hash function)">GOST</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HAS-160" title="HAS-160">HAS-160</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HAVAL" title="HAVAL">HAVAL</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kupyna" title="Kupyna">Kupyna</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LAN_Manager#LM_hash_details" title="LAN Manager">LM hash</a></li>
+<li><a href="https://en.wikipedia.org/wiki/MD2_(cryptography)" title="MD2 (cryptography)">MD2</a></li>
+<li><a href="https://en.wikipedia.org/wiki/MD4" title="MD4">MD4</a></li>
+<li><a href="https://en.wikipedia.org/wiki/MD6" title="MD6">MD6</a></li>
+<li><a href="https://en.wikipedia.org/wiki/MDC-2" title="MDC-2">MDC-2</a></li>
+<li><a href="https://en.wikipedia.org/wiki/N-Hash" title="N-Hash">N-Hash</a></li>
+<li><a href="https://en.wikipedia.org/wiki/RIPEMD" title="RIPEMD">RIPEMD</a></li>
+<li><a href="https://en.wikipedia.org/wiki/RadioGat%C3%BAn" title="RadioGatún">RadioGatún</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SWIFFT" title="SWIFFT">SWIFFT</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Snefru" title="Snefru">Snefru</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Streebog" title="Streebog">Streebog</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tiger_(cryptography)" title="Tiger (cryptography)">Tiger</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Very_smooth_hash" title="Very smooth hash">VSH</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Whirlpool_(cryptography)" title="Whirlpool (cryptography)">Whirlpool</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Key_derivation_function" title="Key derivation function">Key derivation functions</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Bcrypt" title="Bcrypt">bcrypt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Crypt_(C)" title="Crypt (C)">crypt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/PBKDF2" title="PBKDF2">PBKDF2</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Scrypt" title="Scrypt">scrypt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Argon2" title="Argon2">Argon2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Message_authentication_code" title="Message authentication code">MAC functions</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Data_Authentication_Algorithm" title="Data Authentication Algorithm">DAA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CBC-MAC" title="CBC-MAC">CBC-MAC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hash-based_message_authentication_code" title="Hash-based message authentication code">HMAC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/One-key_MAC" title="One-key MAC">OMAC</a>/<a href="https://en.wikipedia.org/wiki/One-key_MAC" title="One-key MAC">CMAC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/PMAC_(cryptography)" title="PMAC (cryptography)">PMAC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/VMAC" title="VMAC">VMAC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/UMAC" title="UMAC">UMAC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Poly1305" title="Poly1305">Poly1305</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SipHash" title="SipHash">SipHash</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Authenticated_encryption" title="Authenticated encryption">Authenticated<br />
+encryption</a> modes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/CCM_mode" title="CCM mode">CCM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CWC_mode" title="CWC mode">CWC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/EAX_mode" title="EAX mode">EAX</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Galois/Counter_Mode" title="Galois/Counter Mode">GCM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/IAPM_(mode)" title="IAPM (mode)">IAPM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OCB_mode" title="OCB mode">OCB</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Attacks</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Collision_attack" title="Collision attack">Collision attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Preimage_attack" title="Preimage attack">Preimage attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Birthday_attack" title="Birthday attack">Birthday attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Brute-force_attack" title="Brute-force attack">Brute-force attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rainbow_table" title="Rainbow table">Rainbow table</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Side-channel_attack" title="Side-channel attack">Side-channel attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Length_extension_attack" title="Length extension attack">Length extension attack</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Design</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Avalanche_effect" title="Avalanche effect">Avalanche effect</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Collision_(computer_science)" title="Collision (computer science)">Hash collision</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Merkle%E2%80%93Damg%C3%A5rd_construction" title="Merkle–Damgård construction">Merkle–Damgård construction</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sponge_function" title="Sponge function">Sponge function</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HAIFA_construction" title="HAIFA construction">HAIFA construction</a></li>
+<li><a href="/w/index.php?title=Unique_Block_Iteration&amp;action=edit&amp;redlink=1" class="new" title="Unique Block Iteration (page does not exist)">Unique Block Iteration</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Standardization</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/CRYPTREC" title="CRYPTREC">CRYPTREC</a></li>
+<li><a href="https://en.wikipedia.org/wiki/NESSIE" title="NESSIE">NESSIE</a></li>
+<li><a href="https://en.wikipedia.org/wiki/NIST_hash_function_competition" title="NIST hash function competition">NIST hash function competition</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Utilization</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Post-quantum_cryptography#Hash-based_cryptography" title="Post-quantum cryptography">Hash-based cryptography</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Key_stretching" title="Key stretching">Key stretching</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Merkle_tree" title="Merkle tree">Merkle tree</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Message_authentication" title="Message authentication">Message authentication</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proof-of-work_system" title="Proof-of-work system">Proof of work</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Salt_(cryptography)" title="Salt (cryptography)">Salt</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="https://en.wikipedia.org/wiki/Template:Cryptography_navbox" title="Template:Cryptography navbox"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="https://en.wikipedia.org/wiki/Template_talk:Cryptography_navbox" title="Template talk:Cryptography navbox"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cryptography_navbox&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cryptography" style="font-size:114%;margin:0 4em"><a href="https://en.wikipedia.org/wiki/Cryptography" title="Cryptography">Cryptography</a></div>
+</th>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/History_of_cryptography" title="History of cryptography">History of cryptography</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cryptanalysis" title="Cryptanalysis">Cryptanalysis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Outline_of_cryptography" title="Outline of cryptography">Outline of cryptography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Symmetric-key_algorithm" title="Symmetric-key algorithm">Symmetric-key algorithm</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Block_cipher" title="Block cipher">Block cipher</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Stream_cipher" title="Stream cipher">Stream cipher</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Public-key_cryptography" title="Public-key cryptography">Public-key cryptography</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cryptographic_hash_function" title="Cryptographic hash function">Cryptographic hash function</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Message_authentication_code" title="Message authentication code">Message authentication code</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator" title="Cryptographically secure pseudorandom number generator">Random numbers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Steganography" title="Steganography">Steganography</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
 ------------------------------------
 
 ### blockchain ref
