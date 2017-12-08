@@ -133,3 +133,8 @@
 </td>
 </tr>
 </table>
+
+----------------
+## bitcoin network
+
+![bitcoin](https://bitsonblocks.files.wordpress.com/2016/03/bitcoin_network_infographic.png)
