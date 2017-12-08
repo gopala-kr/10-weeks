@@ -378,6 +378,13 @@ Kyle Hagan></td>
 
 -----------------------------------
 
+## blockchain in fintech
+
+![blockchain](http://startupmanagement.org/wp-content/uploads/2015/12/Blockchain-in-Financial-Services-Landscape.jpg)
+
+
+-------------------------------
+
 <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
 <tr>
 <th scope="col" class="navbox-title" colspan="2">
