@@ -1,12 +1,12 @@
 ## casestudy : ar, vr and mr in action
 
 
-![vr](https://en.wikipedia.org/wiki/Virtual_reality#/media/File:Linux_kernel_and_gaming_input-output_latency.svg)
+![vr](https://upload.wikimedia.org/wikipedia/commons/9/91/Linux_kernel_and_gaming_input-output_latency.svg)
 
 
 -----------
 
-![mr](https://en.wikipedia.org/wiki/Mixed_reality#/media/File:Reality-Virtuality_Continuum.svg)
+![mr](https://upload.wikimedia.org/wikipedia/commons/8/8f/Reality-Virtuality_Continuum.svg)
 
 --------------------
 
@@ -218,8 +218,8 @@ devices</th>
 
 ### vr ref
 
-<h3><span class="mw-headline" id="References">References</span></span></h3>
-<h3><span class="mw-headline" id="General_references">General references</span></h3>
+
+<h4><span class="mw-headline" id="General_references">General references</span></h4>
 <ul>
 <li>Choi, SangSu, Kiwook Jung, and Sang Do Noh. "Virtual reality applications in manufacturing industries: Past research, present findings, and future directions." Concurrent Engineering (2015): 1063293X14568814.</li>
 </ul>
@@ -255,19 +255,7 @@ devices</th>
 <li><a href="https://en.wikipedia.org/wiki/Kevin_Warwick" title="Kevin Warwick">Warwick, K.</a>, Gray, J. and Roberts, D. eds. (1993). <i>Virtual Reality in Engineering</i>, Peter Peregrinus.</li>
 <li><a href="https://en.wikipedia.org/wiki/Philip_Zhai" class="mw-redirect" title="Philip Zhai">Zhai, Philip</a>. (1998). <i>Get Real: A Philosophical adventure in Virtual Reality</i>, Rowman &amp; Littlefield Publishers, New York and Oxford.</li>
 </ul>
-<h2><span class="mw-headline" id="External_links">External links</span></span></h2>
-<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
-<tr>
-<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
-<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a href="https://commons.wikimedia.org/wiki/Category:Virtual_reality" class="extiw" title="commons:Category:Virtual reality">Virtual reality</a></b></i>.</td>
-</tr>
-</table>
-<table class="infobox" style="width:22em;width: 300px; float: right; clear: right; margin:0 0 1.0em 1.0em">
-<caption>External video</caption>
-<tr>
-<td colspan="2" style="text-align:center;text-align: left"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/16px-Nuvola_apps_kaboodle.svg.png" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/24px-Nuvola_apps_kaboodle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nuvola_apps_kaboodle.svg/32px-Nuvola_apps_kaboodle.svg.png 2x" data-file-width="128" data-file-height="128" /> <a rel="nofollow" class="external text" href="https://archive.org/details/virtualreali">Virtual Reality</a>, <i><a href="/wiki/Computer_Chronicles" title="Computer Chronicles">Computer Chronicles</a></i> (1992)</td>
-</tr>
-</table>
+
 <ul>
 <li><cite class="citation web">Isaac, Joseph (2016). <a rel="nofollow" class="external text" href="https://www.completegate.com/2016070154/blog/virtual-reality-explained">"Step into a new world - Virtual Reality (VR)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 July</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Step+into+a+new+world+-+Virtual+Reality+%28VR%29&amp;rft.date=2016&amp;rft.aulast=Isaac&amp;rft.aufirst=Joseph&amp;rft_id=https%3A%2F%2Fwww.completegate.com%2F2016070154%2Fblog%2Fvirtual-reality-explained&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+reality" class="Z3988"><span style="display:none;">&#160;</span></span> Basic Concepts of Virtual Reality along with Research Challenges explained in simple words.</li>
 <li><a href="https://commons.wikimedia.org/wiki/File:Mixed_Reality_Scale.png" class="extiw" title="commons:File:Mixed Reality Scale.png">Mixed Reality Scale</a> – Milgram and Kishino's (1994) Virtuality Continuum paraphrase with examples.</li>
