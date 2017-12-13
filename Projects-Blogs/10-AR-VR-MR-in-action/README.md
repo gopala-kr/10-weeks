@@ -266,7 +266,6 @@ devices</th>
 
 ### mr ref
 
-<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Mixed_reality" class="extiw" title="commons:Category:Mixed reality">Mixed reality</a> at Wikimedia Commons</p>
 <ul>
 <li>Signer, Beat &amp; Curtin, Timothy J. (2017). <a rel="nofollow" class="external text" href="https://arxiv.org/pdf/1703.08288">Tangible Holograms: Towards Mobile Physical Augmentation of Virtual Objects</a>, Technical Report WISE Lab, WISE-2017-01, March 2017.</li>
 <li>Fleischmann, Monika; Strauss, Wolfgang (eds.) (2001). <a rel="nofollow" class="external text" href="http://netzspannung.org/version1/extensions/cast01-proceedings/pdf/cast01_proceedings_bw.pdf">Proceedings</a> of <a rel="nofollow" class="external text" href="http://netzspannung.org/version1/cast01/index.html">»CAST01//Living in Mixed Realities«</a> Intl. Conf. On Communication of Art, Science and Technology, Fraunhofer IMK 2001, 401. ISSN 1618-1379 (Print), ISSN 1618-1387 (Internet).</li>
