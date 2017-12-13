@@ -43,7 +43,7 @@
 
 ----------------------
 
-
+**Linux_kernel_and_gaming_input-output_latenc**
 
 ![vr](https://upload.wikimedia.org/wikipedia/commons/9/91/Linux_kernel_and_gaming_input-output_latency.svg)
 
@@ -323,7 +323,7 @@ devices</th>
 <li><a rel="nofollow" class="external text" href="http://etclab.mie.utoronto.ca/people/paul_dir/IEICE94/ieice.html">IEICE Transactions on Information Systems, Vol E77-D, No.12 December 1994 - A taxonomy of mixed reality visual displays - Paul Milgram, Fumio Kishino</a></li>
 </ul>
 
-### notable researcher in ar.
+### notable researchers in ar.
 
 
 <ul>
