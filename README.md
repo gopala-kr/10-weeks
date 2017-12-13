@@ -1,5 +1,5 @@
 
-> *I took up a challenge to learn a new technology stack every week from Oct-dec-17. Goal was to get the outline of most of the buzz words in technology(within 10 weeks), to build a simple application using it, and a blog about it.*
+> *I took up a challenge to learn a new technology stack every week from oct-dec-17. Goal was to get the outline of most of the buzz words in technology(within 10 weeks), to build a simple application using it, and a blog about it.*
 
 *********************
 * [[Week-1](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/01-react-ecosystem)] 15-Oct-2017 - react ecosystem : react, redux, relay, graphql, react-native
