@@ -5,7 +5,7 @@
 ### history of augmented reality
 
 <ul>
-<li> **1901:** <a href="https://en.wikipedia.org/wiki/L._Frank_Baum" title="L. Frank Baum">L. Frank Baum</a>, an author, first mentions the idea of an electronic display/spectacles that overlays data onto real life (in this case 'people'), it is named a 'character marker'.</li>
+<li> 1901: <a href="https://en.wikipedia.org/wiki/L._Frank_Baum" title="L. Frank Baum">L. Frank Baum</a>, an author, first mentions the idea of an electronic display/spectacles that overlays data onto real life (in this case 'people'), it is named a 'character marker'.</li>
 <li>1957–62: <a href="https://en.wikipedia.org/wiki/Morton_Heilig" title="Morton Heilig">Morton Heilig</a>, a cinematographer, creates and patents a simulator called <a href="https://en.wikipedia.org/wiki/Sensorama" title="Sensorama">Sensorama</a> with visuals, sound, vibration, and smell.</li>
 <li>1968: <a href="https://en.wikipedia.org/wiki/Ivan_Sutherland" title="Ivan Sutherland">Ivan Sutherland</a> invents the <a href="https://en.wikipedia.org/wiki/Head-mounted_display" title="Head-mounted display">head-mounted display</a> and positions it as a window into a virtual world.</li>
 <li>1975: <a href="https://en.wikipedia.org/wiki/Myron_Krueger" class="mw-redirect" title="Myron Krueger">Myron Krueger</a> creates <a href="https://en.wikipedia.org/wiki/Videoplace" title="Videoplace">Videoplace</a> to allow users to interact with virtual objects.</li>
