@@ -1,10 +1,16 @@
 ## casestudy : ar, vr and mr in action
 
 
+![vr](https://en.wikipedia.org/wiki/Virtual_reality#/media/File:Linux_kernel_and_gaming_input-output_latency.svg)
+
+
+-----------
+
+![mr](https://en.wikipedia.org/wiki/Mixed_reality#/media/File:Reality-Virtuality_Continuum.svg)
 
 ### vr ref
 
-<h2><span class="mw-headline" id="References">References</span></span></h2>
+<h3><span class="mw-headline" id="References">References</span></span></h3>
 <h3><span class="mw-headline" id="General_references">General references</span></h3>
 <ul>
 <li>Choi, SangSu, Kiwook Jung, and Sang Do Noh. "Virtual reality applications in manufacturing industries: Past research, present findings, and future directions." Concurrent Engineering (2015): 1063293X14568814.</li>
@@ -60,4 +66,20 @@
 <li><cite class="citation web">Drummond, Katie (2014). <a rel="nofollow" class="external text" href="https://www.theverge.com/a/virtual-reality/">"The Rise and Fall and Rise of Virtual Reality"</a>. <i><a href="/wiki/The_Verge" title="The Verge">The Verge</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">15 November</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Verge&amp;rft.atitle=The+Rise+and+Fall+and+Rise+of+Virtual+Reality&amp;rft.date=2014&amp;rft.aulast=Drummond&amp;rft.aufirst=Katie&amp;rft_id=https%3A%2F%2Fwww.theverge.com%2Fa%2Fvirtual-reality%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+reality" class="Z3988"><span style="display:none;">&#160;</span></span> Interviews on the history and future of virtual reality by leaders in the field.</li>
 <li><cite class="citation web"><a rel="nofollow" class="external text" href="http://onlinecmag.com/category/computer-technologies/virtual-reality/">"New Trends In Virtual Reality"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=New+Trends+In+Virtual+Reality&amp;rft_id=http%3A%2F%2Fonlinecmag.com%2Fcategory%2Fcomputer-technologies%2Fvirtual-reality%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+reality" class="Z3988"><span style="display:none;">&#160;</span></span></li>
 <li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.dguv.de/ifa/fachinfos/virtuelle-realitaet/index-2.jsp">"Virtual reality in human-system interaction"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Virtual+reality+in+human-system+interaction&amp;rft_id=http%3A%2F%2Fwww.dguv.de%2Fifa%2Ffachinfos%2Fvirtuelle-realitaet%2Findex-2.jsp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVirtual+reality" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+
+### mr ref
+
+<p><a href="/wiki/File:Commons-logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" width="12" height="16" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Media related to <a href="https://commons.wikimedia.org/wiki/Category:Mixed_reality" class="extiw" title="commons:Category:Mixed reality">Mixed reality</a> at Wikimedia Commons</p>
+<ul>
+<li>Signer, Beat &amp; Curtin, Timothy J. (2017). <a rel="nofollow" class="external text" href="https://arxiv.org/pdf/1703.08288">Tangible Holograms: Towards Mobile Physical Augmentation of Virtual Objects</a>, Technical Report WISE Lab, WISE-2017-01, March 2017.</li>
+<li>Fleischmann, Monika; Strauss, Wolfgang (eds.) (2001). <a rel="nofollow" class="external text" href="http://netzspannung.org/version1/extensions/cast01-proceedings/pdf/cast01_proceedings_bw.pdf">Proceedings</a> of <a rel="nofollow" class="external text" href="http://netzspannung.org/version1/cast01/index.html">»CAST01//Living in Mixed Realities«</a> Intl. Conf. On Communication of Art, Science and Technology, Fraunhofer IMK 2001, 401. ISSN 1618-1379 (Print), ISSN 1618-1387 (Internet).</li>
+<li><a rel="nofollow" class="external text" href="http://www.iml.org.sg/">Interactive Multimedia Lab</a> A research lab at the National University of Singapore focuses on Multi-modal Mixed Reality interfaces.</li>
+<li><a rel="nofollow" class="external text" href="http://www.soi.city.ac.uk/~fotisl/MRGIS/mrgis.htm">Mixed Reality Geographical Information System (MRGIS)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.t2i.se/pub/papers/springer_5440.pdf">Costanza, E., Kunz, A., and Fjeld, M. 2009. Mixed Reality: A Survey</a> Costanza, E., Kunz, A., and Fjeld, M. 2009. Mixed Reality: A Survey. In Human Machine interaction: Research Results of the MMI Program, D. Lalanne and J. Kohlas (Eds.) LNCS 5440, pp.&#160;47–68.</li>
+<li><a rel="nofollow" class="external text" href="http://csdl2.computer.org/comp/proceedings/ismar/2003/2006/00/20060290.pdf">H. Regenbrecht and C. Ott and M. Wagner and T. Lum and P. Kohler and W. Wilke and E. Mueller, An Augmented Virtuality Approach to 3D Videoconferencing, Proceedings of The 2nd IEEE and ACM International Symposium on Mixed and Augmented Reality, pp 290-291, 2003</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sics.se/~kalle/published/wow.pdf">Kristian Simsarian and Karl-Petter Akesson, Windows on the World: An example of Augmented Virtuality, Interface Sixth International Conference Montpellier, Man-machine interaction, pp 68-71, 1997</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.architecturemixedreality.com/">Mixed Reality Project: experimental applications on Mixed Reality (Augmented Reality, Augmented Virtuality) and Virtual Reality.</a></li>
+<li><a href="https://commons.wikimedia.org/wiki/File:Mixed_Reality_Scale.png" class="extiw" title="commons:File:Mixed Reality Scale.png">Mixed Reality Scale</a> – Milgram and Kishino’s (1994) Virtuality Continuum paraphrase with examples.</li>
+<li><a rel="nofollow" class="external text" href="http://etclab.mie.utoronto.ca/people/paul_dir/IEICE94/ieice.html">IEICE Transactions on Information Systems, Vol E77-D, No.12 December 1994 - A taxonomy of mixed reality visual displays - Paul Milgram, Fumio Kishino</a></li>
 </ul>
