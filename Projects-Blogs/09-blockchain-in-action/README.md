@@ -3,8 +3,6 @@
 ## casestudy : blockchain in action
 
 
--------------
-
 some useful tags to understand blockchain tech and cryptocurrencies in simple words.
 
 | [Blockchain](https://www.quora.com/topic/Blockchain-database) | [Cryptocurrencies](https://www.quora.com/topic/Cryptocurrencies) | [Blockchain Technology](https://www.quora.com/topic/Blockchain-Technology) | [Ethereum
@@ -25,6 +23,8 @@ Virtual Currencies](https://www.quora.com/topic/Virtual-Currencies) | [Smart Con
 
 
 -----------------------
+
+### list of cryptocurrencies
 
 <table class="wikitable sortable" style="text-align: center; width: auto;">
 <tr>
