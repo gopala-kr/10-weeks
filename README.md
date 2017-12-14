@@ -14,7 +14,7 @@
 * [[Week-10](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/10-AR-VR-MR-in-action)] 17-Dec-2017 - ar, vr and mr in action
 *********************
 
-Case study : The Four - List of products, services, mergers and acquisitions of Amazon, Apple, Facebook, and Google
+Case Study : [The Four - List of products, services, mergers and acquisitions of Amazon, Apple, Facebook, and Google](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/the-four)
 
 -------------
 
