@@ -14,7 +14,6 @@
 * [[Week-10](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/10-AR-VR-MR-in-action)] 17-Dec-2017 - ar, vr and mr in action
 *********************
 
-casestudy: the four   
 
 -------------
 
