@@ -18,4 +18,4 @@ Case Study : [The Four - List of products, services, mergers and acquisitions of
 
 -------------
 
-if you found something useful [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/gopala-kr) :smiley:
+if you found something useful [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/gopala-kr) :blush:
