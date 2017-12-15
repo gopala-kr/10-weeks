@@ -132,3 +132,27 @@
 <li><a href="https://en.wikipedia.org/wiki/Tamiko_Thiel" title="Tamiko Thiel">Tamiko Thiel</a></li>
 </ul>
 </div>
+
+-------------------
+
+![vr-1](http://www.onalytica.com/wp-content/uploads/2016/05/Top-10-Topic-SoV2.png)
+
+--------------
+
+![vr-2](http://www.onalytica.com/wp-content/uploads/2016/05/Network-Map-Oculus.png)
+
+------------------
+
+![vr-3](http://www.onalytica.com/wp-content/uploads/2016/05/Network-Map-HTC-Vive.png)
+
+---------------
+
+<ul>
+<li>(Optical) Tracking and Motion Capture,</li>
+<li>3D HCI including Locomotion,</li>
+<li>High Quality Rendering for Mixed Reality,</li>
+<li>3D Reconstruction for Mixed Reality,</li>
+<li>VR Medical Applications &amp; Virtual Rehabilitation,</li>
+<li>Spatial Understanding in Mixed Reality,</li>
+<li>Immersive Mixed Reality applications in general.</li>
+</ul>
