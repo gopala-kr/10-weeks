@@ -13,6 +13,7 @@
 
 
 ---------------------
+some useful tags to understand cloud in simple words..
 
 | [Cloud Computing](https://www.quora.com/topic/Cloud-Computing) | [Cloud Services](https://www.quora.com/topic/Cloud-Services) | [Amazon Web Services](https://www.quora.com/topic/Amazon-Web-Services) | [
 Amazon EC2](https://www.quora.com/topic/Amazon-EC2) | [Microsoft Azure](https://www.quora.com/topic/Microsoft-Azure) | [Google Cloud Platform](https://www.quora.com/topic/Google-Cloud-Platform) | [Data Storage](https://www.quora.com/topic/Data-Storage) | [Web Hosting](https://www.quora.com/topic/Web-Hosting) | [Infrastructure-as-a-Service
