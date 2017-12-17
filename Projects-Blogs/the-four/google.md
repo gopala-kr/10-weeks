@@ -13,4 +13,7 @@ wiki gives answers to most of our general questions, so lets start from there..
 * [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)
 
 
+![gp](https://upload.wikimedia.org/wikipedia/commons/2/2a/Google_timeline.svg)
+
+
 
