@@ -11,6 +11,7 @@ wiki gives answers to most of our general questions, so lets start from there..
 * [google services](https://en.wikipedia.org/wiki/Category:Google_services)
 * [List of mergers and acquisitions by Alphabet](https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Alphabet)
 * [Criticism of Google](https://en.wikipedia.org/wiki/Criticism_of_Google)
+* [Google Acquisition Tracker - CB Insights data](https://www.cbinsights.com/research-google-acquisitions)
 
 
 ![gp](https://upload.wikimedia.org/wikipedia/commons/2/2a/Google_timeline.svg)
