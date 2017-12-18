@@ -1,4 +1,5 @@
 
+
 [The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture](https://www.goodreads.com/book/show/10146.The_Search) a book by John Battelle, gives more of internal working of search as an organization. Presently google has more than 200 products(highly competitive)
 lets take some time to get to know about products and services of google and teams behind them.
 
