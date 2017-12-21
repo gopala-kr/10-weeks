@@ -43,101 +43,101 @@ Amazon AWS Certifications](https://www.quora.com/topic/Amazon-AWS-Certifications
 <th scope="col" class="navbox-title" colspan="2">
 <div class="plainlinks hlist navbar mini">
 </div>
-<div id="Cloud_computing" style="font-size:114%;margin:0 4em"><a href="/wiki/Cloud_computing" title="Cloud computing">Cloud computing</a></div>
+<div id="Cloud_computing" style="font-size:114%;margin:0 4em"><a href="https://en.wikipedia.org/wiki/Cloud_computing" title="Cloud computing">Cloud computing</a></div>
 </th>
 </tr>
 <tr>
-<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_as_a_service" title="Software as a service">Applications</a></th>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Software_as_a_service" title="Software as a service">Applications</a></th>
 <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
 <div style="padding:0em 0.25em">
 <ul>
-<li><a href="/wiki/Box_(company)" title="Box (company)">Box</a></li>
-<li><a href="/wiki/Google" title="Google">Google</a>
+<li><a href="https://en.wikipedia.org/wiki/Box_(company)" title="Box (company)">Box</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Google" title="Google">Google</a>
 <ul>
-<li><a href="/wiki/G_Suite" title="G Suite">G Suite</a></li>
-<li><a href="/wiki/Google_Docs,_Sheets_and_Slides" class="mw-redirect" title="Google Docs, Sheets and Slides">Docs, Sheets and Slides</a></li>
+<li><a href="https://en.wikipedia.org/wiki/G_Suite" title="G Suite">G Suite</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Google_Docs,_Sheets_and_Slides" class="mw-redirect" title="Google Docs, Sheets and Slides">Docs, Sheets and Slides</a></li>
 </ul>
 </li>
-<li><a href="/wiki/HP_Cloud" title="HP Cloud">HP Cloud</a> (closed)</li>
-<li><a href="/wiki/Microsoft_Online_Services" title="Microsoft Online Services">Microsoft Online</a></li>
-<li><a href="/wiki/Rackspace" title="Rackspace">Rackspace</a></li>
-<li><a href="/wiki/Salesforce.com" title="Salesforce.com">Salesforce</a></li>
-<li><a href="/wiki/Zoho_Corporation" title="Zoho Corporation">Zoho</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HP_Cloud" title="HP Cloud">HP Cloud</a> (closed)</li>
+<li><a href="https://en.wikipedia.org/wiki/Microsoft_Online_Services" title="Microsoft Online Services">Microsoft Online</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rackspace" title="Rackspace">Rackspace</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Salesforce.com" title="Salesforce.com">Salesforce</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zoho_Corporation" title="Zoho Corporation">Zoho</a></li>
 </ul>
 </div>
 </td>
 </tr>
 <tr>
-<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Platform_as_a_service" title="Platform as a service">Platforms</a></th>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Platform_as_a_service" title="Platform as a service">Platforms</a></th>
 <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
 <div style="padding:0em 0.25em">
 <ul>
-<li><a href="/wiki/Alpha7" title="Alpha7">Alpha7</a></li>
-<li><a href="/wiki/Amazon_Web_Services" title="Amazon Web Services">Amazon</a></li>
-<li><a href="/wiki/AppScale" title="AppScale">AppScale</a></li>
-<li><a href="/wiki/Box_(company)" title="Box (company)">Box</a></li>
-<li><a href="/wiki/Bluemix" title="Bluemix">Bluemix</a></li>
-<li><a href="/wiki/Cloud_Foundry" title="Cloud Foundry">Cloud Foundry</a></li>
-<li><a href="/wiki/Cocaine_(PaaS)" title="Cocaine (PaaS)">Cocaine (PaaS)</a></li>
-<li><a href="/wiki/Engine_Yard" title="Engine Yard">Engine Yard</a></li>
-<li><a href="/wiki/EXo_Platform" title="EXo Platform">eXo Platform</a></li>
-<li><a href="/wiki/HPE_Helion" title="HPE Helion">Helion</a></li>
-<li><a href="/wiki/Predix_(software)" title="Predix (software)">GE Predix</a></li>
-<li><a href="/wiki/Google_App_Engine" title="Google App Engine">Google App Engine</a></li>
-<li><a href="/wiki/GreenQloud" title="GreenQloud">GreenQloud</a></li>
-<li><a class="mw-selflink selflink">Heroku</a></li>
-<li><a href="/wiki/Inktank_Storage" title="Inktank Storage">Inktank</a></li>
-<li><a href="/wiki/Jelastic" title="Jelastic">Jelastic</a></li>
-<li><a href="/wiki/Mendix" title="Mendix">Mendix</a></li>
-<li><a href="/wiki/Microsoft_Azure" title="Microsoft Azure">Microsoft Azure</a></li>
-<li><a href="/wiki/OutSystems" title="OutSystems">OutSystems</a></li>
-<li><a href="/wiki/OpenQRM" title="OpenQRM">openQRM</a></li>
-<li><a href="/wiki/OpenShift" title="OpenShift">OpenShift</a></li>
-<li><a href="/wiki/PythonAnywhere" title="PythonAnywhere">PythonAnywhere</a></li>
-<li><a href="/wiki/RightScale" title="RightScale">RightScale</a></li>
-<li><a href="/wiki/Salesforce.com#Force.com" title="Salesforce.com">Force.com</a></li>
-<li><a href="/wiki/SAP_Cloud_Platform" title="SAP Cloud Platform">SAP Cloud Platform</a></li>
-<li><a href="/wiki/VMware_vCloud_Air" class="mw-redirect" title="VMware vCloud Air">VMware vCloud Air</a></li>
-<li><a href="/wiki/WaveMaker" title="WaveMaker">WaveMaker</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Alpha7" title="Alpha7">Alpha7</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" title="Amazon Web Services">Amazon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AppScale" title="AppScale">AppScale</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Box_(company)" title="Box (company)">Box</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bluemix" title="Bluemix">Bluemix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cloud_Foundry" title="Cloud Foundry">Cloud Foundry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cocaine_(PaaS)" title="Cocaine (PaaS)">Cocaine (PaaS)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Engine_Yard" title="Engine Yard">Engine Yard</a></li>
+<li><a href="https://en.wikipedia.org/wiki/EXo_Platform" title="EXo Platform">eXo Platform</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HPE_Helion" title="HPE Helion">Helion</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Predix_(software)" title="Predix (software)">GE Predix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Google_App_Engine" title="Google App Engine">Google App Engine</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GreenQloud" title="GreenQloud">GreenQloud</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Heroku" title="GreenQloud">Heroku</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Inktank_Storage" title="Inktank Storage">Inktank</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jelastic" title="Jelastic">Jelastic</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mendix" title="Mendix">Mendix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Microsoft_Azure" title="Microsoft Azure">Microsoft Azure</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OutSystems" title="OutSystems">OutSystems</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenQRM" title="OpenQRM">openQRM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenShift" title="OpenShift">OpenShift</a></li>
+<li><a href="https://en.wikipedia.org/wiki/PythonAnywhere" title="PythonAnywhere">PythonAnywhere</a></li>
+<li><a href="https://en.wikipedia.org/wiki/RightScale" title="RightScale">RightScale</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Salesforce.com#Force.com" title="Salesforce.com">Force.com</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SAP_Cloud_Platform" title="SAP Cloud Platform">SAP Cloud Platform</a></li>
+<li><a href="https://en.wikipedia.org/wiki/VMware_vCloud_Air" class="mw-redirect" title="VMware vCloud Air">VMware vCloud Air</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WaveMaker" title="WaveMaker">WaveMaker</a></li>
 </ul>
 </div>
 </td>
 </tr>
 <tr>
-<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Infrastructure_as_a_service" title="Infrastructure as a service">Infrastructure</a></th>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Infrastructure_as_a_service" title="Infrastructure as a service">Infrastructure</a></th>
 <td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
 <div style="padding:0em 0.25em">
 <ul>
-<li><a href="/wiki/Amazon_Web_Services" title="Amazon Web Services">Amazon</a></li>
-<li><a href="/wiki/Abiquo_Enterprise_Edition" title="Abiquo Enterprise Edition">Abiquo Enterprise Edition</a></li>
-<li><a href="/wiki/Apache_CloudStack" title="Apache CloudStack">CloudStack</a></li>
-<li><a href="/wiki/CtrlS" title="CtrlS">CtrlS</a></li>
-<li><a href="/wiki/DigitalOcean" title="DigitalOcean">DigitalOcean</a></li>
-<li><a href="/wiki/EMC_Atmos" title="EMC Atmos">EMC Atmos</a></li>
-<li><a href="/wiki/Eucalyptus_(software)" title="Eucalyptus (software)">Eucalyptus</a></li>
-<li><a href="/wiki/FUJITSU_Cloud_IaaS_Trusted_Public_S5" title="FUJITSU Cloud IaaS Trusted Public S5">Fujitsu</a></li>
-<li><a href="/wiki/GoGrid" title="GoGrid">GoGrid</a></li>
-<li><a href="/wiki/Google_Cloud_Platform" title="Google Cloud Platform">Google Cloud Platform</a></li>
-<li><a href="/wiki/GreenButton" title="GreenButton">GreenButton</a></li>
-<li><a href="/wiki/GreenQloud" title="GreenQloud">GreenQloud</a></li>
-<li><a href="/wiki/IBM_cloud_computing" title="IBM cloud computing">IBM cloud computing</a></li>
-<li><a href="/wiki/Iland" title="Iland">iland</a></li>
-<li><a href="/wiki/Joyent" title="Joyent">Joyent</a></li>
-<li><a href="/wiki/Lunacloud" title="Lunacloud">Lunacloud</a></li>
-<li><a href="/wiki/Nimbula" title="Nimbula">Nimbula</a></li>
-<li><a href="/wiki/Nimbus_(cloud_computing)" title="Nimbus (cloud computing)">Nimbus</a></li>
-<li><a href="/wiki/OpenNebula" title="OpenNebula">OpenNebula</a></li>
-<li><a href="/wiki/OpenStack" title="OpenStack">OpenStack</a></li>
-<li><a href="/wiki/OrionVM" title="OrionVM">OrionVM</a></li>
-<li><a href="/wiki/Rackspace_Cloud" title="Rackspace Cloud">Rackspace Cloud</a></li>
-<li><a href="/wiki/SoftLayer" title="SoftLayer">SoftLayer</a></li>
-<li><a href="/wiki/Zadara_Storage" title="Zadara Storage">Zadara Storage</a></li>
-<li><a href="/wiki/Libvirt" title="Libvirt">libvirt</a></li>
-<li><a href="/wiki/Libguestfs" title="Libguestfs">libguestfs</a></li>
-<li><a href="/wiki/OVirt" title="OVirt">OVirt</a></li>
-<li><a href="/wiki/Virtual_Machine_Manager" title="Virtual Machine Manager">Virtual Machine Manager</a></li>
-<li><a href="/wiki/Wakame-vdc" title="Wakame-vdc">Wakame-vdc</a></li>
-<li><a href="/wiki/Virtual_Private_Cloud_OnDemand" class="mw-redirect" title="Virtual Private Cloud OnDemand">Virtual Private Cloud OnDemand</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Amazon_Web_Services" title="Amazon Web Services">Amazon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Abiquo_Enterprise_Edition" title="Abiquo Enterprise Edition">Abiquo Enterprise Edition</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_CloudStack" title="Apache CloudStack">CloudStack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CtrlS" title="CtrlS">CtrlS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/DigitalOcean" title="DigitalOcean">DigitalOcean</a></li>
+<li><a href="https://en.wikipedia.org/wiki/EMC_Atmos" title="EMC Atmos">EMC Atmos</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Eucalyptus_(software)" title="Eucalyptus (software)">Eucalyptus</a></li>
+<li><a href="https://en.wikipedia.org/wiki/FUJITSU_Cloud_IaaS_Trusted_Public_S5" title="FUJITSU Cloud IaaS Trusted Public S5">Fujitsu</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GoGrid" title="GoGrid">GoGrid</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Google_Cloud_Platform" title="Google Cloud Platform">Google Cloud Platform</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GreenButton" title="GreenButton">GreenButton</a></li>
+<li><a href="https://en.wikipedia.org/wiki/GreenQloud" title="GreenQloud">GreenQloud</a></li>
+<li><a href="https://en.wikipedia.org/wiki/IBM_cloud_computing" title="IBM cloud computing">IBM cloud computing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Iland" title="Iland">iland</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Joyent" title="Joyent">Joyent</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lunacloud" title="Lunacloud">Lunacloud</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nimbula" title="Nimbula">Nimbula</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nimbus_(cloud_computing)" title="Nimbus (cloud computing)">Nimbus</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenNebula" title="OpenNebula">OpenNebula</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenStack" title="OpenStack">OpenStack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OrionVM" title="OrionVM">OrionVM</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rackspace_Cloud" title="Rackspace Cloud">Rackspace Cloud</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SoftLayer" title="SoftLayer">SoftLayer</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Zadara_Storage" title="Zadara Storage">Zadara Storage</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Libvirt" title="Libvirt">libvirt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Libguestfs" title="Libguestfs">libguestfs</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OVirt" title="OVirt">OVirt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Virtual_Machine_Manager" title="Virtual Machine Manager">Virtual Machine Manager</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Wakame-vdc" title="Wakame-vdc">Wakame-vdc</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Virtual_Private_Cloud_OnDemand" class="mw-redirect" title="Virtual Private Cloud OnDemand">Virtual Private Cloud OnDemand</a></li>
 </ul>
 </div>
 </td>
@@ -147,17 +147,17 @@ Amazon AWS Certifications](https://www.quora.com/topic/Amazon-AWS-Certifications
 <td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
 <div style="padding:0em 0.25em">
 <ul>
-<li><a href="/wiki/Cloud_database" title="Cloud database">Cloud database</a></li>
-<li><a href="/wiki/Data_center" title="Data center">Data centers</a></li>
-<li><a href="/wiki/Distributed_file_system_for_cloud" title="Distributed file system for cloud">Distributed file system for cloud</a></li>
-<li><a href="/wiki/Hardware_virtualization" title="Hardware virtualization">Hardware virtualization</a></li>
-<li><a href="/wiki/Internet" title="Internet">Internet</a></li>
-<li><a href="/wiki/Computer_network" title="Computer network">Networking</a></li>
-<li><a href="/wiki/Cloud_computing_security" title="Cloud computing security">Security</a></li>
-<li><a href="/wiki/Comparison_of_structured_storage_software" title="Comparison of structured storage software">Structured storage</a></li>
-<li><a href="/wiki/Virtual_appliance" title="Virtual appliance">Virtual appliance</a></li>
-<li><a href="/wiki/Web_API" title="Web API">Web APIs</a></li>
-<li><a href="/wiki/Virtual_private_cloud" title="Virtual private cloud">Virtual private cloud</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cloud_database" title="Cloud database">Cloud database</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Data_center" title="Data center">Data centers</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Distributed_file_system_for_cloud" title="Distributed file system for cloud">Distributed file system for cloud</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hardware_virtualization" title="Hardware virtualization">Hardware virtualization</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Internet" title="Internet">Internet</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Computer_network" title="Computer network">Networking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cloud_computing_security" title="Cloud computing security">Security</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Comparison_of_structured_storage_software" title="Comparison of structured storage software">Structured storage</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Virtual_appliance" title="Virtual appliance">Virtual appliance</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Web_API" title="Web API">Web APIs</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Virtual_private_cloud" title="Virtual private cloud">Virtual private cloud</a></li>
 </ul>
 </div>
 </td>
@@ -547,3 +547,31 @@ Amazon AWS Certifications](https://www.quora.com/topic/Amazon-AWS-Certifications
 <li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cloudstandardscustomercouncil.org/10052011.htm">"Untitled Document"</a>. <i>www.cloudstandardscustomercouncil.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">11 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.cloudstandardscustomercouncil.org&amp;rft.atitle=Untitled+Document&amp;rft_id=http%3A%2F%2Fwww.cloudstandardscustomercouncil.org%2F10052011.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIBM+cloud+computing" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
 </ol>
 
+
+## heroku ref
+
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.crunchbase.com/organization/heroku#/entity">"Heroku"</a>. Crunchbase<span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Heroku&amp;rft.pub=Crunchbase&amp;rft_id=https%3A%2F%2Fwww.crunchbase.com%2Forganization%2Fheroku%23%2Fentity&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://stackoverflow.com/tags/heroku/info">"About Heroku"</a>. Stack Overflow<span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=About+Heroku&amp;rft.pub=Stack+Overflow&amp;rft_id=https%3A%2F%2Fstackoverflow.com%2Ftags%2Fheroku%2Finfo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Salesforce.com Buys Heroku For $212 Million In Cash <a rel="nofollow" class="external free" href="https://techcrunch.com/2010/12/08/breaking-salesforce-buys-heroku-for-212-million-in-cash/">https://techcrunch.com/2010/12/08/breaking-salesforce-buys-heroku-for-212-million-in-cash/</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://www.crunchbase.com/person/james-lindenbaum">"James Lindenbaum - Founder @ Heavybit - crunchbase"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=James+Lindenbaum+-+Founder+%40+Heavybit+-+crunchbase&amp;rft_id=https%3A%2F%2Fwww.crunchbase.com%2Fperson%2Fjames-lindenbaum&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://about.adamwiggins.com">"Adam Wiggins"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Adam+Wiggins&amp;rft_id=http%3A%2F%2Fabout.adamwiggins.com&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://www.linkedin.com/in/orion-henry-9056727">https://www.linkedin.com/in/orion-henry-9056727</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://techcrunch.com/2008/05/08/ruby-on-rails-startup-heroku-gets-3-million"><i>Ruby on Rails Startup Heroku Gets $3 Million</i></a>, Tech Crunch, 2008-05-08</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ruby+on+Rails+Startup+Heroku+Gets+%243+Million&amp;rft.pub=Tech+Crunch&amp;rft.date=2008-05-08&amp;rft_id=https%3A%2F%2Ftechcrunch.com%2F2008%2F05%2F08%2Fruby-on-rails-startup-heroku-gets-3-million&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="https://venturebeat.com/2009/10/14/sourcelabs-byron-sebastian-joins-heroku-as-ceo"><i>SourceLabs' Byron Sebastian Joins Heroku as CEO</i></a>, Venture Beat, 2009-10-14</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=SourceLabs%27+Byron+Sebastian+Joins+Heroku+as+CEO&amp;rft.pub=Venture+Beat&amp;rft.date=2009-10-14&amp;rft_id=https%3A%2F%2Fventurebeat.com%2F2009%2F10%2F14%2Fsourcelabs-byron-sebastian-joins-heroku-as-ceo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.rubyinside.com/rubys-creator-matz-joins-heroku-5101.html"><i>Ruby’s Creator, Matz, Joins Heroku</i></a> (article), Ruby Inside, 2011-07-12</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ruby%E2%80%99s+Creator%2C+Matz%2C+Joins+Heroku&amp;rft.pub=Ruby+Inside&amp;rft.date=2011-07-12&amp;rft_id=http%3A%2F%2Fwww.rubyinside.com%2Frubys-creator-matz-joins-heroku-5101.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://www.adweek.com/socialtimes/heroku-hosting/268563"><i>Facebook Partners With Heroku to Offer Developers Free Sample Application Hosting</i></a>, Social Times</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Facebook+Partners+With+Heroku+to+Offer+Developers+Free+Sample+Application+Hosting&amp;rft.pub=Social+Times&amp;rft_id=http%3A%2F%2Fwww.adweek.com%2Fsocialtimes%2Fheroku-hosting%2F268563&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://redislabs.com/blog/six-things-to-consider-when-using-redis-on-heroku#.VtcXgpMrKL8">"Six Things to Consider When Using Redis on Heroku"</a>. Redis Labs<span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Six+Things+to+Consider+When+Using+Redis+on+Heroku&amp;rft.pub=Redis+Labs&amp;rft_id=https%3A%2F%2Fredislabs.com%2Fblog%2Fsix-things-to-consider-when-using-redis-on-heroku%23.VtcXgpMrKL8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation"><a rel="nofollow" class="external text" href="http://blog.heroku.com/archives/2010/7/20/nosql/"><i>NoSQL, Heroku, and You</i></a> (weblog), Heroku, 2010-07-20</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=NoSQL%2C+Heroku%2C+and+You&amp;rft.pub=Heroku&amp;rft.date=2010-07-20&amp;rft_id=http%3A%2F%2Fblog.heroku.com%2Farchives%2F2010%2F7%2F20%2Fnosql%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://railsapps.github.io/rails-heroku-tutorial.html">"Rails Heroku Tutorial"</a>. RailsApps Project<span class="reference-accessdate">. Retrieved <span class="nowrap">March 2,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Rails+Heroku+Tutorial&amp;rft.pub=RailsApps+Project&amp;rft_id=https%3A%2F%2Frailsapps.github.io%2Frails-heroku-tutorial.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://news.ycombinator.com/item?id=815855">"The term is merger of "Hero" and "Haiku". | Hacker News"</a>. <i>news.ycombinator.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=news.ycombinator.com&amp;rft.atitle=The+term+is+merger+of+%22Hero%22+and+%22Haiku%22.+%7C+Hacker+News&amp;rft_id=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D815855&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://qr.ae/1dTQpu">"Douglas Drumond's answer to What does Heroku mean? - Quora"</a>. <i>qr.ae</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-08-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=qr.ae&amp;rft.atitle=Douglas+Drumond%27s+answer+to+What+does+Heroku+mean%3F+-+Quora&amp;rft_id=http%3A%2F%2Fqr.ae%2F1dTQpu&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://searchitoperations.techtarget.com/definition/application-containerization-app-containerization">"What is application containerization (app containerization)? - Definition from WhatIs.com"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=What+is+application+containerization+%28app+containerization%29%3F+-+Definition+from+WhatIs.com&amp;rft_id=http%3A%2F%2Fsearchitoperations.techtarget.com%2Fdefinition%2Fapplication-containerization-app-containerization&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://devcenter.heroku.com/articles/dynos">"Dynos and the Dyno Manager - Heroku Dev Center"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Dynos+and+the+Dyno+Manager+-+Heroku+Dev+Center&amp;rft_id=https%3A%2F%2Fdevcenter.heroku.com%2Farticles%2Fdynos&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.quora.com/Scalability/How-does-Heroku-work">"Scalability: How does Heroku work? - Quora"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Scalability%3A+How+does+Heroku+work%3F+-+Quora&amp;rft_id=http%3A%2F%2Fwww.quora.com%2FScalability%2FHow-does-Heroku-work&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://devcenter.heroku.com/articles/deploying-nodejs">"Deploying Node.js Apps on Heroku - Heroku Dev Center"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Deploying+Node.js+Apps+on+Heroku+-+Heroku+Dev+Center&amp;rft_id=https%3A%2F%2Fdevcenter.heroku.com%2Farticles%2Fdeploying-nodejs&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">{{cite web|url=<a rel="nofollow" class="external free" href="https://www.heroku.com/policy/security%7Ctitle=Heroku">https://www.heroku.com/policy/security%7Ctitle=Heroku</a> Security|accessdate=1 December 2017}} }}</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://devcenter.heroku.com/articles/how-heroku-works#logging-and-monitoring">"Heroku Working Model"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Heroku+Working+Model&amp;rft_id=https%3A%2F%2Fdevcenter.heroku.com%2Farticles%2Fhow-heroku-works%23logging-and-monitoring&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-:0-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><i>Heroku Cloud Application Development</i>. Packt Publishing Ltd. 2014.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Heroku+Cloud+Application+Development&amp;rft.pub=Packt+Publishing+Ltd.&amp;rft.date=2014&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://devcenter.heroku.com/articles/procfile">"Process Types and the Procfile - Heroku Dev Center"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">22 October</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Process+Types+and+the+Procfile+-+Heroku+Dev+Center&amp;rft_id=https%3A%2F%2Fdevcenter.heroku.com%2Farticles%2Fprocfile&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeroku" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
