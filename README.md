@@ -15,7 +15,7 @@
 *********************
 
 
-Case Study : [The Four - List of products, services, mergers and acquisitions of Amazon, Apple, Facebook, and Google](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/the-four)
+Case Study : [The Four](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/the-four)
 
 -------------
 
