@@ -2,7 +2,7 @@
 ## casestudy : cloud in action(gcp,aws,azure,bluemix)
 
 * **cloud :** gcp,aws,azure,bluemix
-* **deployment and hostong services :** Heroku 
+* **deployment and hosting services :** Heroku 
 
 ----------------------
 
@@ -34,6 +34,147 @@ WordPress Hosting](https://www.quora.com/topic/WordPress-Hosting) | [Bluehost](h
 (GCM)](https://www.quora.com/topic/Google-Cloud-Messaging-GCM) | [Azure Machine Learning](https://www.quora.com/topic/Azure-Machine-Learning) | [Amazon Elastic Beanstalk](https://www.quora.com/topic/Amazon-Elastic-Beanstalk) | [Amazon RDS](https://www.quora.com/topic/Amazon-RDS) | [Amazon Redshift](https://www.quora.com/topic/Amazon-Redshift) | [Data Warehousing](https://www.quora.com/topic/Data-Warehousing) | [Amazon DynamoDB](https://www.quora.com/topic/Amazon-DynamoDB) | [
 Amazon AWS Certifications](https://www.quora.com/topic/Amazon-AWS-Certifications) | [Web Services](https://www.quora.com/topic/Web-Services) | [REST
 (software architectural style)](https://www.quora.com/topic/REST-software-architectural-style) |
+
+--------------------------
+
+<div role="navigation" class="navbox" aria-labelledby="Cloud_computing" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+</div>
+<div id="Cloud_computing" style="font-size:114%;margin:0 4em"><a href="/wiki/Cloud_computing" title="Cloud computing">Cloud computing</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Software_as_a_service" title="Software as a service">Applications</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Box_(company)" title="Box (company)">Box</a></li>
+<li><a href="/wiki/Google" title="Google">Google</a>
+<ul>
+<li><a href="/wiki/G_Suite" title="G Suite">G Suite</a></li>
+<li><a href="/wiki/Google_Docs,_Sheets_and_Slides" class="mw-redirect" title="Google Docs, Sheets and Slides">Docs, Sheets and Slides</a></li>
+</ul>
+</li>
+<li><a href="/wiki/HP_Cloud" title="HP Cloud">HP Cloud</a> (closed)</li>
+<li><a href="/wiki/Microsoft_Online_Services" title="Microsoft Online Services">Microsoft Online</a></li>
+<li><a href="/wiki/Rackspace" title="Rackspace">Rackspace</a></li>
+<li><a href="/wiki/Salesforce.com" title="Salesforce.com">Salesforce</a></li>
+<li><a href="/wiki/Zoho_Corporation" title="Zoho Corporation">Zoho</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Platform_as_a_service" title="Platform as a service">Platforms</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alpha7" title="Alpha7">Alpha7</a></li>
+<li><a href="/wiki/Amazon_Web_Services" title="Amazon Web Services">Amazon</a></li>
+<li><a href="/wiki/AppScale" title="AppScale">AppScale</a></li>
+<li><a href="/wiki/Box_(company)" title="Box (company)">Box</a></li>
+<li><a href="/wiki/Bluemix" title="Bluemix">Bluemix</a></li>
+<li><a href="/wiki/Cloud_Foundry" title="Cloud Foundry">Cloud Foundry</a></li>
+<li><a href="/wiki/Cocaine_(PaaS)" title="Cocaine (PaaS)">Cocaine (PaaS)</a></li>
+<li><a href="/wiki/Engine_Yard" title="Engine Yard">Engine Yard</a></li>
+<li><a href="/wiki/EXo_Platform" title="EXo Platform">eXo Platform</a></li>
+<li><a href="/wiki/HPE_Helion" title="HPE Helion">Helion</a></li>
+<li><a href="/wiki/Predix_(software)" title="Predix (software)">GE Predix</a></li>
+<li><a href="/wiki/Google_App_Engine" title="Google App Engine">Google App Engine</a></li>
+<li><a href="/wiki/GreenQloud" title="GreenQloud">GreenQloud</a></li>
+<li><a class="mw-selflink selflink">Heroku</a></li>
+<li><a href="/wiki/Inktank_Storage" title="Inktank Storage">Inktank</a></li>
+<li><a href="/wiki/Jelastic" title="Jelastic">Jelastic</a></li>
+<li><a href="/wiki/Mendix" title="Mendix">Mendix</a></li>
+<li><a href="/wiki/Microsoft_Azure" title="Microsoft Azure">Microsoft Azure</a></li>
+<li><a href="/wiki/OutSystems" title="OutSystems">OutSystems</a></li>
+<li><a href="/wiki/OpenQRM" title="OpenQRM">openQRM</a></li>
+<li><a href="/wiki/OpenShift" title="OpenShift">OpenShift</a></li>
+<li><a href="/wiki/PythonAnywhere" title="PythonAnywhere">PythonAnywhere</a></li>
+<li><a href="/wiki/RightScale" title="RightScale">RightScale</a></li>
+<li><a href="/wiki/Salesforce.com#Force.com" title="Salesforce.com">Force.com</a></li>
+<li><a href="/wiki/SAP_Cloud_Platform" title="SAP Cloud Platform">SAP Cloud Platform</a></li>
+<li><a href="/wiki/VMware_vCloud_Air" class="mw-redirect" title="VMware vCloud Air">VMware vCloud Air</a></li>
+<li><a href="/wiki/WaveMaker" title="WaveMaker">WaveMaker</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Infrastructure_as_a_service" title="Infrastructure as a service">Infrastructure</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amazon_Web_Services" title="Amazon Web Services">Amazon</a></li>
+<li><a href="/wiki/Abiquo_Enterprise_Edition" title="Abiquo Enterprise Edition">Abiquo Enterprise Edition</a></li>
+<li><a href="/wiki/Apache_CloudStack" title="Apache CloudStack">CloudStack</a></li>
+<li><a href="/wiki/CtrlS" title="CtrlS">CtrlS</a></li>
+<li><a href="/wiki/DigitalOcean" title="DigitalOcean">DigitalOcean</a></li>
+<li><a href="/wiki/EMC_Atmos" title="EMC Atmos">EMC Atmos</a></li>
+<li><a href="/wiki/Eucalyptus_(software)" title="Eucalyptus (software)">Eucalyptus</a></li>
+<li><a href="/wiki/FUJITSU_Cloud_IaaS_Trusted_Public_S5" title="FUJITSU Cloud IaaS Trusted Public S5">Fujitsu</a></li>
+<li><a href="/wiki/GoGrid" title="GoGrid">GoGrid</a></li>
+<li><a href="/wiki/Google_Cloud_Platform" title="Google Cloud Platform">Google Cloud Platform</a></li>
+<li><a href="/wiki/GreenButton" title="GreenButton">GreenButton</a></li>
+<li><a href="/wiki/GreenQloud" title="GreenQloud">GreenQloud</a></li>
+<li><a href="/wiki/IBM_cloud_computing" title="IBM cloud computing">IBM cloud computing</a></li>
+<li><a href="/wiki/Iland" title="Iland">iland</a></li>
+<li><a href="/wiki/Joyent" title="Joyent">Joyent</a></li>
+<li><a href="/wiki/Lunacloud" title="Lunacloud">Lunacloud</a></li>
+<li><a href="/wiki/Nimbula" title="Nimbula">Nimbula</a></li>
+<li><a href="/wiki/Nimbus_(cloud_computing)" title="Nimbus (cloud computing)">Nimbus</a></li>
+<li><a href="/wiki/OpenNebula" title="OpenNebula">OpenNebula</a></li>
+<li><a href="/wiki/OpenStack" title="OpenStack">OpenStack</a></li>
+<li><a href="/wiki/OrionVM" title="OrionVM">OrionVM</a></li>
+<li><a href="/wiki/Rackspace_Cloud" title="Rackspace Cloud">Rackspace Cloud</a></li>
+<li><a href="/wiki/SoftLayer" title="SoftLayer">SoftLayer</a></li>
+<li><a href="/wiki/Zadara_Storage" title="Zadara Storage">Zadara Storage</a></li>
+<li><a href="/wiki/Libvirt" title="Libvirt">libvirt</a></li>
+<li><a href="/wiki/Libguestfs" title="Libguestfs">libguestfs</a></li>
+<li><a href="/wiki/OVirt" title="OVirt">OVirt</a></li>
+<li><a href="/wiki/Virtual_Machine_Manager" title="Virtual Machine Manager">Virtual Machine Manager</a></li>
+<li><a href="/wiki/Wakame-vdc" title="Wakame-vdc">Wakame-vdc</a></li>
+<li><a href="/wiki/Virtual_Private_Cloud_OnDemand" class="mw-redirect" title="Virtual Private Cloud OnDemand">Virtual Private Cloud OnDemand</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Technologies</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cloud_database" title="Cloud database">Cloud database</a></li>
+<li><a href="/wiki/Data_center" title="Data center">Data centers</a></li>
+<li><a href="/wiki/Distributed_file_system_for_cloud" title="Distributed file system for cloud">Distributed file system for cloud</a></li>
+<li><a href="/wiki/Hardware_virtualization" title="Hardware virtualization">Hardware virtualization</a></li>
+<li><a href="/wiki/Internet" title="Internet">Internet</a></li>
+<li><a href="/wiki/Computer_network" title="Computer network">Networking</a></li>
+<li><a href="/wiki/Cloud_computing_security" title="Cloud computing security">Security</a></li>
+<li><a href="/wiki/Comparison_of_structured_storage_software" title="Comparison of structured storage software">Structured storage</a></li>
+<li><a href="/wiki/Virtual_appliance" title="Virtual appliance">Virtual appliance</a></li>
+<li><a href="/wiki/Web_API" title="Web API">Web APIs</a></li>
+<li><a href="/wiki/Virtual_private_cloud" title="Virtual private cloud">Virtual private cloud</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <b><a href="/wiki/Category:Cloud_computing" title="Category:Cloud computing">Category</a></b></li>
+<li><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Cloud_computing" class="extiw" title="commons:Category:Cloud computing"><b>Commons</b></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
 
 
 ----------------------------
