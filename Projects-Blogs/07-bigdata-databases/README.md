@@ -58,6 +58,8 @@ Redis](https://www.quora.com/topic/Redis) |  [MS SQL Server
 
 -------------
 * [big data products](https://en.wikipedia.org/wiki/Category:Big_data_products)
+* [Database management systems](https://en.wikipedia.org/wiki/Category:Database_management_systems)
+* [Data management software](https://en.wikipedia.org/wiki/Category:Data_management_software)
 
 <div role="navigation" class="navbox" aria-labelledby="Apache_Software_Foundation" style="padding:3px">
 <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
