@@ -15,7 +15,7 @@ This week I got some time for nodejs and related frameworks expressjs and meteor
 ****************************
 *****************************
 
-Before starting nodejs, lets learn about javascript history and basics of its working; 
+Before starting nodejs, lets learn about javascript history and basics of how it works; 
 ******************
 
 ![js-history](http://adrianmejia.com/images/history-javascript-evolution-es6.png)
