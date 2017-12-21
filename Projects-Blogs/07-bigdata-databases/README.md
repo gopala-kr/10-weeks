@@ -44,6 +44,19 @@ Web Analytics](https://www.quora.com/topic/Web-Analytics) |  [Business Analytics
 (product)](https://www.quora.com/topic/Google-Analytics-product) |  [Google Analytics API](https://www.quora.com/topic/Google-Analytics-API) |  [Predictive Analytics](https://www.quora.com/topic/Predictive-Analytics) |  [Predictive Modeling](https://www.quora.com/topic/Predictive-Modeling) |  [Mobile Analytics](https://www.quora.com/topic/Mobile-Analytics) |  [
 Mobile App Analytics](https://www.quora.com/topic/Mobile-App-Analytics) |  [Data Science Master's Programs](https://www.quora.com/topic/Data-Science-Masters-Programs-1) |  [Masters in Data Science](https://www.quora.com/topic/Masters-in-Data-Science) |      
 
+
+database tools
+
+| [Database Systems](https://www.quora.com/topic/Database-Systems) | [SQL](https://www.quora.com/topic/SQL) |  [MySQL](https://www.quora.com/topic/MySQL) |  [MySQL Performance](https://www.quora.com/topic/MySQL-Performance) |  [Database Administration](https://www.quora.com/topic/Database-Administration) |  [Database Theory](https://www.quora.com/topic/Database-Theory) |  [Database Design](https://www.quora.com/topic/Database-Design) |  [
+Relational Databases](https://www.quora.com/topic/Relational-Databases) |  [Graph Databases](https://www.quora.com/topic/Graph-Databases) |  [OrientDB](https://www.quora.com/topic/OrientDB) |  [Database Management Software](https://www.quora.com/topic/Database-Management-Software) |  [Neo4j](https://www.quora.com/topic/Neo4j) |  [Titan
+(graph database)](https://www.quora.com/topic/Titan-graph-database) |  [Online Social Network Graphs](https://www.quora.com/topic/Online-Social-Network-Graphs) |  [Facebook Graph API](https://www.quora.com/topic/Facebook-Graph-API) |  [
+Facebook Engineering](https://www.quora.com/topic/Facebook-Engineering) |  [Titan
+(graph database)](https://www.quora.com/topic/Titan-graph-database) |  [Oracle
+(company)](https://www.quora.com/topic/Oracle-company-1) |  [Oracle Database 12C](https://www.quora.com/topic/Oracle-Database-12C) |  [NoSQL](https://www.quora.com/topic/NoSQL) |  [CouchDB](https://www.quora.com/topic/CouchDB) |  [Cassandra
+(database)](https://www.quora.com/topic/Cassandra-database) |  [Memcached](https://www.quora.com/topic/Memcached) |  [
+Redis](https://www.quora.com/topic/Redis) |  [MS SQL Server
+(product)](https://www.quora.com/topic/MS-SQL-Server-product) |  [MongoDB](https://www.quora.com/topic/MongoDB) |  [Elasticsearch](https://www.quora.com/topic/Elasticsearch) |  [Oracle Database](https://www.quora.com/topic/Oracle-Database) |  [Database Management Software](https://www.quora.com/topic/Database-Management-Software) |  [Databases](https://www.quora.com/topic/Databases-2) |  [PostgreSQL](https://www.quora.com/topic/PostgreSQL) |  [PL/SQL](https://www.quora.com/topic/PL-SQL) |  [Oracle DBA](https://www.quora.com/topic/Oracle-DBA) |  [Couchbase](https://www.quora.com/topic/Couchbase) |  [Riak](https://www.quora.com/topic/Riak) |  [SQLAlchemy](https://www.quora.com/topic/SQLAlchemy) |  [InfluxDB](https://www.quora.com/topic/InfluxDB) |  [RethinkDB](https://www.quora.com/topic/RethinkDB) |  [Database Startups](https://www.quora.com/topic/Database-Startups) |  [PostgreSQL](https://www.quora.com/topic/PostgreSQL) |  [HBase](https://www.quora.com/topic/HBase) |  
+
 -------------
 
 
