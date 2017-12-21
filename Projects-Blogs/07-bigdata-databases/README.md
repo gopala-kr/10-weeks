@@ -26,7 +26,7 @@
 
 ----------------
 
-some usefull tags to understand bigdata tools
+some usefull tags to understand bigdata tools in simple words
 
 | [Big Data](https://www.quora.com/topic/Big-Data) | [Data Science](https://www.quora.com/topic/Data-Science) |  [Data Analysis](https://www.quora.com/topic/Data-Analysis) |  [
 Jobs and Careers in Data Science](https://www.quora.com/topic/Jobs-and-Careers-in-Data-Science) |  [Data Mining](https://www.quora.com/topic/Data-Mining) |  [Big Data Analysis](https://www.quora.com/topic/Big-Data-Analysis) |  [Big Data Analytics](https://www.quora.com/topic/Big-Data-Analytics-3) |  [Hadoop in Big Data](https://www.quora.com/topic/Hadoop-in-Big-Data) |  [Big Data Companies](https://www.quora.com/topic/Big-Data-Companies) |  [Masters in Data Science](https://www.quora.com/topic/Masters-in-Data-Science) |  [Data Analytics](https://www.quora.com/topic/Data-Analytics) |  [Big Data Careers](https://www.quora.com/topic/Big-Data-Careers-1) |  [Data Scientists](https://www.quora.com/topic/Data-Scientists-2) |  [Jobs and Careers in Data Science](https://www.quora.com/topic/Jobs-and-Careers-in-Data-Science) |  [
