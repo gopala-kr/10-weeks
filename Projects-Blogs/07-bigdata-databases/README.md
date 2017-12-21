@@ -58,6 +58,227 @@ Redis](https://www.quora.com/topic/Redis) |  [MS SQL Server
 
 -------------
 
+<div role="navigation" class="navbox" aria-labelledby="Apache_Software_Foundation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="3">
+<div class="plainlinks hlist navbar mini">
+<ul>
+
+</ul>
+</div>
+<div id="Apache_Software_Foundation" style="font-size:114%;margin:0 4em"><a href="https://en.wikipedia.org/wiki/Apache_Software_Foundation" title="Apache Software Foundation">Apache Software Foundation</a></div>
+</th>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Top level projects</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Accumulo" title="Apache Accumulo">Accumulo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_ActiveMQ" title="Apache ActiveMQ">ActiveMQ</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Ambari" title="Apache Ambari">Ambari</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Ant" title="Apache Ant">Ant</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Apex" title="Apache Apex">Apex</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Aries" title="Apache Aries">Aries</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_HTTP_Server" title="Apache HTTP Server">Apache HTTP Server</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Portable_Runtime" title="Apache Portable Runtime">APR</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Avro" title="Apache Avro">Avro</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Axis" title="Apache Axis">Axis</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Axis2" title="Apache Axis2">Axis2</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Beam" title="Apache Beam">Beam</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Bloodhound" title="Apache Bloodhound">Bloodhound</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Brooklyn" title="Apache Brooklyn">Brooklyn</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Buildr" title="Apache Buildr">Buildr</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Calcite" title="Apache Calcite">Calcite</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Camel" title="Apache Camel">Camel</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Cassandra" title="Apache Cassandra">Cassandra</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Cayenne" title="Apache Cayenne">Cayenne</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Chemistry" title="Apache Chemistry">Chemistry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_CloudStack" title="Apache CloudStack">CloudStack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Cocoon" title="Apache Cocoon">Cocoon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Cordova" title="Apache Cordova">Cordova</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CouchDB" title="CouchDB">CouchDB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/CTAKES" title="CTAKES">cTAKES</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_CXF" title="Apache CXF">CXF</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Derby" title="Apache Derby">Derby</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Directory" title="Apache Directory">Directory</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Drill" title="Apache Drill">Drill</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Empire-db" title="Apache Empire-db">Empire-db</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Felix" title="Apache Felix">Felix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Flex" title="Apache Flex">Flex</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Flink" title="Apache Flink">Flink</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Flume" title="Apache Flume">Flume</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Forrest" title="Apache Forrest">Forrest</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Geronimo" title="Apache Geronimo">Geronimo</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Gora" title="Apache Gora">Gora</a></li>
+<li><a href="/w/index.php?title=Apache_Guacamole&amp;action=edit&amp;redlink=1" class="new" title="Apache Guacamole (page does not exist)">Guacamole</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Gump" title="Apache Gump">Gump</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Hadoop" title="Apache Hadoop">Hadoop</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Hama" title="Apache Hama">Hama</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_HBase" title="Apache HBase">HBase</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Hive" title="Apache Hive">Hive</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Jackrabbit" title="Apache Jackrabbit">Jackrabbit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_James" title="Apache James">James</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jini" title="Jini">Jini</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_JMeter" title="Apache JMeter">JMeter</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Kafka" title="Apache Kafka">Kafka</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Kudu" title="Apache Kudu">Kudu</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Kylin" title="Apache Kylin">Kylin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Lucene" title="Apache Lucene">Lucene</a></li>
+<li><a class="mw-selflink selflink">Mahout</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Marmotta" title="Apache Marmotta">Marmotta</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Maven" title="Apache Maven">Maven</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_MINA" title="Apache MINA">MINA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mod_perl" title="Mod perl">mod_perl</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_MyFaces" title="Apache MyFaces">MyFaces</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Nutch" title="Apache Nutch">Nutch</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_ODE" title="Apache ODE">ODE</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_OFBiz" title="Apache OFBiz">OFBiz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Oozie" title="Apache Oozie">Oozie</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_OpenEJB" title="Apache OpenEJB">OpenEJB</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_OpenJPA" title="Apache OpenJPA">OpenJPA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/OpenNLP" class="mw-redirect" title="OpenNLP">OpenNLP</a></li>
+<li><a href="/w/index.php?title=A%D1%80ache_O%D1%80en_Office&amp;action=edit&amp;redlink=1" class="new" title="Aрache Oрen Office (page does not exist)">Oрen Office</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_PDFBox" title="Apache PDFBox">PDFBox</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Parquet" title="Apache Parquet">Parquet</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Phoenix" title="Apache Phoenix">Phoenix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_POI" title="Apache POI">POI</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pig_(programming_tool)" title="Pig (programming tool)">Pig</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Pivot" title="Apache Pivot">Pivot</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Qpid" title="Apache Qpid">Qpid</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Roller" title="Apache Roller">Roller</a></li>
+<li><a href="/w/index.php?title=Apache_RocketMQ&amp;action=edit&amp;redlink=1" class="new" title="Apache RocketMQ (page does not exist)">RocketMQ</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Samza" title="Apache Samza">Samza</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_ServiceMix" title="Apache ServiceMix">ServiceMix</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Shiro" title="Apache Shiro">Shiro</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Sling" title="Apache Sling">Sling</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Solr" title="Apache Solr">Solr</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Spark" title="Apache Spark">Spark</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Stanbol" title="Apache Stanbol">Stanbol</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Storm_(event_processor)" title="Storm (event processor)">Storm</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SpamAssassin" title="SpamAssassin">SpamAssassin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sqoop" title="Sqoop">Sqoop</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Struts_1" title="Apache Struts 1">Struts 1</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Struts_2" title="Apache Struts 2">Struts 2</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Subversion" title="Apache Subversion">Subversion</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_SystemML" title="Apache SystemML">SystemML</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Tapestry" title="Apache Tapestry">Tapestry</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Thrift" title="Apache Thrift">Thrift</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Tika" title="Apache Tika">Tika</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Tomcat" title="Apache Tomcat">Tomcat</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Traffic_Server" title="Traffic Server">Traffic Server</a></li>
+<li><a href="https://en.wikipedia.org/wiki/UIMA" title="UIMA">UIMA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Velocity" title="Apache Velocity">Velocity</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Wave" title="Apache Wave">Wave</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Wicket" title="Apache Wicket">Wicket</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Xalan" title="Xalan">Xalan</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Xerces" title="Xerces">Xerces</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Yetus" title="Apache Yetus">Yetus</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_ZooKeeper" title="Apache ZooKeeper">ZooKeeper</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="6" style="width:1px;padding:0px 0px 0px 2px">
+<div><a href="https://en.wikipedia.org/wiki/File:Apache_Software_Foundation_Logo_(2016).svg" class="image" title="ASF logo"><img alt="ASF logo" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/200px-Apache_Software_Foundation_Logo_%282016%29.svg.png" width="200" height="98" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/300px-Apache_Software_Foundation_Logo_%282016%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/400px-Apache_Software_Foundation_Logo_%282016%29.svg.png 2x" data-file-width="512" data-file-height="250" /></a></div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Apache_Commons" title="Apache Commons">Commons</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Byte_Code_Engineering_Library" title="Byte Code Engineering Library">BCEL</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bean_Scripting_Framework" title="Bean Scripting Framework">BSF</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Commons_Daemon" title="Commons Daemon">Daemon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Jelly" title="Apache Jelly">Jelly</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Commons_Logging" title="Apache Commons Logging">Logging</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Apache_Incubator" title="Apache Incubator">Incubator</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Apache_NetBeans" class="mw-redirect" title="Apache NetBeans">NetBeans</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Singa" class="mw-redirect" title="Apache Singa">SINGA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Trafodion" title="Apache Trafodion">Trafodion</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_XAP" title="Apache XAP">XAP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Other projects</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Batik_(software)" title="Batik (software)">Batik</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Chainsaw_(log_file_viewer)" title="Chainsaw (log file viewer)">Chainsaw</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Formatting_Objects_Processor" title="Formatting Objects Processor">FOP</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Ivy" title="Apache Ivy">Ivy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Log4j" title="Log4j">Log4j</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Apache_Attic" title="Apache Attic">Attic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Abdera" title="Apache Abdera">Abdera</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AxKit" title="AxKit">AxKit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Beehive" title="Apache Beehive">Beehive</a></li>
+<li><a href="https://en.wikipedia.org/wiki/BlueSky_Open_Platform" title="BlueSky Open Platform">Bluesky</a></li>
+<li><a href="https://en.wikipedia.org/wiki/IBATIS" title="IBATIS">iBATIS</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jakarta_Cactus" title="Jakarta Cactus">Cactus</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Click" title="Apache Click">Click</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Continuum" title="Apache Continuum">Continuum</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Deltacloud" title="Deltacloud">Deltacloud</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Etch_(protocol)" title="Etch (protocol)">Etch</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Excalibur" title="Apache Excalibur">Excalibur</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Harmony" title="Apache Harmony">Harmony</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_HiveMind" title="Apache HiveMind">HiveMind</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jakarta_Project" title="Jakarta Project">Jakarta</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Lenya" title="Apache Lenya">Lenya</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Shale" title="Apache Shale">Shale</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Shindig" title="Apache Shindig">Shindig</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Jakarta_Slide" title="Jakarta Slide">Slide</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_C%2B%2B_Standard_Library" title="Apache C++ Standard Library">stdcxx</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Tuscany" title="Apache Tuscany">Tuscany</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apache_Wink" title="Apache Wink">Wink</a></li>
+<li><a href="https://en.wikipedia.org/wiki/XMLBeans" title="XMLBeans">XMLBeans</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:1%">Licenses</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Apache_License" title="Apache License">Apache License</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+-----------------
+
 
 ## Ref
 
