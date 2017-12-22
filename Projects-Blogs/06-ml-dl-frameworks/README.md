@@ -54,6 +54,12 @@ AI in action
 ![hai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
 ![fin](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/03/AI-in-FinTech-Market-Map-Image3.png)
 ![agr](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/07/AI_robotics_Agriculture1.png)
+![cybr](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Cyber-Threat-Table-Body-Image-1.png)
+![patent](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/AI_patents_startups.png)
+![vica](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/Vicarious-patents.png)
+![kinder](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/kindred-patents.png)
+![numenta](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/numenta-patents.png)
+
 ---------------
 
 ### list of pretrained models
