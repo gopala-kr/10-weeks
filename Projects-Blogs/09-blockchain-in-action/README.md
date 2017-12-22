@@ -959,7 +959,8 @@ encryption</a> modes</th>
 ![R3](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11114004/2017.10.02-R3.png)
 
 ---------------------
-![ibm] (https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/06181049/IBM-Blockchain-Consortium-Slide.jpg)
+
+![ibm](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/06181049/IBM-Blockchain-Consortium-Slide.jpg)
 ![food](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/13124802/CBI-Global-food-supply-chain-infographic.png)
 ![foods](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/18101901/12.18.2017-Blockchain-Food-Startups-BSG.jpg)
 ![and](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/28121730/2017.11.27-AH-OSV-Blockchain-Investments-Timeline.png)
