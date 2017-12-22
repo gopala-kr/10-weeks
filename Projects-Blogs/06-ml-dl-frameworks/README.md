@@ -52,6 +52,7 @@ AI in action
 ![aic](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Cyber-Ai-Market-Map-6.17-body-image-3.png)
 ![chip](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/08/29140322/Chip-BSG-Final.png)
 ![hai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
+![fin](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/03/AI-in-FinTech-Market-Map-Image3.png)
 ---------------
 
 ### list of pretrained models
