@@ -51,6 +51,7 @@ AI in action
 ![mm](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/AI-in-Commerce-Market-Map.png)
 ![aic](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Cyber-Ai-Market-Map-6.17-body-image-3.png)
 ![chip](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/08/29140322/Chip-BSG-Final.png)
+![hai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
 ---------------
 
 ### list of pretrained models
@@ -62,7 +63,7 @@ AI in action
 * [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch#torchvision)
 * [github-topic-pretrained](https://github.com/topics/pretrained-models?o=desc&s=stars)
 * [keras code examples](https://github.com/fchollet/keras-resources)
-* [hai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
+
 
 
 **********************
