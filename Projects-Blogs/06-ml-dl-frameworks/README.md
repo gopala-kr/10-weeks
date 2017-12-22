@@ -41,6 +41,13 @@ Some useful tags to understand AI in simple words:
 
 ------------------
 
+AI in action
+
+![ai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/AI_100_market_map_2017-NEW.png)
+
+
+---------------
+
 ### list of pretrained models
 
 * [Microsoft Cognitive Pretrained Model Gallery](https://www.microsoft.com/en-us/cognitive-toolkit/features/model-gallery/)
