@@ -50,7 +50,7 @@ AI in action
 ![aiq](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnqAAAAJGNiZjU2MTZkLTc1ODgtNDg2My1hZGE3LTNkMjBiNjY4NmE5OQ.png)
 ![mm](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/AI-in-Commerce-Market-Map.png)
 ![aic](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Cyber-Ai-Market-Map-6.17-body-image-3.png)
-
+![chip](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/08/29140322/Chip-BSG-Final.png)
 ---------------
 
 ### list of pretrained models
