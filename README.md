@@ -12,11 +12,7 @@
 * [[Week-8](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/08-cloud-in-action)] 03-Dec-2017 - cloud in action
 * [[Week-9](https://github.com/gopala-kr/weekend-with-github/blob/master/Projects-Blogs/09-blockchain-in-action)] 10-Dec-2017 - blockchain in action
 * [[Week-10](https://github.com/gopala-kr/weekend-with-github/tree/master/Projects-Blogs/10-AR-VR-MR-in-action)] 17-Dec-2017 - ar, vr and mr in action
-*********************
 
-
-Case Study : [The Four](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/the-four)
 
 -------------
 
-if you found something useful [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/gopala-kr) :blush:
