@@ -39,27 +39,6 @@ Some useful tags to understand AI in simple words:
 (CUDA)](https://www.quora.com/topic/Compute-Unified-Device-Architecture-CUDA) | [Pattern Recognition](https://www.quora.com/topic/Pattern-Recognition) | [Speech Recognition](https://www.quora.com/topic/Speech-Recognition) | [Generative Adversarial Networks](https://www.quora.com/topic/Generative-Adversarial-Networks-1) | [K-Means Algorithms](https://www.quora.com/topic/K-Means-Algorithms) | [Cluster analysis](https://www.quora.com/topic/Cluster-analysis) | [Semi-supervised Learning](https://www.quora.com/topic/Semi-supervised-Learning) | [Q-learning](https://www.quora.com/topic/Q-learning) |[Computational Neuroscience](https://www.quora.com/topic/Computational-Neuroscience) | [Cognitive Neuroscience](https://www.quora.com/topic/Cognitive-Neuroscience) | [Brain Training](https://www.quora.com/topic/Brain-Training) | [Cognitive Psychology](https://www.quora.com/topic/Cognitive-Psychology) | [Behavioral Psychology](https://www.quora.com/topic/Behavioral-Psychology) | [Human Psychology](https://www.quora.com/topic/Human-Psychology) | [Brain Games](https://www.quora.com/topic/Brain-Games-1) | [Neurons](https://www.quora.com/topic/Neurons) | [Axon](https://www.quora.com/topic/Axon) | [Nerves](https://www.quora.com/topic/Nerves) | [Nervous System](https://www.quora.com/topic/Nervous-System) | [Brain-Computer Interfaces](https://www.quora.com/topic/Brain-Computer-Interfaces) | [Robotics](https://www.quora.com/topic/Robotics) | [Chatbots and Conversational Agents](https://www.quora.com/topic/Chatbots-and-Conversational-Agents) | [Bots
 (software)](https://www.quora.com/topic/Bots-software) | [Intelligence](https://www.quora.com/topic/Intelligence) |
 
-------------------
-
-AI in action
-
-> **[State-of-AI-2017](https://github.com/gopala-kr/10-weeks/blob/master/Projects-Blogs/06-ml-dl-frameworks/CB-Insights_State-of-AI.pdf)**
-
-
-![ai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/AI_100_market_map_2017-NEW.png)
-![aiq](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnqAAAAJGNiZjU2MTZkLTc1ODgtNDg2My1hZGE3LTNkMjBiNjY4NmE5OQ.png)
-![mm](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/AI-in-Commerce-Market-Map.png)
-![aic](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Cyber-Ai-Market-Map-6.17-body-image-3.png)
-![chip](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/08/29140322/Chip-BSG-Final.png)
-![hai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
-![fin](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/03/AI-in-FinTech-Market-Map-Image3.png)
-![agr](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/07/AI_robotics_Agriculture1.png)
-![cybr](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Cyber-Threat-Table-Body-Image-1.png)
-![patent](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/AI_patents_startups.png)
-![vica](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/Vicarious-patents.png)
-![kinder](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/kindred-patents.png)
-![numenta](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/numenta-patents.png)
-
 ---------------
 
 ### list of pretrained models
@@ -1384,3 +1363,25 @@ Normally Tensorflow can be used in all cased that torch can, but if you need to 
 --------------------
 
 
+------------------
+
+AI in action
+
+> **[State-of-AI-2017](https://github.com/gopala-kr/10-weeks/blob/master/Projects-Blogs/06-ml-dl-frameworks/CB-Insights_State-of-AI.pdf)**
+
+
+![ai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/AI_100_market_map_2017-NEW.png)
+![aiq](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnqAAAAJGNiZjU2MTZkLTc1ODgtNDg2My1hZGE3LTNkMjBiNjY4NmE5OQ.png)
+![mm](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/AI-in-Commerce-Market-Map.png)
+![aic](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Cyber-Ai-Market-Map-6.17-body-image-3.png)
+![chip](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/08/29140322/Chip-BSG-Final.png)
+![hai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
+![fin](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/03/AI-in-FinTech-Market-Map-Image3.png)
+![agr](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/07/AI_robotics_Agriculture1.png)
+![cybr](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Cyber-Threat-Table-Body-Image-1.png)
+![patent](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/AI_patents_startups.png)
+![vica](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/Vicarious-patents.png)
+![kinder](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/kindred-patents.png)
+![numenta](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/numenta-patents.png)
+
+-----------------------
