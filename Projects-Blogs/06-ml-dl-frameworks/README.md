@@ -43,6 +43,9 @@ Some useful tags to understand AI in simple words:
 
 AI in action
 
+> **[State-of-AI-2017](https://github.com/gopala-kr/10-weeks/blob/master/Projects-Blogs/06-ml-dl-frameworks/CB-Insights_State-of-AI.pdf)**
+
+
 ![ai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/AI_100_market_map_2017-NEW.png)
 
 
