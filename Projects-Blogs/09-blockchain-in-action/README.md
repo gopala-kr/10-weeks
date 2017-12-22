@@ -934,3 +934,27 @@ encryption</a> modes</th>
 <li id="cite_note-135"><span class="mw-cite-backlink"><b><a href="#cite_ref-135">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www3.weforum.org/docs/WEF_GAC15_Technological_Tipping_Points_report_2015.pdf#page=24">"Deep Shift: Technology Tipping Points and Societal Impact, Survey Report"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/World_Economic_Forum" title="World Economic Forum">World Economic Forum</a>. September 2015. p.&#160;24<span class="reference-accessdate">. Retrieved <span class="nowrap">7 November</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Deep+Shift%3A+Technology+Tipping+Points+and+Societal+Impact%2C+Survey+Report&amp;rft.pages=24&amp;rft.pub=World+Economic+Forum&amp;rft.date=2015-09&amp;rft_id=http%3A%2F%2Fwww3.weforum.org%2Fdocs%2FWEF_GAC15_Technological_Tipping_Points_report_2015.pdf%23page%3D24&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlockchain" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
 <li id="cite_note-136"><span class="mw-cite-backlink"><b><a href="#cite_ref-136">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="https://patseer.com/2017/03/patent-landscape-report-on-blockchain-by-patseer-pro/">"Patent Landscape Report on Blockchain by PatSeer Pro"</a>. <i>PatSeer</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-11-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=PatSeer&amp;rft.atitle=Patent+Landscape+Report+on+Blockchain+by+PatSeer+Pro&amp;rft_id=https%3A%2F%2Fpatseer.com%2F2017%2F03%2Fpatent-landscape-report-on-blockchain-by-patseer-pro%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABlockchain" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
 </ol>
+
+----------------------------
+
+![b-invest](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/14155253/2017.11.14-Blockchain-Annual-Deal-Share-by-Country.png)
+
+![eth](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11112349/2017.10.08-Ethereum-Price-vs.-ICO-vs.-VC-Deals.png)
+![ico](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11112420/2017.10.04-Venture-vs.-ICO-Funding.png)
+![ico market](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11112442/2017.10.04-ICO-Market-Map.png)
+![vc](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/20124846/2017.10.08-Most-Active-VCs1.png)
+![well-funded](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11112911/2017.10.09-Most-Well-Funded.png)
+![investors](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/23123026/2017.10.03-Smart-Money-BSG3.png)
+![pivotes](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113038/2017.10.09-Pivots.png)
+![filament](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113112/2017.10.03-Filament-BSG.png)
+![active](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113653/2017.10.02-Most-Active-Corporate-List2.png)
+![fin](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113717/2017.10.02-Financial-Services-Into-Blockchain.png)
+![usbanks](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113736/2017.10.02-Top-US-Banks-Blockchain-Activity.png)
+![hyperledger](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113824/2017.10.02-Hyperledger.png)
+![eth](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113857/2017.10.02-EEA.png)
+![eth-cont](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113919/2017.10.02-EEA-Members-By-Country.png)
+![ripple](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113945/2017.10.02-Ripple.png)
+![R3](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11114004/2017.10.02-R3.png)
+
+
+
