@@ -47,7 +47,7 @@ AI in action
 
 
 ![ai](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/AI_100_market_map_2017-NEW.png)
-![aiq](https://github.com/gopala-kr/10-weeks/blob/master/Projects-Blogs/06-ml-dl-frameworks/race_for_AI_12012016.png)
+![aiq](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnqAAAAJGNiZjU2MTZkLTc1ODgtNDg2My1hZGE3LTNkMjBiNjY4NmE5OQ.png)
 
 
 ---------------
