@@ -937,6 +937,8 @@ encryption</a> modes</th>
 
 ----------------------------
 
+### blockchain in action
+
 ![b-invest](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/14155253/2017.11.14-Blockchain-Annual-Deal-Share-by-Country.png)
 
 ![eth](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11112349/2017.10.08-Ethereum-Price-vs.-ICO-vs.-VC-Deals.png)
@@ -956,5 +958,25 @@ encryption</a> modes</th>
 ![ripple](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11113945/2017.10.02-Ripple.png)
 ![R3](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/11114004/2017.10.02-R3.png)
 
+---------------------
+![ibm] (https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/06181049/IBM-Blockchain-Consortium-Slide.jpg)
+![food](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/13124802/CBI-Global-food-supply-chain-infographic.png)
+![foods](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/12/18101901/12.18.2017-Blockchain-Food-Startups-BSG.jpg)
+![and](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/28121730/2017.11.27-AH-OSV-Blockchain-Investments-Timeline.png)
+
+![shipping](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/10145708/Maritime-Blockchain-Media-Mentions-Timeline.png)
+
+![mari](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/15111542/Maritime-Blockchain-Timeline_111517.png)
+
+![invest](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/07/18160948/2017.07.18-Quarterly-Trends.png)
+
+![road](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/15171319/Flexport-Funding-History.png)
+
+![bb](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/02/2017.02.16-Bitcoin-Blockchain-Global-Deal-Share-v2.png)
+
+![bbb](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/03/2017.02.22-Geographic-Heatmap-v2.8.png)
+
+---------------
+--------------------
 
 
