@@ -5,6 +5,7 @@
 
 some useful tags to understand blockchain tech and cryptocurrencies in simple words.
 
+
 | [Blockchain](https://www.quora.com/topic/Blockchain-database) | [Cryptocurrencies](https://www.quora.com/topic/Cryptocurrencies) | [Blockchain Technology](https://www.quora.com/topic/Blockchain-Technology) | [Ethereum
 (blockchain app platform)](https://www.quora.com/topic/Ethereum-blockchain-app-platform) | [Bitcoin](https://www.quora.com/topic/Bitcoin) | [
 Virtual Currencies](https://www.quora.com/topic/Virtual-Currencies) | [Smart Contracts](https://www.quora.com/topic/Smart-Contracts) | [Initial Coin Offerings
