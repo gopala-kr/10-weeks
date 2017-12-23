@@ -347,3 +347,12 @@ devices</th>
 <li><a href="/w/index.php?title=Reinhold_Behringer&amp;action=edit&amp;redlink=1" class="new" title="Reinhold Behringer (page does not exist)">Reinhold Behringer</a> performed important early work in image registration for augmented reality, and prototype wearable testbeds for augmented reality. He also co-organized the First IEEE International Symposium on Augmented Reality in 1998 (IWAR'98), and co-edited one of the first books on augmented reality.</li>
 <li><a href="https://en.wikipedia.org/wiki/Dieter_Schmalstieg" title="Dieter Schmalstieg">Dieter Schmalstieg</a> and <a href="/w/index.php?title=Daniel_Wagner_(researcher)&amp;action=edit&amp;redlink=1" class="new" title="Daniel Wagner (researcher) (page does not exist)">Daniel Wagner</a> developed a marker tracking systems for mobile phones and PDAs in 2009.</li>
 </ul>
+
+---------------------
+
+![Final](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/08/10110018/Final-rd-v3.png)
+
+![ARVR](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/03/ARVR-Stack-Final-9.png)
+![ARVR-a](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/07/ARVR-graphic-final.png)
+
+----------------
