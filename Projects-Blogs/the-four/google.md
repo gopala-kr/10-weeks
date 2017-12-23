@@ -15,7 +15,12 @@ wiki gives answers to most of our general questions, so lets start from there..
 * [Google Acquisition Tracker - CB Insights data](https://www.cbinsights.com/research-google-acquisitions)
 
 
-![gp](https://upload.wikimedia.org/wikipedia/commons/2/2a/Google_timeline.svg)
+![google](https://upload.wikimedia.org/wikipedia/commons/2/2a/Google_timeline.svg)
 
+![Google-biggest](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/12094806/Google-biggest-acquisitions-cbi.jpg) 
 
+![]()
 
+![]()
+![]()
+![]()
