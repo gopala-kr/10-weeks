@@ -13,7 +13,7 @@
 
 In this article my main focus is  on backend web frameworks(an overview) in different languages, and their offerings, project structure,  popularity(less time-less code-better performance).
 
-There are hundreds of frameworks out there, built to make web development easier. Every year there will be releases on new frameworks/improvements over existing ones. Below figure shows how the web frameworks have been evolving since from dot-com bubble. 
+There are hundreds of frameworks out there, built to make web development easier. Every year there are releases on new frameworks/improvements over existing ones. Below figure shows how the web frameworks have been evolving since from dot-com bubble. 
 
 ********************
 **a look into brief history of web frameworks** 
