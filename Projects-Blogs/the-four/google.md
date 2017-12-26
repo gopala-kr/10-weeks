@@ -425,3 +425,21 @@ wiki gives answers to most of our general questions, so lets start from there..
 </td>
 </tr>
 </table>
+
+
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://events.google.com/io">Official website</a></span></span></li>
+<li><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched&amp;hl=en">Official app</a></li>
+<li><a rel="nofollow" class="external text" href="http://sites.google.com/site/io/">Google I/O 2008 Session Videos and Slides</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.google.com/events/io/2009/sessions.html">Google I/O 2009 Session Videos and Slides</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.google.com/events/io/2010/sessions.html">Google I/O 2010 Session Videos and Slides</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.google.com/events/io/2011/sessions.html">Google I/O 2011 Session Videos and Slides</a></li>
+<li><a rel="nofollow" class="external text" href="http://developers.google.com/events/io/2012/">Google I/O 2012 Session Videos and Slides</a></li>
+<li><a rel="nofollow" class="external text" href="http://developers.google.com/events/io/2013/">Google I/O 2013 Session Videos and Slides</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.google.com/events/io">Google I/O 2014 Session Videos and Slides</a></li>
+<li><a rel="nofollow" class="external text" href="https://events.google.com/io2015/videos">Google I/O 2015 Session Videos</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/playlist?list=PLOU2XLYxmsILe6_eGvDN3GyiodoV3qNSC">Google I/O 2016 Session Videos</a></li>
+<li><a rel="nofollow" class="external text" href="https://twitter.com/googleio">Google I/O on Twitter</a> (official hashtags: #io2008, #io2009, #io2010, #io11, #io12, #io13, #io14, #io15, #io16, #io17)</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=G-36noTCaiA"><span class="plainlinks">Anatomy and Physiology of an Android</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+</ul>
