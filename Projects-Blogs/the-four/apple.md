@@ -399,11 +399,6 @@ directors</th>
 <tr>
 <th scope="col" class="navbox-title" colspan="2">
 <div class="plainlinks hlist navbar mini">
-<ul>
-<li class="nv-view"><a href="https://en.wikipedia.org/wiki/Template:Apple_celeb" title="Template:Apple celeb"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
-<li class="nv-talk"><a href="https://en.wikipedia.org/wiki/Template_talk:Apple_celeb" title="Template talk:Apple celeb"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
-<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Apple_celeb&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
-</ul>
 </div>
 <div id="Key_figures_in_the_history_of_Apple_Inc." style="font-size:114%;margin:0 4em">Key figures in the <a href="https://en.wikipedia.org/wiki/History_of_Apple_Inc." title="History of Apple Inc.">history of Apple Inc.</a></div>
 </th>
