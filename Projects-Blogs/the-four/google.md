@@ -31,7 +31,7 @@ wiki gives answers to most of our general questions, so lets start from there..
 
 -------------------
 
-<h2><span class="mw-headline" id="Conferences">Conferences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Google_I/O&amp;action=edit&amp;section=1" title="Edit section: Conferences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span class="mw-headline" id="Conferences">Conferences</span></h2>
 <table class="wikitable">
 <tr>
 <th style="background:#000080; color:#ffffff" colspan="6">I/O</th>
