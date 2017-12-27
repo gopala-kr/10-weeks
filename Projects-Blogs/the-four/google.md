@@ -427,7 +427,7 @@ wiki gives answers to most of our general questions, so lets start from there..
 </table>
 
 
-<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<h2><span class="mw-headline" id="External_links">links</span></h2>
 <ul>
 <li><span class="official-website"><span class="url"><a rel="nofollow" class="external text" href="https://events.google.com/io">Official website</a></span></span></li>
 <li><a rel="nofollow" class="external text" href="https://play.google.com/store/apps/details?id=com.google.samples.apps.iosched&amp;hl=en">Official app</a></li>
@@ -444,16 +444,16 @@ wiki gives answers to most of our general questions, so lets start from there..
 <li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=G-36noTCaiA"><span class="plainlinks">Anatomy and Physiology of an Android</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
 </ul>
 
+-------------------------
+
+
+
 <div role="navigation" class="navbox" aria-labelledby="Alphabet_Inc." style="padding:3px">
 <table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
 <tr>
 <th scope="col" class="navbox-title" colspan="2">
 <div class="plainlinks hlist navbar mini">
 <ul>
-<li class="nv-view"><a href="/wiki/Template:Alphabet_Inc." title="Template:Alphabet Inc."><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">v</abbr></a></li>
-<li class="nv-talk"><a href="/wiki/Template_talk:Alphabet_Inc." title="Template talk:Alphabet Inc."><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">t</abbr></a></li>
-<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Alphabet_Inc.&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;">e</abbr></a></li>
-</ul>
 </div>
 <div id="Alphabet_Inc." style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Alphabet Inc.</a></div>
 </th>
@@ -512,11 +512,7 @@ wiki gives answers to most of our general questions, so lets start from there..
 <tr>
 <td class="navbox-abovebelow" colspan="2">
 <div>
-<ul>
-<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Alphabet_Inc." title="Category:Alphabet Inc.">Category</a></li>
-<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Alphabet" title="Portal:Alphabet">Portal</a></li>
-<li><img alt="WikiProject" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" title="WikiProject" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" data-file-width="100" data-file-height="100" /> <a href="/wiki/Wikipedia:WikiProject_Google/Alphabet_Task_Force" class="mw-redirect" title="Wikipedia:WikiProject Google/Alphabet Task Force">Task Force</a></li>
-</ul>
+
 </div>
 </td>
 </tr>
@@ -1134,11 +1130,11 @@ tools</th>
 <tr>
 <td class="navbox-abovebelow" colspan="2">
 <div>
-<ul>
-<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Google" title="Category:Google">Category</a></li>
-<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Google" title="Portal:Google">Portal</a></li>
-</ul>
+
 </div>
 </td>
 </tr>
 </table>
+
+----------------
+
