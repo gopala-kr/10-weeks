@@ -422,6 +422,7 @@ wiki gives answers to most of our general questions, so lets start from there..
 </tr>
 </table>
 
+-------------
 
 <h2><span class="mw-headline" id="External_links">links</span></h2>
 <ul>
