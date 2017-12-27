@@ -22,11 +22,7 @@ wiki gives answers to most of our general questions, so lets start from there..
 
 ![Google-biggest](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/10/12094806/Google-biggest-acquisitions-cbi.jpg) 
 
-![]()
 
-![]()
-![]()
-![]()
 
 
 -------------------
