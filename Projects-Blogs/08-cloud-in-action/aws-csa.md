@@ -1,5 +1,5 @@
 
-![AWS- CSA Associate Logo](aws-csa-associate.png)
+
 # AWS CSA 2017 Study Guide
 
 
