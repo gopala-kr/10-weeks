@@ -44,6 +44,7 @@
 
 <h3>Related Subreddits</h3>
 
+
 <p><a href="https://www.reddit.com/r/Altcoin">/r/Altcoin</a> 
  <a href="https://www.reddit.com/r/Best_of_Crypto">/r/Best_of_Crypto</a>
  <a href="https://www.reddit.com/r/BitcoinMarkets">/r/BitcoinMarkets</a>
@@ -64,6 +65,7 @@
  <a href="https://www.reddit.com/r/OpenBazaar">/r/OpenBazaar</a> 
  <a href="https://www.reddit.com/r/XMRtrader">/r/XMRtrader</a>
  <a href="https://www.reddit.com/r/GPUmining">/r/GPUmining</a> </p>
+ 
 
 <h3>Related Tech Subreddits</h3>
 
