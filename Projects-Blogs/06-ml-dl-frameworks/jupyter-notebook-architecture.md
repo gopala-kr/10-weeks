@@ -5,6 +5,7 @@ Our team was able to make six pull requests regarding technical debt and bug fix
 A good overview of the whole project is given by analysing stakeholders and the context view.
 Next, various viewpoints and perspectives on the architecture of the project are investigated.
 This chapter aims to help people who would like to join the Jupyter community and make contributions, by providing extensive analysis of the project.</em></p>
+
 <h3 id="table-of-contents">Table of Contents</h3>
 <ul>
 <li><a href="#intro">Introduction</a></li>
