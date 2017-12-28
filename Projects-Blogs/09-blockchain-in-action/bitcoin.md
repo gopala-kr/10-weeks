@@ -1,4 +1,4 @@
-<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<table class="nowraplinks hlist collapsible autocollapse" style="border-spacing:0;background:transparent;color:inherit">
 <tr>
 <th scope="col" class="navbox-title" colspan="2">
 <div class="plainlinks hlist navbar mini">
